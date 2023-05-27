@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>Task</h2>
+
+<form method=post>
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Name</th>
+      <th>Task type</th>
+      <th>Priority weight</th>
+      <th>Pool</th>
+      <th>Upstreams</th>
+      <th>File path</th>
+      <th>Flag</th>
+      <th>Recursive</th>
+      <th>Min size</th>
+      <th>Ignore failed</th>
+      <th>Command template</th>
+    </tr>
+        <tr>
+          <td>{{task.id}}</td>
+          <td>{{task.name}}</td>
+          <td>{{task.task_type}}</td>
+          <td>{{task.priority_weight}}</td>
+          <td>{{task.pool}}</td>
+          {% if not task.upstreams %}
+            <td>NULL</td>
+          {% else %}
+            <td>{{task.upstreams}}</td>
+          {% endif %}
+          <td>{{task.filepath}}</td>
+          <td>{{task.flag}}</td>
+          <td>{{task.recursive}}</td>
+          <td>{{task.min_size}}</td>
+          <td>{{task.ignore_failed}}</td>
+          <td>{{task.command_template}}</td>
+          <td>
+            <button>
+              <a href="/testappbuilderbaseview/task/{{task.id}}/update">Update</a>
+            </button>
+          </td>
+          <td>
+            <button>
+              <a href="/testappbuilderbaseview/task/{{task.id}}/delete">Delete</a>
+            </button>
+          </td>
+          <td>
+            <button>
+              <a href="/testappbuilderbaseview/task/{{id_dag}}/view">Back</a>
+            </button>
+          </td>
+        </tr>
+  </table>
+</form>
+
+</body>
+</html>

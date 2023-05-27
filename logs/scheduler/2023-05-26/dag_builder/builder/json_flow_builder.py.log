@@ -1,0 +1,954 @@
+[2023-05-26T20:08:57.235+0700] {processor.py:157} INFO - Started process (PID=4514) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:08:57.235+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:08:57.236+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:08:57.236+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:08:57.237+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:08:57.247+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:09:28.067+0700] {processor.py:157} INFO - Started process (PID=4874) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:09:28.068+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:09:28.069+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:09:28.069+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:09:28.071+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:09:28.086+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.021 seconds
+[2023-05-26T20:09:58.260+0700] {processor.py:157} INFO - Started process (PID=5096) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:09:58.261+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:09:58.261+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:09:58.261+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:09:58.265+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:09:58.282+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.026 seconds
+[2023-05-26T20:10:28.431+0700] {processor.py:157} INFO - Started process (PID=5265) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:10:28.432+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:10:28.432+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:10:28.432+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:10:28.434+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:10:28.444+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:11:00.262+0700] {processor.py:157} INFO - Started process (PID=5449) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:11:00.263+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:11:00.264+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:11:00.264+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:11:00.268+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:11:00.289+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.032 seconds
+[2023-05-26T20:11:30.570+0700] {processor.py:157} INFO - Started process (PID=5759) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:11:30.571+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:11:30.571+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:11:30.571+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:11:30.572+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:11:30.582+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:12:00.709+0700] {processor.py:157} INFO - Started process (PID=6003) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:12:00.710+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:12:00.710+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:12:00.710+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:12:00.712+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:12:00.721+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.013 seconds
+[2023-05-26T20:12:31.849+0700] {processor.py:157} INFO - Started process (PID=6297) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:12:31.850+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:12:31.850+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:12:31.850+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:12:31.852+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:12:31.862+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:13:02.008+0700] {processor.py:157} INFO - Started process (PID=6465) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:13:02.009+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:13:02.009+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:13:02.009+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:13:02.011+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:13:02.021+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:13:33.112+0700] {processor.py:157} INFO - Started process (PID=6679) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:13:33.113+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:13:33.113+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:13:33.113+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:13:33.115+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:13:33.126+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T20:14:03.349+0700] {processor.py:157} INFO - Started process (PID=6823) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:14:03.350+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:14:03.350+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:14:03.350+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:14:03.352+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:14:03.362+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:14:33.765+0700] {processor.py:157} INFO - Started process (PID=7007) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:14:33.765+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:14:33.766+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:14:33.766+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:14:33.767+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:14:33.778+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26T20:15:04.242+0700] {processor.py:157} INFO - Started process (PID=7309) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:15:04.243+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:15:04.243+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:15:04.243+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:15:04.246+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:15:04.260+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.020 seconds
+[2023-05-26T20:15:34.696+0700] {processor.py:157} INFO - Started process (PID=7481) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:15:34.697+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:15:34.698+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:15:34.698+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:15:34.700+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:15:34.713+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.020 seconds
+[2023-05-26T20:16:05.067+0700] {processor.py:157} INFO - Started process (PID=7705) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:16:05.067+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:16:05.068+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:16:05.068+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:16:05.070+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:16:05.081+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T20:16:35.435+0700] {processor.py:157} INFO - Started process (PID=7876) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:16:35.436+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:16:35.437+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:16:35.437+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:16:35.438+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:16:35.448+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26T20:17:05.651+0700] {processor.py:157} INFO - Started process (PID=8155) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:17:05.651+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:17:05.652+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:17:05.652+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:17:05.653+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:17:05.662+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.013 seconds
+[2023-05-26T20:17:36.820+0700] {processor.py:157} INFO - Started process (PID=8296) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:17:36.821+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:17:36.821+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:17:36.821+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:17:36.823+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:17:36.832+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:18:07.335+0700] {processor.py:157} INFO - Started process (PID=8444) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:18:07.335+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:18:07.336+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:18:07.336+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:18:07.338+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:18:07.351+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.019 seconds
+[2023-05-26T20:18:37.642+0700] {processor.py:157} INFO - Started process (PID=8615) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:18:37.643+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:18:37.643+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:18:37.643+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:18:37.644+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:18:37.654+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.013 seconds
+[2023-05-26T20:19:07.891+0700] {processor.py:157} INFO - Started process (PID=8773) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:19:07.891+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:19:07.892+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:19:07.892+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:19:07.893+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:19:07.902+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.013 seconds
+[2023-05-26T20:19:38.147+0700] {processor.py:157} INFO - Started process (PID=8966) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:19:38.147+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:19:38.148+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:19:38.148+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:19:38.149+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:19:38.159+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:20:08.821+0700] {processor.py:157} INFO - Started process (PID=9117) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:20:08.822+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:20:08.822+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:20:08.822+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:20:08.824+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:20:08.833+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:20:39.006+0700] {processor.py:157} INFO - Started process (PID=9280) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:20:39.006+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:20:39.007+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:20:39.006+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:20:39.008+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:20:39.017+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:21:10.056+0700] {processor.py:157} INFO - Started process (PID=9447) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:21:10.057+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:21:10.057+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:21:10.057+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:21:10.059+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:21:10.068+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.013 seconds
+[2023-05-26T20:21:40.110+0700] {processor.py:157} INFO - Started process (PID=9610) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:21:40.110+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:21:40.110+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:21:40.110+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:21:40.112+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:21:40.122+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:22:10.269+0700] {processor.py:157} INFO - Started process (PID=9827) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:22:10.270+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:22:10.270+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:22:10.270+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:22:10.272+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:22:10.284+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T20:22:40.561+0700] {processor.py:157} INFO - Started process (PID=10095) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:22:40.562+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:22:40.562+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:22:40.562+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:22:40.564+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:22:40.574+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:23:10.867+0700] {processor.py:157} INFO - Started process (PID=10262) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:23:10.867+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:23:10.868+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:23:10.868+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:23:10.869+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:23:10.880+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26T20:23:41.224+0700] {processor.py:157} INFO - Started process (PID=10453) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:23:41.225+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:23:41.225+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:23:41.225+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:23:41.228+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:23:41.243+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.022 seconds
+[2023-05-26T20:24:11.330+0700] {processor.py:157} INFO - Started process (PID=10643) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:24:11.331+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:24:11.331+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:24:11.331+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:24:11.333+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:24:11.342+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:24:41.488+0700] {processor.py:157} INFO - Started process (PID=10799) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:24:41.488+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:24:41.489+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:24:41.489+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:24:41.490+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:24:41.500+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:25:11.518+0700] {processor.py:157} INFO - Started process (PID=11033) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:25:11.519+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:25:11.519+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:25:11.519+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:25:11.521+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:25:11.532+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T20:25:42.601+0700] {processor.py:157} INFO - Started process (PID=11176) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:25:42.602+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:25:42.602+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:25:42.602+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:25:42.604+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:25:42.613+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:26:13.640+0700] {processor.py:157} INFO - Started process (PID=11380) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:26:13.640+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:26:13.641+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:26:13.641+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:26:13.642+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:26:13.653+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26T20:26:34.366+0700] {processor.py:157} INFO - Started process (PID=11536) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:26:34.367+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:26:34.367+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:26:34.367+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:26:34.369+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:26:34.379+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26T20:27:05.464+0700] {processor.py:157} INFO - Started process (PID=11749) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:27:05.464+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:27:05.465+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:27:05.465+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:27:05.466+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:27:05.476+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:27:35.646+0700] {processor.py:157} INFO - Started process (PID=11925) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:27:35.647+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:27:35.647+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:27:35.647+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:27:35.649+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:27:35.661+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T20:28:06.759+0700] {processor.py:157} INFO - Started process (PID=12117) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:28:06.760+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:28:06.760+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:28:06.760+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:28:06.762+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:28:06.771+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:28:36.909+0700] {processor.py:157} INFO - Started process (PID=12290) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:28:36.910+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:28:36.910+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:28:36.910+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:28:36.912+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:28:36.921+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:29:08.207+0700] {processor.py:157} INFO - Started process (PID=12491) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:29:08.208+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:29:08.208+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:29:08.208+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:29:08.210+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:29:08.220+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:29:38.338+0700] {processor.py:157} INFO - Started process (PID=12677) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:29:38.338+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:29:38.339+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:29:38.339+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:29:38.340+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:29:38.350+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:30:08.572+0700] {processor.py:157} INFO - Started process (PID=12818) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:30:08.573+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:30:08.574+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:30:08.573+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:30:08.576+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:30:08.588+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.018 seconds
+[2023-05-26T20:30:39.299+0700] {processor.py:157} INFO - Started process (PID=13010) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:30:39.300+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:30:39.300+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:30:39.300+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:30:39.302+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:30:39.312+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:31:09.382+0700] {processor.py:157} INFO - Started process (PID=13215) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:31:09.383+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:31:09.383+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:31:09.383+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:31:09.385+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:31:09.395+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:31:36.763+0700] {processor.py:157} INFO - Started process (PID=13390) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:31:36.764+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:31:36.764+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:31:36.764+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:31:36.766+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:31:36.775+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:32:08.082+0700] {processor.py:157} INFO - Started process (PID=13609) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:32:08.083+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:32:08.083+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:32:08.083+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:32:08.086+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:32:08.101+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.022 seconds
+[2023-05-26T20:32:38.215+0700] {processor.py:157} INFO - Started process (PID=13937) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:32:38.215+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:32:38.216+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:32:38.216+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:32:38.217+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:32:38.228+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26T20:33:09.268+0700] {processor.py:157} INFO - Started process (PID=14109) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:33:09.269+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:33:09.269+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:33:09.269+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:33:09.271+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:33:09.283+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T20:33:40.409+0700] {processor.py:157} INFO - Started process (PID=14276) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:33:40.410+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:33:40.410+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:33:40.410+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:33:40.412+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:33:40.422+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:34:11.502+0700] {processor.py:157} INFO - Started process (PID=14441) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:34:11.503+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:34:11.503+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:34:11.503+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:34:11.505+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:34:11.514+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:34:41.893+0700] {processor.py:157} INFO - Started process (PID=14612) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:34:41.894+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:34:41.894+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:34:41.894+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:34:41.896+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:34:41.906+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:35:12.257+0700] {processor.py:157} INFO - Started process (PID=14932) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:35:12.257+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:35:12.258+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:35:12.257+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:35:12.259+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:35:12.269+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26T20:35:42.355+0700] {processor.py:157} INFO - Started process (PID=15147) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:35:42.355+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:35:42.356+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:35:42.356+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:35:42.357+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:35:42.369+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T20:36:12.720+0700] {processor.py:157} INFO - Started process (PID=15289) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:36:12.721+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T20:36:12.721+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:36:12.721+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:36:12.723+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T20:36:12.734+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26 21:05:20,593] {processor.py:153} INFO - Started process (PID=19323) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:05:20,594] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:05:20,594] {logging_mixin.py:115} INFO - [2023-05-26 21:05:20,594] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:05:20,597] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:05:20,606] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26 21:05:52,838] {processor.py:153} INFO - Started process (PID=21372) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:05:52,838] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:05:52,838] {logging_mixin.py:115} INFO - [2023-05-26 21:05:52,838] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:05:52,841] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:05:52,851] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26 21:06:24,894] {processor.py:153} INFO - Started process (PID=22999) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:06:24,895] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:06:24,895] {logging_mixin.py:115} INFO - [2023-05-26 21:06:24,895] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:06:24,898] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:06:24,909] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26 21:06:56,658] {processor.py:153} INFO - Started process (PID=24656) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:06:56,658] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:06:56,658] {logging_mixin.py:115} INFO - [2023-05-26 21:06:56,658] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:06:56,661] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:06:56,671] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26 21:07:28,982] {processor.py:153} INFO - Started process (PID=26354) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:07:28,983] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:07:28,983] {logging_mixin.py:115} INFO - [2023-05-26 21:07:28,983] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:07:28,986] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:07:28,995] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26 21:08:01,530] {processor.py:153} INFO - Started process (PID=28079) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:08:01,531] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:08:01,531] {logging_mixin.py:115} INFO - [2023-05-26 21:08:01,531] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:08:01,534] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:08:01,543] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26 21:08:35,334] {processor.py:153} INFO - Started process (PID=29778) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:08:35,335] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:08:35,335] {logging_mixin.py:115} INFO - [2023-05-26 21:08:35,335] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:08:35,339] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:08:35,353] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.022 seconds
+[2023-05-26 21:09:07,778] {processor.py:153} INFO - Started process (PID=31395) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:09:07,779] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:09:07,779] {logging_mixin.py:115} INFO - [2023-05-26 21:09:07,779] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:09:07,783] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:09:07,795] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.019 seconds
+[2023-05-26 21:09:39,872] {processor.py:153} INFO - Started process (PID=33043) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:09:39,873] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:09:39,873] {logging_mixin.py:115} INFO - [2023-05-26 21:09:39,873] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:09:39,876] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:09:39,885] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26 21:10:12,199] {processor.py:153} INFO - Started process (PID=34647) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:10:12,200] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:10:12,200] {logging_mixin.py:115} INFO - [2023-05-26 21:10:12,200] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:10:12,203] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:10:12,213] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26 21:10:44,803] {processor.py:153} INFO - Started process (PID=36293) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:10:44,803] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:10:44,804] {logging_mixin.py:115} INFO - [2023-05-26 21:10:44,804] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:10:44,807] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:10:44,818] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26 21:11:17,566] {processor.py:153} INFO - Started process (PID=37832) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:11:17,567] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:11:17,567] {logging_mixin.py:115} INFO - [2023-05-26 21:11:17,567] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:11:17,570] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:11:17,580] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26 21:11:49,199] {processor.py:153} INFO - Started process (PID=39528) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:11:49,199] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:11:49,200] {logging_mixin.py:115} INFO - [2023-05-26 21:11:49,200] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:11:49,202] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:11:49,212] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26 21:12:21,225] {processor.py:153} INFO - Started process (PID=41153) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:12:21,225] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:12:21,225] {logging_mixin.py:115} INFO - [2023-05-26 21:12:21,225] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:12:21,228] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:12:21,238] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26 21:12:53,733] {processor.py:153} INFO - Started process (PID=42756) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:12:53,733] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:12:53,734] {logging_mixin.py:115} INFO - [2023-05-26 21:12:53,734] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:12:53,737] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:12:53,749] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.018 seconds
+[2023-05-26 21:13:26,579] {processor.py:153} INFO - Started process (PID=44477) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:13:26,579] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:13:26,579] {logging_mixin.py:115} INFO - [2023-05-26 21:13:26,579] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:13:26,582] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:13:26,592] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26 21:13:58,999] {processor.py:153} INFO - Started process (PID=46160) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:13:58,999] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:13:59,000] {logging_mixin.py:115} INFO - [2023-05-26 21:13:58,999] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:13:59,002] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:13:59,012] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26 21:14:31,432] {processor.py:153} INFO - Started process (PID=47708) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:14:31,433] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:14:31,433] {logging_mixin.py:115} INFO - [2023-05-26 21:14:31,433] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:14:31,435] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:14:31,445] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.014 seconds
+[2023-05-26 21:15:03,864] {processor.py:153} INFO - Started process (PID=49249) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:15:03,864] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:15:03,864] {logging_mixin.py:115} INFO - [2023-05-26 21:15:03,864] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:15:03,867] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:15:03,877] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26 21:15:35,870] {processor.py:153} INFO - Started process (PID=50752) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:15:35,870] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:15:35,871] {logging_mixin.py:115} INFO - [2023-05-26 21:15:35,871] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:15:35,873] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:15:35,883] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26 21:16:08,866] {processor.py:153} INFO - Started process (PID=52146) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:16:08,871] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:16:08,871] {logging_mixin.py:115} INFO - [2023-05-26 21:16:08,871] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:16:08,875] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:16:08,889] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.026 seconds
+[2023-05-26 21:16:41,732] {processor.py:153} INFO - Started process (PID=53573) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:16:41,733] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:16:41,733] {logging_mixin.py:115} INFO - [2023-05-26 21:16:41,733] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:16:41,736] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:16:41,746] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26 21:17:15,006] {processor.py:153} INFO - Started process (PID=54968) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:17:15,006] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:17:15,007] {logging_mixin.py:115} INFO - [2023-05-26 21:17:15,007] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:17:15,010] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:17:15,024] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.020 seconds
+[2023-05-26 21:17:47,493] {processor.py:153} INFO - Started process (PID=56370) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:17:47,494] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:17:47,494] {logging_mixin.py:115} INFO - [2023-05-26 21:17:47,494] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:17:47,497] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:17:47,509] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26 21:18:20,179] {processor.py:153} INFO - Started process (PID=57776) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:18:20,179] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:18:20,180] {logging_mixin.py:115} INFO - [2023-05-26 21:18:20,180] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:18:20,182] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:18:20,192] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26 21:18:53,854] {processor.py:153} INFO - Started process (PID=59300) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:18:53,854] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:18:53,855] {logging_mixin.py:115} INFO - [2023-05-26 21:18:53,855] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:18:53,858] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:18:53,870] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.018 seconds
+[2023-05-26 21:19:27,314] {processor.py:153} INFO - Started process (PID=60720) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:19:27,315] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:19:27,315] {logging_mixin.py:115} INFO - [2023-05-26 21:19:27,315] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:19:27,318] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:19:27,335] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.023 seconds
+[2023-05-26 21:19:59,587] {processor.py:153} INFO - Started process (PID=62124) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:19:59,588] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:19:59,588] {logging_mixin.py:115} INFO - [2023-05-26 21:19:59,588] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:19:59,591] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:19:59,601] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26 21:20:32,582] {processor.py:153} INFO - Started process (PID=63555) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:20:32,583] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:20:32,583] {logging_mixin.py:115} INFO - [2023-05-26 21:20:32,583] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:20:32,585] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:20:32,596] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26 21:21:05,748] {processor.py:153} INFO - Started process (PID=64945) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:21:05,748] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:21:05,749] {logging_mixin.py:115} INFO - [2023-05-26 21:21:05,749] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:21:05,752] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:21:05,766] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.020 seconds
+[2023-05-26 21:21:39,247] {processor.py:153} INFO - Started process (PID=66514) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:21:39,247] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:21:39,248] {logging_mixin.py:115} INFO - [2023-05-26 21:21:39,248] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:21:39,252] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:21:39,266] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.020 seconds
+[2023-05-26 21:22:12,704] {processor.py:153} INFO - Started process (PID=67866) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:22:12,704] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:22:12,704] {logging_mixin.py:115} INFO - [2023-05-26 21:22:12,704] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:22:12,707] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:22:12,717] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26 21:22:45,672] {processor.py:153} INFO - Started process (PID=69360) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:22:45,677] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:22:45,677] {logging_mixin.py:115} INFO - [2023-05-26 21:22:45,677] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:22:45,680] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:22:45,691] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.021 seconds
+[2023-05-26 21:23:19,109] {processor.py:153} INFO - Started process (PID=70673) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:23:19,120] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:23:19,120] {logging_mixin.py:115} INFO - [2023-05-26 21:23:19,120] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:23:19,123] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:23:19,134] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.027 seconds
+[2023-05-26 21:23:51,805] {processor.py:153} INFO - Started process (PID=72014) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:23:51,806] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:23:51,806] {logging_mixin.py:115} INFO - [2023-05-26 21:23:51,806] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:23:51,809] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:23:51,823] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.019 seconds
+[2023-05-26 21:24:23,359] {processor.py:153} INFO - Started process (PID=73283) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:24:23,359] {processor.py:641} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26 21:24:23,359] {logging_mixin.py:115} INFO - [2023-05-26 21:24:23,359] {dagbag.py:507} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:24:23,361] {logging_mixin.py:115} INFO - [2023-05-26 21:24:23,361] {dagbag.py:320} ERROR - Failed to import: /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    self.file_last_changed[filepath] = file_last_changed_on_disk
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py", line 1, in <module>
+    from airflow.operators.dummy_operator import DummyOperator
+ModuleNotFoundError: No module named 'airflow.operators.dummy_operator'
+[2023-05-26 21:24:23,361] {processor.py:653} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26 21:24:23,385] {processor.py:161} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.028 seconds
+[2023-05-26T21:25:06.538+0700] {processor.py:157} INFO - Started process (PID=75942) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:25:06.539+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:25:06.540+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:25:06.540+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:25:06.541+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:25:06.553+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T21:25:37.581+0700] {processor.py:157} INFO - Started process (PID=76157) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:25:37.582+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:25:37.583+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:25:37.583+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:25:37.584+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:25:37.596+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:26:08.787+0700] {processor.py:157} INFO - Started process (PID=76335) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:26:08.787+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:26:08.789+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:26:08.788+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:26:08.790+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:26:08.802+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T21:26:38.996+0700] {processor.py:157} INFO - Started process (PID=76537) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:26:38.997+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:26:38.998+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:26:38.998+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:26:39.000+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:26:39.013+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.020 seconds
+[2023-05-26T21:27:09.332+0700] {processor.py:157} INFO - Started process (PID=76815) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:27:09.333+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:27:09.334+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:27:09.334+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:27:09.336+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:27:09.350+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.021 seconds
+[2023-05-26T21:27:39.406+0700] {processor.py:157} INFO - Started process (PID=77047) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:27:39.406+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:27:39.407+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:27:39.407+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:27:39.409+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:27:39.420+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:28:09.558+0700] {processor.py:157} INFO - Started process (PID=77326) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:28:09.559+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:28:09.560+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:28:09.560+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:28:09.561+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:28:09.572+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:28:39.666+0700] {processor.py:157} INFO - Started process (PID=77503) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:28:39.666+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:28:39.668+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:28:39.668+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:28:39.669+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:28:39.680+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T21:29:09.834+0700] {processor.py:157} INFO - Started process (PID=77679) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:29:09.834+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:29:09.836+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:29:09.836+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:29:09.837+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:29:09.849+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T21:29:41.069+0700] {processor.py:157} INFO - Started process (PID=77831) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:29:41.070+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:29:41.071+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:29:41.071+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:29:41.073+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:29:41.085+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.019 seconds
+[2023-05-26T21:30:11.162+0700] {processor.py:157} INFO - Started process (PID=78045) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:30:11.163+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:30:11.164+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:30:11.164+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:30:11.165+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:30:11.176+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:30:41.375+0700] {processor.py:157} INFO - Started process (PID=78195) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:30:41.376+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:30:41.377+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:30:41.377+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:30:41.378+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:30:41.390+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.018 seconds
+[2023-05-26T21:31:11.499+0700] {processor.py:157} INFO - Started process (PID=78446) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:31:11.499+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:31:11.500+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:31:11.500+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:31:11.502+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:31:11.513+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T21:31:41.632+0700] {processor.py:157} INFO - Started process (PID=78591) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:31:41.633+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:31:41.634+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:31:41.634+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:31:41.636+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:31:41.647+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T21:32:11.850+0700] {processor.py:157} INFO - Started process (PID=78800) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:32:11.851+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:32:11.852+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:32:11.852+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:32:11.853+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:32:11.865+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T21:32:42.056+0700] {processor.py:157} INFO - Started process (PID=78950) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:32:42.057+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:32:42.058+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:32:42.058+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:32:42.060+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:32:42.071+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:33:12.246+0700] {processor.py:157} INFO - Started process (PID=79123) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:33:12.247+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:33:12.248+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:33:12.248+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:33:12.249+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:33:12.261+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:33:42.603+0700] {processor.py:157} INFO - Started process (PID=79340) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:33:42.604+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:33:42.606+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:33:42.606+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:33:42.607+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:33:42.620+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.019 seconds
+[2023-05-26T21:34:12.769+0700] {processor.py:157} INFO - Started process (PID=79510) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:34:12.769+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:34:12.771+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:34:12.770+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:34:12.772+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:34:12.783+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:34:43.003+0700] {processor.py:157} INFO - Started process (PID=79695) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:34:43.004+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:34:43.005+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:34:43.005+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:34:43.007+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:34:43.018+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T21:35:13.148+0700] {processor.py:157} INFO - Started process (PID=79846) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:35:13.149+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:35:13.151+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:35:13.150+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:35:13.152+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:35:13.162+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:35:43.376+0700] {processor.py:157} INFO - Started process (PID=80022) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:35:43.377+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:35:43.379+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:35:43.378+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:35:43.380+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:35:43.391+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T21:36:13.491+0700] {processor.py:157} INFO - Started process (PID=80188) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:36:13.492+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:36:13.493+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:36:13.493+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:36:13.495+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:36:13.506+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T21:36:43.707+0700] {processor.py:157} INFO - Started process (PID=80361) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:36:43.708+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:36:43.709+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:36:43.709+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:36:43.710+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:36:43.722+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T21:37:13.851+0700] {processor.py:157} INFO - Started process (PID=80511) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:37:13.852+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:37:13.853+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:37:13.853+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:37:13.854+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:37:13.864+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26T21:37:44.010+0700] {processor.py:157} INFO - Started process (PID=80690) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:37:44.011+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:37:44.013+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:37:44.012+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:37:44.014+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:37:44.025+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T21:38:14.160+0700] {processor.py:157} INFO - Started process (PID=80837) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:38:14.161+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:38:14.163+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:38:14.162+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:38:14.164+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:38:14.176+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.019 seconds
+[2023-05-26T21:38:44.394+0700] {processor.py:157} INFO - Started process (PID=81008) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:38:44.394+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:38:44.395+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:38:44.395+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:38:44.396+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:38:44.407+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26T21:39:14.589+0700] {processor.py:157} INFO - Started process (PID=81152) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:39:14.590+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:39:14.591+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:39:14.591+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:39:14.592+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:39:14.603+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:39:44.797+0700] {processor.py:157} INFO - Started process (PID=81327) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:39:44.798+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:39:44.799+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:39:44.799+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:39:44.800+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:39:44.810+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26T21:40:15.067+0700] {processor.py:157} INFO - Started process (PID=81475) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:40:15.068+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:40:15.069+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:40:15.069+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:40:15.070+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:40:15.084+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.019 seconds
+[2023-05-26T21:40:45.176+0700] {processor.py:157} INFO - Started process (PID=81653) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:40:45.177+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:40:45.178+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:40:45.178+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:40:45.180+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:40:45.191+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T21:41:15.341+0700] {processor.py:157} INFO - Started process (PID=81802) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:41:15.342+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:41:15.343+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:41:15.343+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:41:15.344+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:41:15.354+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26T21:41:45.534+0700] {processor.py:157} INFO - Started process (PID=81977) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:41:45.535+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:41:45.536+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:41:45.536+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:41:45.537+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:41:45.550+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.018 seconds
+[2023-05-26T21:42:15.676+0700] {processor.py:157} INFO - Started process (PID=82152) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:42:15.677+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:42:15.678+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:42:15.678+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:42:15.680+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:42:15.691+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T21:42:45.866+0700] {processor.py:157} INFO - Started process (PID=82300) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:42:45.867+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:42:45.868+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:42:45.868+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:42:45.869+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:42:45.880+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:43:16.068+0700] {processor.py:157} INFO - Started process (PID=82449) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:43:16.069+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:43:16.070+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:43:16.070+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:43:16.071+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:43:16.082+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T21:43:46.332+0700] {processor.py:157} INFO - Started process (PID=82623) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:43:46.333+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:43:46.334+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:43:46.334+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:43:46.335+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:43:46.347+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T21:44:16.447+0700] {processor.py:157} INFO - Started process (PID=82768) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:44:16.448+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:44:16.449+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:44:16.449+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:44:16.450+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:44:16.462+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T21:44:46.590+0700] {processor.py:157} INFO - Started process (PID=82940) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:44:46.591+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:44:46.592+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:44:46.592+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:44:46.593+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:44:46.606+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T21:45:16.769+0700] {processor.py:157} INFO - Started process (PID=83089) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:45:16.769+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:45:16.771+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:45:16.771+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:45:16.772+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:45:16.783+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:45:46.983+0700] {processor.py:157} INFO - Started process (PID=83269) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:45:46.984+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:45:46.985+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:45:46.985+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:45:46.986+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:45:46.997+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:46:17.153+0700] {processor.py:157} INFO - Started process (PID=83414) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:46:17.154+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:46:17.156+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:46:17.156+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:46:17.157+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:46:17.168+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:46:47.466+0700] {processor.py:157} INFO - Started process (PID=83587) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:46:47.466+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:46:47.467+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:46:47.467+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:46:47.469+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:46:47.479+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:47:17.770+0700] {processor.py:157} INFO - Started process (PID=83774) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:47:17.771+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:47:17.772+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:47:17.772+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:47:17.774+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:47:17.784+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:47:47.922+0700] {processor.py:157} INFO - Started process (PID=83948) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:47:47.923+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:47:47.924+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:47:47.924+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:47:47.926+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:47:47.937+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:48:18.087+0700] {processor.py:157} INFO - Started process (PID=84093) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:48:18.088+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:48:18.089+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:48:18.089+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:48:18.091+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:48:18.101+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26T21:48:48.219+0700] {processor.py:157} INFO - Started process (PID=84270) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:48:48.219+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:48:48.220+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:48:48.220+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:48:48.222+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:48:48.232+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:49:18.427+0700] {processor.py:157} INFO - Started process (PID=84415) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:49:18.428+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:49:18.429+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:49:18.429+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:49:18.431+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:49:18.442+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.018 seconds
+[2023-05-26T21:49:48.563+0700] {processor.py:157} INFO - Started process (PID=84588) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:49:48.564+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:49:48.566+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:49:48.565+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:49:48.567+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:49:48.578+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:50:18.890+0700] {processor.py:157} INFO - Started process (PID=84774) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:50:18.890+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:50:18.892+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:50:18.892+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:50:18.893+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:50:18.905+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.018 seconds
+[2023-05-26T21:50:49.052+0700] {processor.py:157} INFO - Started process (PID=84948) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:50:49.053+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:50:49.054+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:50:49.054+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:50:49.055+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:50:49.066+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:51:19.309+0700] {processor.py:157} INFO - Started process (PID=85093) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:51:19.309+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:51:19.311+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:51:19.310+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:51:19.312+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:51:19.322+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26T21:51:49.532+0700] {processor.py:157} INFO - Started process (PID=85266) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:51:49.532+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:51:49.534+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:51:49.534+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:51:49.535+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:51:49.546+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:52:19.741+0700] {processor.py:157} INFO - Started process (PID=85417) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:52:19.741+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:52:19.743+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:52:19.742+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:52:19.744+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:52:19.755+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T21:52:50.081+0700] {processor.py:157} INFO - Started process (PID=85592) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:52:50.081+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:52:50.082+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:52:50.082+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:52:50.083+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:52:50.095+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:53:20.438+0700] {processor.py:157} INFO - Started process (PID=85738) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:53:20.438+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:53:20.439+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:53:20.439+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:53:20.440+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:53:20.451+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26T21:53:50.687+0700] {processor.py:157} INFO - Started process (PID=85910) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:53:50.687+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:53:50.689+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:53:50.688+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:53:50.690+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:53:50.702+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T21:54:21.276+0700] {processor.py:157} INFO - Started process (PID=86058) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:54:21.277+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:54:21.278+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:54:21.278+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:54:21.279+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:54:21.290+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:54:52.333+0700] {processor.py:157} INFO - Started process (PID=86230) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:54:52.334+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:54:52.335+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:54:52.335+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:54:52.336+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:54:52.347+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T21:55:23.075+0700] {processor.py:157} INFO - Started process (PID=86383) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:55:23.075+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:55:23.077+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:55:23.077+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:55:23.079+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:55:23.091+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.018 seconds
+[2023-05-26T21:55:53.260+0700] {processor.py:157} INFO - Started process (PID=86557) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:55:53.261+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:55:53.262+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:55:53.262+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:55:53.263+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:55:53.274+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:56:23.517+0700] {processor.py:157} INFO - Started process (PID=86701) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:56:23.517+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:56:23.519+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:56:23.519+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:56:23.520+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:56:23.532+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T21:56:53.645+0700] {processor.py:157} INFO - Started process (PID=86874) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:56:53.646+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:56:53.647+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:56:53.647+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:56:53.648+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:56:53.659+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:57:23.868+0700] {processor.py:157} INFO - Started process (PID=87023) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:57:23.869+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:57:23.870+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:57:23.870+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:57:23.871+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:57:23.882+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:57:53.970+0700] {processor.py:157} INFO - Started process (PID=87197) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:57:53.970+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:57:53.972+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:57:53.972+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:57:53.973+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:57:53.984+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T21:58:24.251+0700] {processor.py:157} INFO - Started process (PID=87428) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:58:24.252+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:58:24.253+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:58:24.253+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:58:24.254+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:58:24.265+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T21:58:54.400+0700] {processor.py:157} INFO - Started process (PID=87589) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:58:54.401+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:58:54.403+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:58:54.402+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:58:54.404+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:58:54.417+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.019 seconds
+[2023-05-26T21:59:24.517+0700] {processor.py:157} INFO - Started process (PID=87739) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:59:24.517+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:59:24.519+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:59:24.519+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:59:24.520+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:59:24.530+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26T21:59:54.592+0700] {processor.py:157} INFO - Started process (PID=88071) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:59:54.593+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T21:59:54.594+0700] {logging_mixin.py:149} INFO - [2023-05-26T21:59:54.594+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:59:54.595+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T21:59:54.607+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T22:00:24.730+0700] {processor.py:157} INFO - Started process (PID=88370) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:00:24.731+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:00:24.732+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:00:24.732+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:00:24.733+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:00:24.743+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26T22:00:54.926+0700] {processor.py:157} INFO - Started process (PID=88564) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:00:54.927+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:00:54.928+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:00:54.928+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:00:54.929+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:00:54.940+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T22:01:25.050+0700] {processor.py:157} INFO - Started process (PID=88749) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:01:25.051+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:01:25.052+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:01:25.052+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:01:25.053+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:01:25.063+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26T22:01:56.074+0700] {processor.py:157} INFO - Started process (PID=88922) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:01:56.074+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:01:56.076+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:01:56.076+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:01:56.078+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:01:56.089+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.018 seconds
+[2023-05-26T22:02:27.049+0700] {processor.py:157} INFO - Started process (PID=89112) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:02:27.049+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:02:27.051+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:02:27.051+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:02:27.052+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:02:27.063+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T22:02:57.982+0700] {processor.py:157} INFO - Started process (PID=89271) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:02:57.982+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:02:57.984+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:02:57.984+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:02:57.985+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:02:57.995+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T22:03:28.925+0700] {processor.py:157} INFO - Started process (PID=89448) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:03:28.926+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:03:28.927+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:03:28.927+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:03:28.928+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:03:28.939+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T22:03:59.796+0700] {processor.py:157} INFO - Started process (PID=89593) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:03:59.797+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:03:59.798+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:03:59.798+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:03:59.799+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:03:59.810+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T22:04:30.763+0700] {processor.py:157} INFO - Started process (PID=89767) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:04:30.764+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:04:30.765+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:04:30.765+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:04:30.766+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:04:30.777+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26T22:05:01.882+0700] {processor.py:157} INFO - Started process (PID=89925) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:05:01.883+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:05:01.884+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:05:01.884+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:05:01.886+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:05:01.899+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.019 seconds
+[2023-05-26T22:05:32.231+0700] {processor.py:157} INFO - Started process (PID=90136) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:05:32.232+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:05:32.234+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:05:32.234+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:05:32.236+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:05:32.249+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.020 seconds
+[2023-05-26T22:06:02.411+0700] {processor.py:157} INFO - Started process (PID=90411) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:06:02.412+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:06:02.413+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:06:02.413+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:06:02.414+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:06:02.425+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T22:06:32.611+0700] {processor.py:157} INFO - Started process (PID=90556) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:06:32.612+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:06:32.614+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:06:32.614+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:06:32.615+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:06:32.627+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.018 seconds
+[2023-05-26T22:07:02.840+0700] {processor.py:157} INFO - Started process (PID=90705) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:07:02.840+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:07:02.842+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:07:02.842+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:07:02.843+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:07:02.855+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T22:07:33.187+0700] {processor.py:157} INFO - Started process (PID=90903) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:07:33.187+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:07:33.189+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:07:33.189+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:07:33.190+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:07:33.202+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.018 seconds
+[2023-05-26T22:08:03.459+0700] {processor.py:157} INFO - Started process (PID=91160) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:08:03.459+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:08:03.461+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:08:03.461+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:08:03.463+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:08:03.475+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.019 seconds
+[2023-05-26T22:08:33.675+0700] {processor.py:157} INFO - Started process (PID=91388) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:08:33.676+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:08:33.677+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:08:33.677+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:08:33.678+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:08:33.689+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T22:09:03.899+0700] {processor.py:157} INFO - Started process (PID=91534) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:09:03.900+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:09:03.901+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:09:03.901+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:09:03.902+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:09:03.914+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T22:09:34.138+0700] {processor.py:157} INFO - Started process (PID=91707) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:09:34.139+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:09:34.141+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:09:34.140+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:09:34.142+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:09:34.154+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.018 seconds
+[2023-05-26T22:10:04.448+0700] {processor.py:157} INFO - Started process (PID=91853) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:10:04.448+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:10:04.449+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:10:04.449+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:10:04.451+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:10:04.462+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T22:10:34.740+0700] {processor.py:157} INFO - Started process (PID=92027) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:10:34.741+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:10:34.742+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:10:34.742+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:10:34.744+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:10:34.755+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.018 seconds
+[2023-05-26T22:11:04.949+0700] {processor.py:157} INFO - Started process (PID=92180) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:11:04.949+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:11:04.950+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:11:04.950+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:11:04.951+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:11:04.963+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.016 seconds
+[2023-05-26T22:11:35.167+0700] {processor.py:157} INFO - Started process (PID=92353) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:11:35.168+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:11:35.169+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:11:35.169+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:11:35.171+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:11:35.183+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.018 seconds
+[2023-05-26T22:12:05.492+0700] {processor.py:157} INFO - Started process (PID=92504) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:12:05.492+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:12:05.494+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:12:05.494+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:12:05.495+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:12:05.510+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.020 seconds
+[2023-05-26T22:12:35.658+0700] {processor.py:157} INFO - Started process (PID=92687) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:12:35.659+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:12:35.661+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:12:35.661+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:12:35.662+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:12:35.673+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.017 seconds
+[2023-05-26T22:13:05.851+0700] {processor.py:157} INFO - Started process (PID=92837) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:13:05.852+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:13:05.854+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:13:05.854+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:13:05.855+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:13:05.867+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.018 seconds
+[2023-05-26T22:14:58.534+0700] {processor.py:157} INFO - Started process (PID=93166) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:14:58.535+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:14:58.535+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:14:58.535+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:14:58.537+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:14:58.547+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.015 seconds
+[2023-05-26T22:15:29.483+0700] {processor.py:157} INFO - Started process (PID=94132) to work on /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:15:29.484+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py for tasks to queue
+[2023-05-26T22:15:29.484+0700] {logging_mixin.py:149} INFO - [2023-05-26T22:15:29.484+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:15:29.486+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py
+[2023-05-26T22:15:29.495+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/builder/json_flow_builder.py took 0.013 seconds

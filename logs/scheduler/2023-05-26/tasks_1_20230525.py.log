@@ -1,0 +1,989 @@
+[2023-05-26T20:08:55.075+0700] {processor.py:157} INFO - Started process (PID=4368) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:08:55.077+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:08:55.077+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:08:55.077+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:08:55.081+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:08:55.083+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:08:55.081+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:08:55.083+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:08:55.102+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.032 seconds
+[2023-05-26T20:09:25.629+0700] {processor.py:157} INFO - Started process (PID=4759) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:09:25.632+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:09:25.632+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:09:25.632+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:09:25.634+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:09:25.635+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:09:25.634+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:09:25.636+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:09:25.653+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.027 seconds
+[2023-05-26T20:09:56.474+0700] {processor.py:157} INFO - Started process (PID=4952) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:09:56.475+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:09:56.476+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:09:56.476+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:09:56.478+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:09:56.479+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:09:56.478+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:09:56.480+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:09:56.497+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.028 seconds
+[2023-05-26T20:10:26.719+0700] {processor.py:157} INFO - Started process (PID=5154) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:10:26.722+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:10:26.723+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:10:26.723+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:10:26.724+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:10:26.725+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:10:26.724+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:10:26.725+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:10:26.739+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.027 seconds
+[2023-05-26T20:10:56.803+0700] {processor.py:157} INFO - Started process (PID=5335) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:10:56.806+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:10:56.807+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:10:56.807+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:10:56.809+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:10:56.811+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:10:56.810+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:10:56.812+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:10:56.839+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.039 seconds
+[2023-05-26T20:11:27.779+0700] {processor.py:157} INFO - Started process (PID=5641) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:11:27.782+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:11:27.782+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:11:27.782+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:11:27.784+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:11:27.785+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:11:27.784+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:11:27.785+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:11:27.800+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.022 seconds
+[2023-05-26T20:11:57.930+0700] {processor.py:157} INFO - Started process (PID=5891) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:11:57.934+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:11:57.935+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:11:57.935+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:11:57.938+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:11:57.940+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:11:57.939+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:11:57.940+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:11:57.961+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.038 seconds
+[2023-05-26T20:12:28.072+0700] {processor.py:157} INFO - Started process (PID=6185) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:12:28.075+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:12:28.076+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:12:28.076+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:12:28.080+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:12:28.082+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:12:28.080+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:12:28.082+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:12:28.102+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.038 seconds
+[2023-05-26T20:12:58.157+0700] {processor.py:157} INFO - Started process (PID=6353) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:12:58.160+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:12:58.160+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:12:58.160+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:12:58.161+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:12:58.162+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:12:58.162+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:12:58.163+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:12:58.177+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.022 seconds
+[2023-05-26T20:13:28.366+0700] {processor.py:157} INFO - Started process (PID=6531) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:13:28.369+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:13:28.370+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:13:28.370+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:13:28.373+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:13:28.374+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:13:28.373+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:13:28.375+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:13:28.393+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.034 seconds
+[2023-05-26T20:13:58.522+0700] {processor.py:157} INFO - Started process (PID=6711) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:13:58.525+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:13:58.525+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:13:58.525+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:13:58.528+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:13:58.529+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:13:58.528+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:13:58.529+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:13:58.555+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.036 seconds
+[2023-05-26T20:14:28.757+0700] {processor.py:157} INFO - Started process (PID=6892) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:14:28.757+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:14:28.758+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:14:28.758+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:14:28.759+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:14:28.760+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:14:28.759+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:14:28.760+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:14:28.776+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.022 seconds
+[2023-05-26T20:14:59.145+0700] {processor.py:157} INFO - Started process (PID=7107) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:14:59.145+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:14:59.146+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:14:59.146+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:14:59.148+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:14:59.150+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:14:59.149+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:14:59.150+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:14:59.168+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.027 seconds
+[2023-05-26T20:15:29.662+0700] {processor.py:157} INFO - Started process (PID=7369) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:15:29.662+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:15:29.663+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:15:29.663+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:15:29.664+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:15:29.665+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:15:29.664+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:15:29.665+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:15:29.678+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.018 seconds
+[2023-05-26T20:16:00.116+0700] {processor.py:157} INFO - Started process (PID=7587) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:16:00.117+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:16:00.118+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:16:00.118+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:16:00.120+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:16:00.121+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:16:00.120+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:16:00.122+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:16:00.137+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.025 seconds
+[2023-05-26T20:16:30.439+0700] {processor.py:157} INFO - Started process (PID=7763) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:16:30.443+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:16:30.444+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:16:30.444+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:16:30.448+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:16:30.451+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:16:30.449+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:16:30.452+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:16:30.475+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.043 seconds
+[2023-05-26T20:17:00.783+0700] {processor.py:157} INFO - Started process (PID=8036) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:17:00.786+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:17:00.787+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:17:00.787+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:17:00.789+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:17:00.791+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:17:00.790+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:17:00.791+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:17:00.810+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.034 seconds
+[2023-05-26T20:17:31.006+0700] {processor.py:157} INFO - Started process (PID=8182) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:17:31.008+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:17:31.009+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:17:31.009+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:17:31.010+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:17:31.011+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:17:31.010+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:17:31.011+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:17:31.025+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.021 seconds
+[2023-05-26T20:18:01.167+0700] {processor.py:157} INFO - Started process (PID=8331) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:18:01.170+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:18:01.170+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:18:01.170+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:18:01.172+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:18:01.172+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:18:01.172+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:18:01.173+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:18:01.185+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.020 seconds
+[2023-05-26T20:18:31.731+0700] {processor.py:157} INFO - Started process (PID=8500) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:18:31.734+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:18:31.736+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:18:31.735+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:18:31.739+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:18:31.741+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:18:31.739+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:18:31.741+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:18:31.762+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.040 seconds
+[2023-05-26T20:19:02.072+0700] {processor.py:157} INFO - Started process (PID=8661) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:19:02.075+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:19:02.077+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:19:02.077+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:19:02.081+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:19:02.084+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:19:02.082+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:19:02.085+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:19:02.105+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.041 seconds
+[2023-05-26T20:19:32.278+0700] {processor.py:157} INFO - Started process (PID=8846) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:19:32.281+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:19:32.281+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:19:32.281+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:19:32.283+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:19:32.283+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:19:32.283+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:19:32.284+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:19:32.297+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.021 seconds
+[2023-05-26T20:20:02.528+0700] {processor.py:157} INFO - Started process (PID=9005) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:20:02.531+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:20:02.532+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:20:02.532+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:20:02.535+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:20:02.537+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:20:02.536+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:20:02.538+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:20:02.566+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.043 seconds
+[2023-05-26T20:20:33.156+0700] {processor.py:157} INFO - Started process (PID=9169) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:20:33.158+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:20:33.159+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:20:33.158+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:20:33.160+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:20:33.161+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:20:33.160+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:20:33.161+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:20:33.174+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.020 seconds
+[2023-05-26T20:21:03.416+0700] {processor.py:157} INFO - Started process (PID=9336) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:21:03.419+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:21:03.419+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:21:03.419+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:21:03.421+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:21:03.422+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:21:03.421+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:21:03.422+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:21:03.436+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.021 seconds
+[2023-05-26T20:21:33.498+0700] {processor.py:157} INFO - Started process (PID=9505) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:21:33.501+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:21:33.502+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:21:33.502+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:21:33.503+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:21:33.504+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:21:33.503+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:21:33.504+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:21:33.518+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.027 seconds
+[2023-05-26T20:22:03.615+0700] {processor.py:157} INFO - Started process (PID=9723) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:22:03.618+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:22:03.618+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:22:03.618+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:22:03.621+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:22:03.622+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:22:03.621+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:22:03.622+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:22:03.641+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.030 seconds
+[2023-05-26T20:22:33.960+0700] {processor.py:157} INFO - Started process (PID=9927) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:22:33.962+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:22:33.962+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:22:33.962+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:22:33.964+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:22:33.964+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:22:33.964+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:22:33.965+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:22:33.978+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.020 seconds
+[2023-05-26T20:23:04.280+0700] {processor.py:157} INFO - Started process (PID=10131) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:23:04.283+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:23:04.284+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:23:04.283+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:23:04.286+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:23:04.287+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:23:04.286+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:23:04.288+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:23:04.307+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.032 seconds
+[2023-05-26T20:23:34.533+0700] {processor.py:157} INFO - Started process (PID=10330) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:23:34.536+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:23:34.537+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:23:34.537+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:23:34.539+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:23:34.541+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:23:34.540+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:23:34.542+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:23:34.557+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.032 seconds
+[2023-05-26T20:24:04.682+0700] {processor.py:157} INFO - Started process (PID=10514) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:24:04.683+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:24:04.683+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:24:04.683+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:24:04.684+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:24:04.685+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:24:04.685+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:24:04.685+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:24:04.698+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.018 seconds
+[2023-05-26T20:24:34.728+0700] {processor.py:157} INFO - Started process (PID=10696) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:24:34.729+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:24:34.730+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:24:34.730+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:24:34.733+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:24:34.735+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:24:34.734+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:24:34.735+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:24:34.759+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.037 seconds
+[2023-05-26T20:25:04.824+0700] {processor.py:157} INFO - Started process (PID=10903) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:25:04.827+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:25:04.827+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:25:04.827+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:25:04.829+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:25:04.830+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:25:04.829+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:25:04.830+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:25:04.845+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.023 seconds
+[2023-05-26T20:25:34.891+0700] {processor.py:157} INFO - Started process (PID=11069) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:25:34.891+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:25:34.892+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:25:34.892+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:25:34.893+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:25:34.894+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:25:34.893+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:25:34.894+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:25:34.908+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.019 seconds
+[2023-05-26T20:26:04.960+0700] {processor.py:157} INFO - Started process (PID=11254) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:26:04.961+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:26:04.962+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:26:04.962+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:26:04.965+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:26:04.967+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:26:04.966+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:26:04.967+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:26:04.989+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.035 seconds
+[2023-05-26T20:26:32.734+0700] {processor.py:157} INFO - Started process (PID=11427) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:26:32.734+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:26:32.735+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:26:32.735+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:26:32.736+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:26:32.737+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:26:32.737+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:26:32.738+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:26:32.750+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.018 seconds
+[2023-05-26T20:27:03.714+0700] {processor.py:157} INFO - Started process (PID=11636) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:27:03.714+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:27:03.715+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:27:03.715+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:27:03.716+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:27:03.717+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:27:03.716+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:27:03.718+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:27:03.730+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.017 seconds
+[2023-05-26T20:27:33.876+0700] {processor.py:157} INFO - Started process (PID=11814) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:27:33.877+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:27:33.877+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:27:33.877+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:27:33.878+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:27:33.879+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:27:33.879+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:27:33.880+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:27:33.894+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.020 seconds
+[2023-05-26T20:28:04.006+0700] {processor.py:157} INFO - Started process (PID=12008) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:28:04.007+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:28:04.007+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:28:04.007+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:28:04.009+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:28:04.010+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:28:04.009+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:28:04.010+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:28:04.022+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.018 seconds
+[2023-05-26T20:28:34.137+0700] {processor.py:157} INFO - Started process (PID=12177) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:28:34.138+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:28:34.138+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:28:34.138+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:28:34.140+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:28:34.141+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:28:34.140+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:28:34.141+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:28:34.155+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.021 seconds
+[2023-05-26T20:29:04.332+0700] {processor.py:157} INFO - Started process (PID=12380) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:29:04.332+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:29:04.333+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:29:04.332+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:29:04.334+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:29:04.335+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:29:04.334+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:29:04.335+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:29:04.348+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.018 seconds
+[2023-05-26T20:29:34.581+0700] {processor.py:157} INFO - Started process (PID=12568) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:29:34.581+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:29:34.581+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:29:34.581+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:29:34.583+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:29:34.584+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:29:34.583+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:29:34.584+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:29:34.597+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.018 seconds
+[2023-05-26T20:30:04.763+0700] {processor.py:157} INFO - Started process (PID=12706) to work on /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:30:04.764+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_1_20230525.py for tasks to queue
+[2023-05-26T20:30:04.764+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:30:04.764+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:30:04.765+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_1_20230525221934.json================
+[2023-05-26T20:30:04.766+0700] {logging_mixin.py:149} INFO - [2023-05-26T20:30:04.766+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_1_20230525.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 58, in get_config
+    self.graph.build()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 14, in build
+    self.create_vertices()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 18, in create_vertices
+    for config in self.config[TASKS]:
+KeyError: 'tasks'
+[2023-05-26T20:30:04.767+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_1_20230525.py
+[2023-05-26T20:30:04.780+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_1_20230525.py took 0.018 seconds

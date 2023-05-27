@@ -1,0 +1,13 @@
+[2023-05-27T20:07:01.168+0700] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: hello_world.hello_task scheduled__2023-05-26T12:00:00+00:00 [queued]>
+[2023-05-27T20:07:01.175+0700] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: hello_world.hello_task scheduled__2023-05-26T12:00:00+00:00 [queued]>
+[2023-05-27T20:07:01.175+0700] {taskinstance.py:1308} INFO - Starting attempt 1 of 1
+[2023-05-27T20:07:01.185+0700] {taskinstance.py:1327} INFO - Executing <Task(PythonOperator): hello_task> on 2023-05-26 12:00:00+00:00
+[2023-05-27T20:07:01.188+0700] {standard_task_runner.py:57} INFO - Started process 4787 to run task
+[2023-05-27T20:07:01.190+0700] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'hello_world', 'hello_task', 'scheduled__2023-05-26T12:00:00+00:00', '--job-id', '7', '--raw', '--subdir', 'DAGS_FOLDER/hello_world.py', '--cfg-path', '/tmp/tmpfnxedkgv']
+[2023-05-27T20:07:01.191+0700] {standard_task_runner.py:85} INFO - Job 7: Subtask hello_task
+[2023-05-27T20:07:01.224+0700] {task_command.py:410} INFO - Running <TaskInstance: hello_world.hello_task scheduled__2023-05-26T12:00:00+00:00 [running]> on host nhattrieu-machine
+[2023-05-27T20:07:01.287+0700] {taskinstance.py:1545} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='hello_world' AIRFLOW_CTX_TASK_ID='hello_task' AIRFLOW_CTX_EXECUTION_DATE='2023-05-26T12:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-05-26T12:00:00+00:00'
+[2023-05-27T20:07:01.288+0700] {python.py:183} INFO - Done. Returned value was: Hello world from first Airflow DAG!
+[2023-05-27T20:07:01.308+0700] {taskinstance.py:1345} INFO - Marking task as SUCCESS. dag_id=hello_world, task_id=hello_task, execution_date=20230526T120000, start_date=20230527T130701, end_date=20230527T130701
+[2023-05-27T20:07:01.322+0700] {local_task_job_runner.py:225} INFO - Task exited with return code 0
+[2023-05-27T20:07:01.333+0700] {taskinstance.py:2651} INFO - 0 downstream tasks scheduled from follow-on schedule check

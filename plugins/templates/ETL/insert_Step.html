@@ -1,0 +1,72 @@
+<form action='' method="POST">
+    <p>name <input type="text" name="name" /></p>
+  
+    <h1>INPUT</h1>
+    <label for="input_format">format input:</label>
+    <select name="input_format" id="input_format">
+      <option value="csv">csv</option>
+      <option value="parquet">parquet</option>
+      <option value="hive">hive</option>
+      {% for name in lst_name %}
+          <option value="{{name}}">{{name}}</option>
+      {% endfor %} 
+    </select>
+    <br>option: <input type="checkbox" id="option" name="option">
+    <div id="templateContaineroption"></div>
+    output: <input type="checkbox" id="output" name="output">
+    <div id="templateContainer"></div>
+    <p><input type="submit" value="Save" /></p>
+    <button>
+      <a href="/etlappbuilderbaseview/">Cancel</a>
+    </button>
+  </form>
+  
+  <script>
+    // config option and output
+    const checkbox = document.getElementById("output");
+    const templateContainer = document.getElementById("templateContainer");
+    const checkboxoption = document.getElementById("option");
+    const templateContainerOption = document.getElementById("templateContaineroption");
+    checkboxoption.addEventListener("change", () => {
+      if (checkboxoption.checked) {
+        // append the paragraph element to the container
+        templateContainerOption.innerHTML = `
+      <label for="streaming">streaming:</label>
+        <select name="streaming" id="streaming">
+          <option value="True">True</option>
+          <option value="False">False</option>
+        </select>
+      `;
+      } else {
+        // show an empty template
+        templateContainerOption.innerHTML = "";
+      }
+    });
+    checkbox.addEventListener("change", () => {
+      if (checkbox.checked) {
+        // append the paragraph element to the container
+        templateContainer.innerHTML = `
+        <label for="output_format">format:</label>
+      <select name = "output_format" id="output_format">
+        <option value="csv">csv</option>
+        <option value="parquet">parquet</option>
+        <option value="hive">hive</option>
+      </select>
+      <div>  
+        <p>option</p>
+        <p>path<input type = "text" name = "path"/></p>
+        <p>partition cols<input type = "text" name = "PARTITION_COLS"/></p>
+        <label for="OUTPUT_MODE">OUTPUT MODE:</label>
+        <select name="OUTPUT_MODE" id="OUTPUT_MODE">
+          <option value="overwrite">overwrite</option>
+          <option value="nooverwrite">No overwrite</option>
+        </select>
+      </div>
+      `;
+      } else {
+        // show an empty template
+        templateContainer.innerHTML = "";
+      }
+    });
+  </script>
+  </form>

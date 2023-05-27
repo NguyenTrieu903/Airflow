@@ -1,0 +1,1316 @@
+[2023-05-27T21:45:50.631+0700] {processor.py:157} INFO - Started process (PID=41427) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:45:50.631+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:45:50.632+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:45:50.632+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:45:50.633+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:45:50.635+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:45:50.634+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 56, in get_config
+    configs = JsonConfigReader.read(self.flow_file_name)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/json_config_reader.py", line 9, in read
+    return json.loads(json_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+[2023-05-27T21:45:50.635+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:45:50.650+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.021 seconds
+[2023-05-27T21:46:21.638+0700] {processor.py:157} INFO - Started process (PID=41671) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:46:21.641+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:46:21.642+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:46:21.641+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:46:21.643+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:46:21.647+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:46:21.644+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 56, in get_config
+    configs = JsonConfigReader.read(self.flow_file_name)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/json_config_reader.py", line 9, in read
+    return json.loads(json_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+[2023-05-27T21:46:21.648+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:46:21.666+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.031 seconds
+[2023-05-27T21:46:51.930+0700] {processor.py:157} INFO - Started process (PID=41860) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:46:51.933+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:46:51.934+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:46:51.934+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:46:51.937+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:46:51.940+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:46:51.938+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 56, in get_config
+    configs = JsonConfigReader.read(self.flow_file_name)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/json_config_reader.py", line 9, in read
+    return json.loads(json_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+[2023-05-27T21:46:51.940+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:46:51.959+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.037 seconds
+[2023-05-27T21:47:10.053+0700] {processor.py:157} INFO - Started process (PID=42043) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:47:10.054+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:47:10.054+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:47:10.054+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:47:10.056+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:47:10.058+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:47:10.057+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 56, in get_config
+    configs = JsonConfigReader.read(self.flow_file_name)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/json_config_reader.py", line 9, in read
+    return json.loads(json_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+[2023-05-27T21:47:10.058+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:47:10.072+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.021 seconds
+[2023-05-27T21:47:11.078+0700] {processor.py:157} INFO - Started process (PID=42046) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:47:11.080+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:47:11.081+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:47:11.081+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:47:11.085+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:47:11.087+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:47:11.085+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 56, in get_config
+    configs = JsonConfigReader.read(self.flow_file_name)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/json_config_reader.py", line 9, in read
+    return json.loads(json_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+[2023-05-27T21:47:11.088+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:47:11.107+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.034 seconds
+[2023-05-27T21:47:42.112+0700] {processor.py:157} INFO - Started process (PID=42231) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:47:42.114+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:47:42.114+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:47:42.114+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:47:42.116+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:47:42.117+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:47:42.116+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 56, in get_config
+    configs = JsonConfigReader.read(self.flow_file_name)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/json_config_reader.py", line 9, in read
+    return json.loads(json_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+[2023-05-27T21:47:42.117+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:47:42.128+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.018 seconds
+[2023-05-27T21:48:03.478+0700] {processor.py:157} INFO - Started process (PID=42420) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:48:03.479+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:48:03.479+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:48:03.479+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:48:03.480+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:48:03.482+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:48:03.481+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 56, in get_config
+    configs = JsonConfigReader.read(self.flow_file_name)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/json_config_reader.py", line 9, in read
+    return json.loads(json_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+[2023-05-27T21:48:03.482+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:48:03.496+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.020 seconds
+[2023-05-27T21:48:34.510+0700] {processor.py:157} INFO - Started process (PID=42677) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:48:34.513+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:48:34.513+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:48:34.513+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:48:34.515+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:48:34.518+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:48:34.516+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 56, in get_config
+    configs = JsonConfigReader.read(self.flow_file_name)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/json_config_reader.py", line 9, in read
+    return json.loads(json_string)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+[2023-05-27T21:48:34.518+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:48:34.535+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.029 seconds
+[2023-05-27T21:49:05.470+0700] {processor.py:157} INFO - Started process (PID=42885) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:49:05.473+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:49:05.473+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:49:05.473+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:49:05.475+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:49:05.482+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:49:05.481+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/sensor_task_factory.py", line 100, in create_task
+    filepath=file_path.format(**(JsonConfigReader.get_property(task_config, OPTIONS))),
+KeyError: 'date'
+[2023-05-27T21:49:05.483+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:49:05.496+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.028 seconds
+[2023-05-27T21:49:20.704+0700] {processor.py:157} INFO - Started process (PID=42956) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:49:20.705+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:49:20.705+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:49:20.705+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:49:20.706+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:49:20.722+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:49:20.721+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/sensor_task_factory.py", line 100, in create_task
+    filepath=file_path.format(**(JsonConfigReader.get_property(task_config, OPTIONS))),
+KeyError: 'date'
+[2023-05-27T21:49:20.722+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:49:20.735+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.033 seconds
+[2023-05-27T21:49:50.953+0700] {processor.py:157} INFO - Started process (PID=43196) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:49:50.954+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:49:50.955+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:49:50.955+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:49:50.959+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:49:50.973+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:49:50.971+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/sensor_task_factory.py", line 100, in create_task
+    filepath=file_path.format(**(JsonConfigReader.get_property(task_config, OPTIONS))),
+KeyError: 'date'
+[2023-05-27T21:49:50.973+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:49:50.989+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.044 seconds
+[2023-05-27T21:50:21.036+0700] {processor.py:157} INFO - Started process (PID=43382) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:50:21.039+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:50:21.040+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:50:21.040+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:50:21.043+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:50:21.054+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:50:21.052+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/sensor_task_factory.py", line 100, in create_task
+    filepath=file_path.format(**(JsonConfigReader.get_property(task_config, OPTIONS))),
+KeyError: 'date'
+[2023-05-27T21:50:21.054+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:50:21.068+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.036 seconds
+[2023-05-27T21:50:51.543+0700] {processor.py:157} INFO - Started process (PID=43545) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:50:51.547+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:50:51.549+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:50:51.549+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:50:51.553+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:50:51.568+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:50:51.566+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/sensor_task_factory.py", line 100, in create_task
+    filepath=file_path.format(**(JsonConfigReader.get_property(task_config, OPTIONS))),
+TypeError: str.format() argument after ** must be a mapping, not NoneType
+[2023-05-27T21:50:51.569+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:50:51.583+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.047 seconds
+[2023-05-27T21:50:58.989+0700] {processor.py:157} INFO - Started process (PID=43571) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:50:58.989+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:50:58.990+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:50:58.990+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:50:58.991+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:50:59.006+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:50:59.005+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/sensor_task_factory.py", line 100, in create_task
+    filepath=file_path.format(**(JsonConfigReader.get_property(task_config, OPTIONS))),
+TypeError: str.format() argument after ** must be a mapping, not NoneType
+[2023-05-27T21:50:59.006+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:50:59.020+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.033 seconds
+[2023-05-27T21:51:29.055+0700] {processor.py:157} INFO - Started process (PID=43821) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:51:29.056+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:51:29.057+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:51:29.056+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:51:29.059+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:51:29.071+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:51:29.070+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/sensor_task_factory.py", line 100, in create_task
+    filepath=file_path.format(**(JsonConfigReader.get_property(task_config, OPTIONS))),
+TypeError: str.format() argument after ** must be a mapping, not NoneType
+[2023-05-27T21:51:29.072+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:51:29.088+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.036 seconds
+[2023-05-27T21:51:59.201+0700] {processor.py:157} INFO - Started process (PID=44021) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:51:59.201+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:51:59.202+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:51:59.202+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:51:59.203+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:51:59.204+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:51:59.270+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:51:59.270+0700] {manager.py:504} INFO - Created Permission View: can read on DAG:tasks_20230527
+[2023-05-27T21:51:59.275+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:51:59.275+0700] {manager.py:504} INFO - Created Permission View: can edit on DAG:tasks_20230527
+[2023-05-27T21:51:59.279+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:51:59.279+0700] {manager.py:504} INFO - Created Permission View: can delete on DAG:tasks_20230527
+[2023-05-27T21:51:59.279+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:51:59.279+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T21:51:59.287+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:51:59.287+0700] {dag.py:2747} INFO - Creating ORM DAG for tasks_20230527
+[2023-05-27T21:51:59.294+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:51:59.294+0700] {dag.py:3486} INFO - Setting next_dagrun for tasks_20230527 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-27T21:51:59.304+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.105 seconds
+[2023-05-27T21:52:29.461+0700] {processor.py:157} INFO - Started process (PID=44208) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:52:29.463+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:52:29.464+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:52:29.464+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:52:29.465+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:52:29.466+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:52:29.483+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:52:29.483+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T21:52:29.498+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:52:29.498+0700] {dag.py:3486} INFO - Setting next_dagrun for tasks_20230527 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-27T21:52:29.511+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.052 seconds
+[2023-05-27T21:52:59.592+0700] {processor.py:157} INFO - Started process (PID=44423) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:52:59.595+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:52:59.596+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:52:59.596+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:52:59.598+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:52:59.609+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:52:59.607+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/sensor_task_factory.py", line 99, in create_task
+    sensor = HdfsSensorGen(
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 429, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/nhattrieu/airflow/dags/dag_builder/contrib/hdfs_sensor.py", line 112, in __init__
+    super(HdfsSensorGen, self).__init__(timeout=60 * 60 * 24 * 14, *args, **kwargs)
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 429, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/providers/apache/hdfs/sensors/hdfs.py", line 38, in __init__
+    raise Exception(_EXCEPTION_MESSAGE)
+Exception: The old HDFS Sensors have been removed in 4.0.0 version of the apache.hdfs provider.
+Please convert your DAGs to use the WebHdfsSensor or downgrade the provider to below 4.*
+if you want to continue using it.
+If you want to use earlier provider you can downgrade to latest released 3.* version
+using `pip install apache-airflow-providers-hdfs==3.2.1` (no constraints)
+[2023-05-27T21:52:59.609+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:52:59.623+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.035 seconds
+[2023-05-27T21:53:13.266+0700] {processor.py:157} INFO - Started process (PID=44602) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:53:13.267+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:53:13.267+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:53:13.267+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:53:13.268+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:53:13.284+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:53:13.283+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/sensor_task_factory.py", line 99, in create_task
+    sensor = HdfsSensorGen(
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 429, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/nhattrieu/airflow/dags/dag_builder/contrib/hdfs_sensor.py", line 112, in __init__
+    super(HdfsSensorGen, self).__init__(timeout=60 * 60 * 24 * 14, *args, **kwargs)
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 429, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/providers/apache/hdfs/sensors/hdfs.py", line 38, in __init__
+    raise Exception(_EXCEPTION_MESSAGE)
+Exception: The old HDFS Sensors have been removed in 4.0.0 version of the apache.hdfs provider.
+Please convert your DAGs to use the WebHdfsSensor or downgrade the provider to below 4.*
+if you want to continue using it.
+If you want to use earlier provider you can downgrade to latest released 3.* version
+using `pip install apache-airflow-providers-hdfs==3.2.1` (no constraints)
+[2023-05-27T21:53:13.284+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:53:13.297+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.032 seconds
+[2023-05-27T21:53:44.282+0700] {processor.py:157} INFO - Started process (PID=44850) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:53:44.285+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:53:44.286+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:53:44.286+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:53:44.288+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:53:44.301+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:53:44.299+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/sensor_task_factory.py", line 99, in create_task
+    sensor = HdfsSensorGen(
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 429, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/nhattrieu/airflow/dags/dag_builder/contrib/hdfs_sensor.py", line 112, in __init__
+    super(HdfsSensorGen, self).__init__(timeout=60 * 60 * 24 * 14, *args, **kwargs)
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 429, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/providers/apache/hdfs/sensors/hdfs.py", line 38, in __init__
+    raise Exception(_EXCEPTION_MESSAGE)
+Exception: The old HDFS Sensors have been removed in 4.0.0 version of the apache.hdfs provider.
+Please convert your DAGs to use the WebHdfsSensor or downgrade the provider to below 4.*
+if you want to continue using it.
+If you want to use earlier provider you can downgrade to latest released 3.* version
+using `pip install apache-airflow-providers-hdfs==3.2.1` (no constraints)
+[2023-05-27T21:53:44.301+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:53:44.316+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.040 seconds
+[2023-05-27T21:54:14.423+0700] {processor.py:157} INFO - Started process (PID=45037) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:54:14.427+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:54:14.428+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:54:14.428+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:54:14.431+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:54:14.445+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:54:14.444+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/sensor_task_factory.py", line 99, in create_task
+    sensor = HdfsSensorGen(
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 429, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/nhattrieu/airflow/dags/dag_builder/contrib/hdfs_sensor.py", line 112, in __init__
+    super(HdfsSensorGen, self).__init__(timeout=60 * 60 * 24 * 14, *args, **kwargs)
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 429, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/providers/apache/hdfs/sensors/hdfs.py", line 38, in __init__
+    raise Exception(_EXCEPTION_MESSAGE)
+Exception: The old HDFS Sensors have been removed in 4.0.0 version of the apache.hdfs provider.
+Please convert your DAGs to use the WebHdfsSensor or downgrade the provider to below 4.*
+if you want to continue using it.
+If you want to use earlier provider you can downgrade to latest released 3.* version
+using `pip install apache-airflow-providers-hdfs==3.2.1` (no constraints)
+[2023-05-27T21:54:14.446+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:54:14.460+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.045 seconds
+[2023-05-27T21:54:44.498+0700] {processor.py:157} INFO - Started process (PID=45220) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:54:44.501+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:54:44.502+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:54:44.501+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:54:44.503+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:54:44.510+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:54:44.509+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/sensor_task_factory.py", line 99, in create_task
+    sensor = HdfsSensorGen(
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 429, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/nhattrieu/airflow/dags/dag_builder/contrib/hdfs_sensor.py", line 112, in __init__
+    super(HdfsSensorGen, self).__init__(timeout=60 * 60 * 24 * 14, *args, **kwargs)
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 429, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/providers/apache/hdfs/sensors/hdfs.py", line 38, in __init__
+    raise Exception(_EXCEPTION_MESSAGE)
+Exception: The old HDFS Sensors have been removed in 4.0.0 version of the apache.hdfs provider.
+Please convert your DAGs to use the WebHdfsSensor or downgrade the provider to below 4.*
+if you want to continue using it.
+If you want to use earlier provider you can downgrade to latest released 3.* version
+using `pip install apache-airflow-providers-hdfs==3.2.1` (no constraints)
+[2023-05-27T21:54:44.510+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:54:44.522+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.026 seconds
+[2023-05-27T21:55:14.578+0700] {processor.py:157} INFO - Started process (PID=45461) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:55:14.580+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:55:14.581+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:55:14.581+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:55:14.582+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:55:14.590+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:55:14.589+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/sensor_task_factory.py", line 99, in create_task
+    sensor = HdfsSensorGen(
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 429, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/nhattrieu/airflow/dags/dag_builder/contrib/hdfs_sensor.py", line 112, in __init__
+    super(HdfsSensorGen, self).__init__(timeout=60 * 60 * 24 * 14, *args, **kwargs)
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 429, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/providers/apache/hdfs/sensors/hdfs.py", line 38, in __init__
+    raise Exception(_EXCEPTION_MESSAGE)
+Exception: The old HDFS Sensors have been removed in 4.0.0 version of the apache.hdfs provider.
+Please convert your DAGs to use the WebHdfsSensor or downgrade the provider to below 4.*
+if you want to continue using it.
+If you want to use earlier provider you can downgrade to latest released 3.* version
+using `pip install apache-airflow-providers-hdfs==3.2.1` (no constraints)
+[2023-05-27T21:55:14.590+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:55:14.605+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.029 seconds
+[2023-05-27T21:55:44.621+0700] {processor.py:157} INFO - Started process (PID=45642) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:55:44.624+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:55:44.624+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:55:44.624+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:55:44.625+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:55:44.634+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:55:44.633+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/sensor_task_factory.py", line 99, in create_task
+    sensor = HdfsSensorGen(
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 429, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/nhattrieu/airflow/dags/dag_builder/contrib/hdfs_sensor.py", line 112, in __init__
+    super(HdfsSensorGen, self).__init__(timeout=60 * 60 * 24 * 14, *args, **kwargs)
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 429, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/providers/apache/hdfs/sensors/hdfs.py", line 38, in __init__
+    raise Exception(_EXCEPTION_MESSAGE)
+Exception: The old HDFS Sensors have been removed in 4.0.0 version of the apache.hdfs provider.
+Please convert your DAGs to use the WebHdfsSensor or downgrade the provider to below 4.*
+if you want to continue using it.
+If you want to use earlier provider you can downgrade to latest released 3.* version
+using `pip install apache-airflow-providers-hdfs==3.2.1` (no constraints)
+[2023-05-27T21:55:44.634+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:55:44.646+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.027 seconds
+[2023-05-27T21:56:14.818+0700] {processor.py:157} INFO - Started process (PID=45831) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:56:14.821+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:56:14.821+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:56:14.821+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:56:14.824+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:56:14.837+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:56:14.835+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/sensor_task_factory.py", line 99, in create_task
+    sensor = HdfsSensorGen(
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 429, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/nhattrieu/airflow/dags/dag_builder/contrib/hdfs_sensor.py", line 112, in __init__
+    super(HdfsSensorGen, self).__init__(timeout=60 * 60 * 24 * 14, *args, **kwargs)
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 429, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/providers/apache/hdfs/sensors/hdfs.py", line 38, in __init__
+    raise Exception(_EXCEPTION_MESSAGE)
+Exception: The old HDFS Sensors have been removed in 4.0.0 version of the apache.hdfs provider.
+Please convert your DAGs to use the WebHdfsSensor or downgrade the provider to below 4.*
+if you want to continue using it.
+If you want to use earlier provider you can downgrade to latest released 3.* version
+using `pip install apache-airflow-providers-hdfs==3.2.1` (no constraints)
+[2023-05-27T21:56:14.837+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:56:14.851+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.038 seconds
+[2023-05-27T21:56:44.994+0700] {processor.py:157} INFO - Started process (PID=46125) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:56:44.996+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:56:44.997+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:56:44.996+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:56:44.998+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:56:45.006+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:56:45.004+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/sensor_task_factory.py", line 99, in create_task
+    sensor = HdfsSensorGen(
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 429, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/nhattrieu/airflow/dags/dag_builder/contrib/hdfs_sensor.py", line 112, in __init__
+    super(HdfsSensorGen, self).__init__(timeout=60 * 60 * 24 * 14, *args, **kwargs)
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 429, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/providers/apache/hdfs/sensors/hdfs.py", line 38, in __init__
+    raise Exception(_EXCEPTION_MESSAGE)
+Exception: The old HDFS Sensors have been removed in 4.0.0 version of the apache.hdfs provider.
+Please convert your DAGs to use the WebHdfsSensor or downgrade the provider to below 4.*
+if you want to continue using it.
+If you want to use earlier provider you can downgrade to latest released 3.* version
+using `pip install apache-airflow-providers-hdfs==3.2.1` (no constraints)
+[2023-05-27T21:56:45.006+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:56:45.018+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.026 seconds
+[2023-05-27T21:57:15.294+0700] {processor.py:157} INFO - Started process (PID=46349) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:57:15.297+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:57:15.297+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:57:15.297+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:57:15.298+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:57:15.305+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:57:15.304+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/sensor_task_factory.py", line 99, in create_task
+    sensor = HdfsSensorGen(
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 429, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/nhattrieu/airflow/dags/dag_builder/contrib/hdfs_sensor.py", line 112, in __init__
+    super(HdfsSensorGen, self).__init__(timeout=60 * 60 * 24 * 14, *args, **kwargs)
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 429, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/providers/apache/hdfs/sensors/hdfs.py", line 38, in __init__
+    raise Exception(_EXCEPTION_MESSAGE)
+Exception: The old HDFS Sensors have been removed in 4.0.0 version of the apache.hdfs provider.
+Please convert your DAGs to use the WebHdfsSensor or downgrade the provider to below 4.*
+if you want to continue using it.
+If you want to use earlier provider you can downgrade to latest released 3.* version
+using `pip install apache-airflow-providers-hdfs==3.2.1` (no constraints)
+[2023-05-27T21:57:15.306+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:57:15.318+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.025 seconds
+[2023-05-27T21:57:45.554+0700] {processor.py:157} INFO - Started process (PID=46537) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:57:45.557+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:57:45.557+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:57:45.557+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:57:45.558+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:57:45.566+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:57:45.564+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/sensor_task_factory.py", line 99, in create_task
+    sensor = HdfsSensorGen(
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 429, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/nhattrieu/airflow/dags/dag_builder/contrib/hdfs_sensor.py", line 112, in __init__
+    super(HdfsSensorGen, self).__init__(timeout=60 * 60 * 24 * 14, *args, **kwargs)
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 429, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/providers/apache/hdfs/sensors/hdfs.py", line 38, in __init__
+    raise Exception(_EXCEPTION_MESSAGE)
+Exception: The old HDFS Sensors have been removed in 4.0.0 version of the apache.hdfs provider.
+Please convert your DAGs to use the WebHdfsSensor or downgrade the provider to below 4.*
+if you want to continue using it.
+If you want to use earlier provider you can downgrade to latest released 3.* version
+using `pip install apache-airflow-providers-hdfs==3.2.1` (no constraints)
+[2023-05-27T21:57:45.566+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:57:45.579+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.027 seconds
+[2023-05-27T21:58:20.285+0700] {processor.py:157} INFO - Started process (PID=46745) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:58:20.286+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:58:20.286+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:58:20.286+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:58:20.287+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:58:20.323+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:58:20.367+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:58:20.367+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T21:58:20.382+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:58:20.382+0700] {dag.py:3486} INFO - Setting next_dagrun for tasks_20230527 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-27T21:58:20.400+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.117 seconds
+[2023-05-27T21:58:50.429+0700] {processor.py:157} INFO - Started process (PID=47001) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:58:50.430+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:58:50.431+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:58:50.431+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:58:50.432+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:58:50.465+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:58:50.483+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:58:50.483+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T21:58:50.515+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.087 seconds
+[2023-05-27T21:59:20.904+0700] {processor.py:157} INFO - Started process (PID=47177) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:59:20.905+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:59:20.906+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:59:20.905+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:59:20.908+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:59:20.957+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:59:20.989+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:59:20.988+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T21:59:21.066+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.166 seconds
+[2023-05-27T21:59:51.582+0700] {processor.py:157} INFO - Started process (PID=47368) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:59:51.585+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T21:59:51.585+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:59:51.585+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:59:51.587+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T21:59:51.632+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T21:59:51.653+0700] {logging_mixin.py:149} INFO - [2023-05-27T21:59:51.653+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T21:59:51.692+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.112 seconds
+[2023-05-27T22:00:22.341+0700] {processor.py:157} INFO - Started process (PID=47584) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:00:22.342+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:00:22.343+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:00:22.342+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:00:22.345+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:00:22.391+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:00:22.444+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:00:22.443+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:00:22.496+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.157 seconds
+[2023-05-27T22:00:52.591+0700] {processor.py:157} INFO - Started process (PID=47744) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:00:52.592+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:00:52.593+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:00:52.593+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:00:52.595+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:00:52.648+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:00:52.677+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:00:52.676+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:00:52.722+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.134 seconds
+[2023-05-27T22:01:23.095+0700] {processor.py:157} INFO - Started process (PID=48122) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:01:23.098+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:01:23.099+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:01:23.099+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:01:23.100+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:01:23.137+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:01:23.156+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:01:23.156+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:01:23.200+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.106 seconds
+[2023-05-27T22:01:53.722+0700] {processor.py:157} INFO - Started process (PID=48302) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:01:53.724+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:01:53.725+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:01:53.725+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:01:53.726+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:01:53.760+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:01:53.781+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:01:53.781+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:01:53.816+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.097 seconds
+[2023-05-27T22:02:24.206+0700] {processor.py:157} INFO - Started process (PID=48485) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:02:24.207+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:02:24.207+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:02:24.207+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:02:24.209+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:02:24.239+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:02:24.258+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:02:24.258+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:02:24.291+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.086 seconds
+[2023-05-27T22:02:54.419+0700] {processor.py:157} INFO - Started process (PID=48677) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:02:54.420+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:02:54.420+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:02:54.420+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:02:54.422+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:02:54.461+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:02:54.486+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:02:54.485+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:02:54.525+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.108 seconds
+[2023-05-27T22:03:24.559+0700] {processor.py:157} INFO - Started process (PID=48866) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:03:24.559+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:03:24.560+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:03:24.560+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:03:24.561+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:03:24.588+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:03:24.604+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:03:24.604+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:03:24.630+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.073 seconds
+[2023-05-27T22:03:54.867+0700] {processor.py:157} INFO - Started process (PID=49045) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:03:54.869+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:03:54.870+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:03:54.870+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:03:54.872+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:03:54.914+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:03:54.935+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:03:54.935+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:03:54.968+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.104 seconds
+[2023-05-27T22:04:25.263+0700] {processor.py:157} INFO - Started process (PID=49259) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:04:25.265+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:04:25.266+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:04:25.266+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:04:25.267+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:04:25.296+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:04:25.334+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:04:25.333+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:04:25.368+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.107 seconds
+[2023-05-27T22:04:55.560+0700] {processor.py:157} INFO - Started process (PID=49449) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:04:55.562+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:04:55.563+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:04:55.563+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:04:55.564+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:04:55.597+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:04:55.616+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:04:55.616+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:04:55.644+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.087 seconds
+[2023-05-27T22:05:26.480+0700] {processor.py:157} INFO - Started process (PID=49704) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:05:26.480+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:05:26.481+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:05:26.481+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:05:26.482+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:05:26.517+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:05:26.540+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:05:26.540+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:05:26.573+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.096 seconds
+[2023-05-27T22:05:57.179+0700] {processor.py:157} INFO - Started process (PID=49871) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:05:57.182+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:05:57.183+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:05:57.182+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:05:57.184+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:05:57.220+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:05:57.237+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:05:57.237+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:05:57.271+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.093 seconds
+[2023-05-27T22:06:27.668+0700] {processor.py:157} INFO - Started process (PID=50074) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:06:27.670+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:06:27.671+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:06:27.671+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:06:27.672+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:06:27.705+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:06:27.726+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:06:27.725+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:06:27.756+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.090 seconds
+[2023-05-27T22:06:58.622+0700] {processor.py:157} INFO - Started process (PID=50274) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:06:58.625+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:06:58.626+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:06:58.626+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:06:58.629+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:06:58.667+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:06:58.685+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:06:58.684+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:06:58.717+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.101 seconds
+[2023-05-27T22:07:43.639+0700] {processor.py:157} INFO - Started process (PID=50511) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:07:43.639+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:07:43.640+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:07:43.640+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:07:43.641+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:07:43.682+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:07:43.711+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:07:43.711+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:07:43.740+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.104 seconds
+[2023-05-27T22:08:14.033+0700] {processor.py:157} INFO - Started process (PID=50752) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:08:14.034+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:08:14.034+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:08:14.034+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:08:14.037+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:08:14.069+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:08:14.085+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:08:14.085+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:08:14.116+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.086 seconds
+[2023-05-27T22:08:44.338+0700] {processor.py:157} INFO - Started process (PID=50946) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:08:44.346+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:08:44.347+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:08:44.347+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:08:44.348+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:08:44.377+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:08:44.394+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:08:44.393+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:08:44.431+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.095 seconds
+[2023-05-27T22:09:14.506+0700] {processor.py:157} INFO - Started process (PID=51227) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:09:14.507+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:09:14.508+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:09:14.508+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:09:14.510+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:09:14.544+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:09:14.560+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:09:14.559+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:09:14.589+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.087 seconds
+[2023-05-27T22:09:44.869+0700] {processor.py:157} INFO - Started process (PID=51407) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:09:44.869+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:09:44.870+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:09:44.870+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:09:44.871+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:09:44.905+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:09:44.924+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:09:44.924+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:09:44.953+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.087 seconds
+[2023-05-27T22:10:15.171+0700] {processor.py:157} INFO - Started process (PID=51598) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:10:15.172+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:10:15.173+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:10:15.173+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:10:15.175+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:10:15.221+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:10:15.244+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:10:15.244+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:10:15.286+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.118 seconds
+[2023-05-27T22:10:35.222+0700] {processor.py:157} INFO - Started process (PID=51771) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:10:35.223+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:10:35.224+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:10:35.224+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:10:35.225+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:10:35.271+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:10:35.298+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:10:35.298+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:10:35.327+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.108 seconds
+[2023-05-27T22:11:05.753+0700] {processor.py:157} INFO - Started process (PID=52004) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:11:05.754+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:11:05.754+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:11:05.754+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:11:05.756+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:11:05.796+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:11:05.820+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:11:05.819+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:11:05.864+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.114 seconds
+[2023-05-27T22:11:23.064+0700] {processor.py:157} INFO - Started process (PID=52188) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:11:23.064+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:11:23.065+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:11:23.065+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:11:23.067+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:11:23.117+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:11:23.147+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:11:23.146+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:11:23.180+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.118 seconds
+[2023-05-27T22:11:53.294+0700] {processor.py:157} INFO - Started process (PID=52458) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:11:53.295+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:11:53.296+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:11:53.296+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:11:53.298+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:11:53.329+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:11:53.345+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:11:53.345+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:11:53.374+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.083 seconds
+[2023-05-27T22:12:23.732+0700] {processor.py:157} INFO - Started process (PID=52668) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:12:23.732+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:12:23.733+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:12:23.733+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:12:23.734+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:12:23.762+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tasks_20230527']) retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:12:23.779+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:12:23.779+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T22:12:23.806+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.076 seconds
+[2023-05-27T22:12:53.964+0700] {processor.py:157} INFO - Started process (PID=52873) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:12:53.966+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:12:53.967+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:12:53.967+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:12:53.968+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:12:53.999+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:12:53.998+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 90, in rec_func
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 90, in rec_func
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_utils.py", line 27, in local_semaphore_wrap_func
+    tasks = func(cls=cls, dag=dag, task_config=task_config, params=params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_utils.py", line 11, in ignore_failed_wrap_func
+    tasks = func(cls=cls, dag=dag, task_config=task_config, params=params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/bash_task_factory.py", line 28, in create_task
+    command_template = " ".join(de_config[JsonConfigReader.get_property(task_config, COMMAND_TEMPLATE)])
+TypeError: 'NoneType' object is not subscriptable
+[2023-05-27T22:12:53.999+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:12:54.012+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.050 seconds
+[2023-05-27T22:13:24.580+0700] {processor.py:157} INFO - Started process (PID=53088) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:13:24.583+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:13:24.583+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:13:24.583+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:13:24.584+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:13:24.619+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:13:24.618+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 90, in rec_func
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 90, in rec_func
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_utils.py", line 27, in local_semaphore_wrap_func
+    tasks = func(cls=cls, dag=dag, task_config=task_config, params=params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_utils.py", line 11, in ignore_failed_wrap_func
+    tasks = func(cls=cls, dag=dag, task_config=task_config, params=params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/bash_task_factory.py", line 28, in create_task
+    command_template = " ".join(de_config[JsonConfigReader.get_property(task_config, COMMAND_TEMPLATE)])
+TypeError: 'NoneType' object is not subscriptable
+[2023-05-27T22:13:24.619+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:13:24.633+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.054 seconds
+[2023-05-27T22:13:50.273+0700] {processor.py:157} INFO - Started process (PID=53277) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:13:50.273+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:13:50.274+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:13:50.274+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:13:50.276+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:13:50.319+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:13:50.318+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 90, in rec_func
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 90, in rec_func
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_utils.py", line 27, in local_semaphore_wrap_func
+    tasks = func(cls=cls, dag=dag, task_config=task_config, params=params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_utils.py", line 11, in ignore_failed_wrap_func
+    tasks = func(cls=cls, dag=dag, task_config=task_config, params=params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/bash_task_factory.py", line 28, in create_task
+    command_template = " ".join(de_config[JsonConfigReader.get_property(task_config, COMMAND_TEMPLATE)])
+TypeError: 'NoneType' object is not subscriptable
+[2023-05-27T22:13:50.320+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:13:50.334+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.063 seconds
+[2023-05-27T22:14:20.512+0700] {processor.py:157} INFO - Started process (PID=53590) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:14:20.512+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:14:20.513+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:14:20.513+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:14:20.514+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:14:20.550+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:14:20.549+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 90, in rec_func
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 90, in rec_func
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_utils.py", line 27, in local_semaphore_wrap_func
+    tasks = func(cls=cls, dag=dag, task_config=task_config, params=params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_utils.py", line 11, in ignore_failed_wrap_func
+    tasks = func(cls=cls, dag=dag, task_config=task_config, params=params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/bash_task_factory.py", line 28, in create_task
+    command_template = " ".join(de_config[JsonConfigReader.get_property(task_config, COMMAND_TEMPLATE)])
+TypeError: 'NoneType' object is not subscriptable
+[2023-05-27T22:14:20.550+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:14:20.564+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.055 seconds
+[2023-05-27T22:14:51.062+0700] {processor.py:157} INFO - Started process (PID=53780) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:14:51.063+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:14:51.063+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:14:51.063+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:14:51.065+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:14:51.098+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:14:51.096+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 90, in rec_func
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 90, in rec_func
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_utils.py", line 27, in local_semaphore_wrap_func
+    tasks = func(cls=cls, dag=dag, task_config=task_config, params=params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_utils.py", line 11, in ignore_failed_wrap_func
+    tasks = func(cls=cls, dag=dag, task_config=task_config, params=params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/bash_task_factory.py", line 28, in create_task
+    command_template = " ".join(de_config[JsonConfigReader.get_property(task_config, COMMAND_TEMPLATE)])
+TypeError: 'NoneType' object is not subscriptable
+[2023-05-27T22:14:51.098+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:14:51.111+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.051 seconds
+[2023-05-27T22:15:21.448+0700] {processor.py:157} INFO - Started process (PID=53976) to work on /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:15:21.450+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/tasks_20230527.py for tasks to queue
+[2023-05-27T22:15:21.451+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:15:21.451+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:15:21.453+0700] {logging_mixin.py:149} INFO - ===============Processing: dags/json/tasks_20230527214514.json================
+[2023-05-27T22:15:21.486+0700] {logging_mixin.py:149} INFO - [2023-05-27T22:15:21.485+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/tasks_20230527.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/tasks_20230527.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 5, in create_flow
+    self.create_tasks()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 23, in create_tasks
+    self.graph.dfs(func=create_task)
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 94, in dfs
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 90, in rec_func
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 90, in rec_func
+    rec_func()
+  File "/home/nhattrieu/airflow/dags/dag_builder/graphs/graph.py", line 85, in rec_func
+    func(vertex)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 22, in create_task
+    self.tasks[vertex.name] = task_factory.create_task(dag=self.dag, task_config=vertex.payload)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_factory.py", line 27, in create_task
+    return self.tasks[JsonConfigReader.get_property(task_config, TASK_TYPE)](dag, task_config, params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_utils.py", line 27, in local_semaphore_wrap_func
+    tasks = func(cls=cls, dag=dag, task_config=task_config, params=params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/utils/task_utils.py", line 11, in ignore_failed_wrap_func
+    tasks = func(cls=cls, dag=dag, task_config=task_config, params=params)
+  File "/home/nhattrieu/airflow/dags/dag_builder/tasks/bash_task_factory.py", line 28, in create_task
+    command_template = " ".join(de_config[JsonConfigReader.get_property(task_config, COMMAND_TEMPLATE)])
+TypeError: 'NoneType' object is not subscriptable
+[2023-05-27T22:15:21.487+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/tasks_20230527.py
+[2023-05-27T22:15:21.502+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/tasks_20230527.py took 0.056 seconds

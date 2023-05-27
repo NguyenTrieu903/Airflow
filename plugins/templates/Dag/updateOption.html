@@ -1,0 +1,40 @@
+<form action='' method = "POST">
+    {% if type == "bash" %}
+    <p>Dataset <input type = "text" name = "dataset" value="{{command[0]}}"/></p>
+    <label for="date">Date :</label>
+        <select name="date" id="date">
+        {% for d in task.Date %}
+            {% if d.name == option.format_date%}
+                <option value="{{d.value}}" selected>{{d.name}}</option>
+            {% endif %}
+            <option value="{{d.value}}" >{{d.name}}</option>
+        {% endfor %}
+        </select>
+    <label for="previous_date">Previous Date :</label>
+        <select name="previous_date" id="previous_date">
+        {% for d in task.Date %}
+            {% if d.name == option.format_previous_date%}
+                <option value="{{d.value}}" selected>{{d.name}}</option>
+            {% endif %}
+            <option value="{{d.value}}" >{{d.name}}</option>
+        {% endfor %}
+        </select>
+    {% endif %}
+    {% if type == "hdfs-sensor" %}
+        <p>Number of days <input type = "text" name = "number_of_days" value="{{option.number_of_days}}"/></p>
+        <p>Interval <input type = "text" name = "interval" value="{{option.interval}}"/></p>
+        <label for="date">Date :</label>
+        <select name="date" id="date">
+            {% for d in task.Date %}
+                {% if d.name == option.format_date%}
+                    <option value="{{d.value}}" selected>{{d.name}}</option>
+                {% endif %}
+                <option value="{{d.value}}" >{{d.name}}</option>
+            {% endfor %}
+        </select>
+    {% endif %}
+    <p><input type = "submit" value = "Save" /></p>
+    <button>
+        <a href="/testappbuilderbaseview/option/{{option.taskid}}/view">Cancel</a>
+    </button>
+</form>

@@ -1,0 +1,855 @@
+[2023-05-23T21:02:48.021+0700] {processor.py:157} INFO - Started process (PID=6238) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:02:48.022+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:02:48.022+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:02:48.022+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:02:48.023+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:02:48.033+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:03:19.687+0700] {processor.py:157} INFO - Started process (PID=6634) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:03:19.689+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:03:19.690+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:03:19.690+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:03:19.692+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:03:19.709+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.024 seconds
+[2023-05-23T21:03:50.290+0700] {processor.py:157} INFO - Started process (PID=6861) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:03:50.291+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:03:50.292+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:03:50.292+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:03:50.294+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:03:50.309+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.023 seconds
+[2023-05-23T21:04:20.563+0700] {processor.py:157} INFO - Started process (PID=7032) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:04:20.564+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:04:20.564+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:04:20.564+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:04:20.565+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:04:20.575+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:04:50.778+0700] {processor.py:157} INFO - Started process (PID=7214) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:04:50.779+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:04:50.779+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:04:50.779+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:04:50.780+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:04:50.790+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:05:21.089+0700] {processor.py:157} INFO - Started process (PID=7413) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:05:21.090+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:05:21.090+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:05:21.090+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:05:21.091+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:05:21.100+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:05:51.383+0700] {processor.py:157} INFO - Started process (PID=7584) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:05:51.383+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:05:51.384+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:05:51.384+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:05:51.384+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:05:51.394+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:06:21.732+0700] {processor.py:157} INFO - Started process (PID=7788) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:06:21.733+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:06:21.733+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:06:21.733+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:06:21.734+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:06:21.744+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:06:52.196+0700] {processor.py:157} INFO - Started process (PID=7967) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:06:52.197+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:06:52.198+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:06:52.198+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:06:52.199+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:06:52.214+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.021 seconds
+[2023-05-23T21:07:23.060+0700] {processor.py:157} INFO - Started process (PID=8202) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:07:23.060+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:07:23.061+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:07:23.061+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:07:23.062+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:07:23.072+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:07:53.545+0700] {processor.py:157} INFO - Started process (PID=8376) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:07:53.545+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:07:53.546+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:07:53.546+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:07:53.546+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:07:53.556+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:08:23.893+0700] {processor.py:157} INFO - Started process (PID=8572) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:08:23.894+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:08:23.894+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:08:23.894+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:08:23.895+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:08:23.905+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:08:54.345+0700] {processor.py:157} INFO - Started process (PID=8745) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:08:54.346+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:08:54.346+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:08:54.346+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:08:54.347+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:08:54.357+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:09:24.716+0700] {processor.py:157} INFO - Started process (PID=8945) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:09:24.717+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:09:24.717+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:09:24.717+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:09:24.718+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:09:24.728+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:09:54.850+0700] {processor.py:157} INFO - Started process (PID=9144) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:09:54.850+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:09:54.850+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:09:54.850+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:09:54.851+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:09:54.861+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:10:25.283+0700] {processor.py:157} INFO - Started process (PID=9346) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:10:25.284+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:10:25.284+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:10:25.284+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:10:25.285+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:10:25.295+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:10:55.659+0700] {processor.py:157} INFO - Started process (PID=9525) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:10:55.660+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:10:55.660+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:10:55.660+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:10:55.661+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:10:55.671+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:11:25.982+0700] {processor.py:157} INFO - Started process (PID=9724) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:11:25.983+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:11:25.984+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:11:25.983+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:11:25.984+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:11:25.994+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:11:56.527+0700] {processor.py:157} INFO - Started process (PID=9902) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:11:56.527+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:11:56.528+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:11:56.528+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:11:56.528+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:11:56.538+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:12:26.848+0700] {processor.py:157} INFO - Started process (PID=10107) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:12:26.849+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:12:26.849+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:12:26.849+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:12:26.850+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:12:26.859+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:12:57.267+0700] {processor.py:157} INFO - Started process (PID=10292) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:12:57.267+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:12:57.268+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:12:57.267+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:12:57.268+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:12:57.278+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:13:27.614+0700] {processor.py:157} INFO - Started process (PID=10494) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:13:27.615+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:13:27.616+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:13:27.615+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:13:27.616+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:13:27.626+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:13:58.223+0700] {processor.py:157} INFO - Started process (PID=10676) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:13:58.223+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:13:58.224+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:13:58.224+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:13:58.224+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:13:58.234+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:14:28.556+0700] {processor.py:157} INFO - Started process (PID=10873) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:14:28.557+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:14:28.557+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:14:28.557+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:14:28.558+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:14:28.569+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:14:59.033+0700] {processor.py:157} INFO - Started process (PID=11071) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:14:59.033+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:14:59.034+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:14:59.034+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:14:59.034+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:14:59.044+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.012 seconds
+[2023-05-23T21:15:29.500+0700] {processor.py:157} INFO - Started process (PID=11447) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:15:29.501+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:15:29.501+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:15:29.501+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:15:29.503+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:15:29.516+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.019 seconds
+[2023-05-23T21:15:59.696+0700] {processor.py:157} INFO - Started process (PID=12057) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:15:59.696+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:15:59.696+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:15:59.696+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:15:59.697+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:15:59.707+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:16:30.014+0700] {processor.py:157} INFO - Started process (PID=12319) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:16:30.015+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:16:30.015+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:16:30.015+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:16:30.016+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:16:30.026+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:17:00.300+0700] {processor.py:157} INFO - Started process (PID=12501) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:17:00.300+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:17:00.301+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:17:00.301+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:17:00.302+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:17:00.312+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:17:30.458+0700] {processor.py:157} INFO - Started process (PID=12723) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:17:30.458+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:17:30.459+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:17:30.459+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:17:30.460+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:17:30.470+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:18:00.796+0700] {processor.py:157} INFO - Started process (PID=12912) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:18:00.796+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:18:00.796+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:18:00.796+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:18:00.797+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:18:00.807+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:18:31.580+0700] {processor.py:157} INFO - Started process (PID=13163) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:18:31.582+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:18:31.584+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:18:31.583+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:18:31.586+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:18:31.610+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.033 seconds
+[2023-05-23T21:19:01.684+0700] {processor.py:157} INFO - Started process (PID=13408) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:19:01.685+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:19:01.685+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:19:01.685+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:19:01.686+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:19:01.697+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.015 seconds
+[2023-05-23T21:19:32.478+0700] {processor.py:157} INFO - Started process (PID=13664) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:19:32.479+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:19:32.479+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:19:32.479+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:19:32.480+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:19:32.493+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.016 seconds
+[2023-05-23T21:20:02.955+0700] {processor.py:157} INFO - Started process (PID=13860) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:20:02.955+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:20:02.956+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:20:02.956+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:20:02.956+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:20:02.966+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:20:33.260+0700] {processor.py:157} INFO - Started process (PID=14084) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:20:33.261+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:20:33.261+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:20:33.261+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:20:33.262+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:20:33.274+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.016 seconds
+[2023-05-23T21:21:03.399+0700] {processor.py:157} INFO - Started process (PID=14267) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:21:03.400+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:21:03.400+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:21:03.400+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:21:03.401+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:21:03.410+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:21:33.587+0700] {processor.py:157} INFO - Started process (PID=14453) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:21:33.588+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:21:33.588+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:21:33.588+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:21:33.589+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:21:33.598+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:22:03.821+0700] {processor.py:157} INFO - Started process (PID=14611) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:22:03.822+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:22:03.822+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:22:03.822+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:22:03.823+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:22:03.834+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:22:34.049+0700] {processor.py:157} INFO - Started process (PID=14797) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:22:34.050+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:22:34.050+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:22:34.050+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:22:34.051+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:22:34.060+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.012 seconds
+[2023-05-23T21:23:04.387+0700] {processor.py:157} INFO - Started process (PID=14967) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:23:04.388+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:23:04.388+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:23:04.388+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:23:04.389+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:23:04.400+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.015 seconds
+[2023-05-23T21:23:34.640+0700] {processor.py:157} INFO - Started process (PID=15173) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:23:34.641+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:23:34.641+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:23:34.641+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:23:34.642+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:23:34.655+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.017 seconds
+[2023-05-23T21:24:05.018+0700] {processor.py:157} INFO - Started process (PID=15337) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:24:05.019+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:24:05.019+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:24:05.019+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:24:05.020+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:24:05.030+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:24:35.106+0700] {processor.py:157} INFO - Started process (PID=15532) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:24:35.107+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:24:35.108+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:24:35.107+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:24:35.108+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:24:35.118+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:25:05.259+0700] {processor.py:157} INFO - Started process (PID=15696) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:25:05.260+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:25:05.261+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:25:05.260+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:25:05.261+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:25:05.271+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:25:35.414+0700] {processor.py:157} INFO - Started process (PID=15898) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:25:35.414+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:25:35.415+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:25:35.415+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:25:35.416+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:25:35.425+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:26:05.531+0700] {processor.py:157} INFO - Started process (PID=16064) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:26:05.531+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:26:05.532+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:26:05.532+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:26:05.533+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:26:05.542+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:26:36.021+0700] {processor.py:157} INFO - Started process (PID=16267) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:26:36.021+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:26:36.021+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:26:36.021+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:26:36.022+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:26:36.032+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:27:07.032+0700] {processor.py:157} INFO - Started process (PID=16441) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:27:07.033+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:27:07.034+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:27:07.033+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:27:07.035+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:27:07.045+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.015 seconds
+[2023-05-23T21:27:37.651+0700] {processor.py:157} INFO - Started process (PID=16637) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:27:37.651+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:27:37.652+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:27:37.652+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:27:37.652+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:27:37.662+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:28:08.072+0700] {processor.py:157} INFO - Started process (PID=17483) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:28:08.187+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:28:08.189+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:28:08.188+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:28:08.192+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:28:08.235+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.165 seconds
+[2023-05-23T21:28:38.300+0700] {processor.py:157} INFO - Started process (PID=17754) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:28:38.301+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:28:38.301+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:28:38.301+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:28:38.302+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:28:38.312+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:29:08.766+0700] {processor.py:157} INFO - Started process (PID=17943) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:29:08.767+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:29:08.767+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:29:08.767+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:29:08.768+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:29:08.778+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:29:39.616+0700] {processor.py:157} INFO - Started process (PID=18145) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:29:39.616+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:29:39.617+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:29:39.617+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:29:39.618+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:29:39.630+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.017 seconds
+[2023-05-23T21:30:09.949+0700] {processor.py:157} INFO - Started process (PID=18343) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:30:09.950+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:30:09.950+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:30:09.950+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:30:09.951+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:30:09.961+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:30:40.146+0700] {processor.py:157} INFO - Started process (PID=18559) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:30:40.147+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:30:40.147+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:30:40.147+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:30:40.148+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:30:40.158+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:31:10.319+0700] {processor.py:157} INFO - Started process (PID=18790) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:31:10.319+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:31:10.320+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:31:10.319+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:31:10.320+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:31:10.330+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:31:40.691+0700] {processor.py:157} INFO - Started process (PID=19095) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:31:40.692+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:31:40.692+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:31:40.692+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:31:40.693+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:31:40.703+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:32:10.952+0700] {processor.py:157} INFO - Started process (PID=19336) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:32:10.953+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:32:10.953+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:32:10.953+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:32:10.954+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:32:10.964+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:32:41.276+0700] {processor.py:157} INFO - Started process (PID=19563) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:32:41.277+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:32:41.277+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:32:41.277+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:32:41.278+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:32:41.287+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:33:11.624+0700] {processor.py:157} INFO - Started process (PID=19792) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:33:11.625+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:33:11.625+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:33:11.625+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:33:11.626+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:33:11.636+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:33:41.947+0700] {processor.py:157} INFO - Started process (PID=20037) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:33:41.947+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:33:41.948+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:33:41.948+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:33:41.949+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:33:41.960+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.015 seconds
+[2023-05-23T21:34:12.179+0700] {processor.py:157} INFO - Started process (PID=20250) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:34:12.180+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:34:12.180+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:34:12.180+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:34:12.181+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:34:12.190+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.012 seconds
+[2023-05-23T21:34:42.551+0700] {processor.py:157} INFO - Started process (PID=20499) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:34:42.552+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:34:42.553+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:34:42.552+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:34:42.554+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:34:42.568+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.019 seconds
+[2023-05-23T21:35:12.785+0700] {processor.py:157} INFO - Started process (PID=20822) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:35:12.785+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:35:12.786+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:35:12.785+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:35:12.786+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:35:12.796+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:35:43.184+0700] {processor.py:157} INFO - Started process (PID=21078) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:35:43.185+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:35:43.185+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:35:43.185+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:35:43.186+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:35:43.197+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.015 seconds
+[2023-05-23T21:36:13.491+0700] {processor.py:157} INFO - Started process (PID=21318) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:36:13.491+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:36:13.492+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:36:13.492+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:36:13.493+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:36:13.503+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:36:43.883+0700] {processor.py:157} INFO - Started process (PID=21566) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:36:43.884+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:36:43.884+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:36:43.884+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:36:43.885+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:36:43.896+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:37:14.307+0700] {processor.py:157} INFO - Started process (PID=21779) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:37:14.308+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:37:14.308+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:37:14.308+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:37:14.309+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:37:14.319+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:37:44.607+0700] {processor.py:157} INFO - Started process (PID=22023) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:37:44.608+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:37:44.608+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:37:44.608+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:37:44.609+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:37:44.620+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:38:14.985+0700] {processor.py:157} INFO - Started process (PID=22250) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:38:14.986+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:38:14.986+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:38:14.986+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:38:14.987+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:38:14.998+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.015 seconds
+[2023-05-23T21:38:45.267+0700] {processor.py:157} INFO - Started process (PID=22492) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:38:45.268+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:38:45.268+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:38:45.268+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:38:45.269+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:38:45.280+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:39:15.630+0700] {processor.py:157} INFO - Started process (PID=22774) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:39:15.631+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:39:15.632+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:39:15.632+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:39:15.634+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:39:15.651+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.025 seconds
+[2023-05-23T21:39:45.800+0700] {processor.py:157} INFO - Started process (PID=23065) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:39:45.800+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:39:45.801+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:39:45.801+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:39:45.802+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:39:45.812+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:40:16.065+0700] {processor.py:157} INFO - Started process (PID=23291) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:40:16.066+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:40:16.066+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:40:16.066+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:40:16.067+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:40:16.076+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:40:46.182+0700] {processor.py:157} INFO - Started process (PID=23631) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:40:46.183+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:40:46.183+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:40:46.183+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:40:46.184+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:40:46.196+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.015 seconds
+[2023-05-23T21:41:16.647+0700] {processor.py:157} INFO - Started process (PID=23899) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:41:16.647+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:41:16.648+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:41:16.648+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:41:16.649+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:41:16.658+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:41:47.073+0700] {processor.py:157} INFO - Started process (PID=24136) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:41:47.074+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:41:47.074+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:41:47.074+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:41:47.075+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:41:47.085+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:42:17.514+0700] {processor.py:157} INFO - Started process (PID=24352) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:42:17.515+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:42:17.515+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:42:17.515+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:42:17.516+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:42:17.528+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.015 seconds
+[2023-05-23T21:42:47.677+0700] {processor.py:157} INFO - Started process (PID=24580) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:42:47.677+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:42:47.678+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:42:47.678+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:42:47.679+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:42:47.689+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:43:17.912+0700] {processor.py:157} INFO - Started process (PID=24820) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:43:17.913+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:43:17.913+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:43:17.913+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:43:17.914+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:43:17.924+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:43:48.221+0700] {processor.py:157} INFO - Started process (PID=25028) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:43:48.222+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:43:48.222+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:43:48.222+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:43:48.223+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:43:48.233+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:44:18.557+0700] {processor.py:157} INFO - Started process (PID=25337) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:44:18.558+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:44:18.559+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:44:18.559+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:44:18.561+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:44:18.577+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.024 seconds
+[2023-05-23T21:44:48.723+0700] {processor.py:157} INFO - Started process (PID=25511) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:44:48.724+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:44:48.724+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:44:48.724+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:44:48.725+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:44:48.734+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:45:18.859+0700] {processor.py:157} INFO - Started process (PID=25691) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:45:18.859+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:45:18.860+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:45:18.860+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:45:18.861+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:45:18.871+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:45:49.287+0700] {processor.py:157} INFO - Started process (PID=25879) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:45:49.287+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:45:49.288+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:45:49.288+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:45:49.289+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:45:49.299+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:46:20.191+0700] {processor.py:157} INFO - Started process (PID=26083) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:46:20.193+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:46:20.194+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:46:20.193+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:46:20.195+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:46:20.211+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.023 seconds
+[2023-05-23T21:46:50.850+0700] {processor.py:157} INFO - Started process (PID=26438) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:46:50.851+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:46:50.851+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:46:50.851+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:46:50.852+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:46:50.863+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:47:21.188+0700] {processor.py:157} INFO - Started process (PID=26609) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:47:21.188+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:47:21.189+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:47:21.189+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:47:21.190+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:47:21.199+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:47:51.620+0700] {processor.py:157} INFO - Started process (PID=26815) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:47:51.621+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:47:51.621+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:47:51.621+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:47:51.622+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:47:51.632+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:48:21.787+0700] {processor.py:157} INFO - Started process (PID=27036) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:48:21.787+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:48:21.788+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:48:21.788+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:48:21.788+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:48:21.798+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:48:52.436+0700] {processor.py:157} INFO - Started process (PID=27332) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:48:52.437+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:48:52.438+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:48:52.438+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:48:52.439+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:48:52.452+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.018 seconds
+[2023-05-23T21:49:22.921+0700] {processor.py:157} INFO - Started process (PID=27532) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:49:22.921+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:49:22.922+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:49:22.922+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:49:22.923+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:49:22.933+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:49:53.431+0700] {processor.py:157} INFO - Started process (PID=27784) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:49:53.431+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:49:53.432+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:49:53.432+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:49:53.433+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:49:53.444+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.016 seconds
+[2023-05-23T21:50:23.629+0700] {processor.py:157} INFO - Started process (PID=28012) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:50:23.630+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:50:23.630+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:50:23.630+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:50:23.631+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:50:23.641+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:50:54.845+0700] {processor.py:157} INFO - Started process (PID=28238) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:50:54.846+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:50:54.846+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:50:54.846+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:50:54.847+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:50:54.857+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:51:25.194+0700] {processor.py:157} INFO - Started process (PID=28440) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:51:25.195+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:51:25.196+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:51:25.196+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:51:25.197+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:51:25.208+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.016 seconds
+[2023-05-23T21:51:56.441+0700] {processor.py:157} INFO - Started process (PID=28662) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:51:56.442+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:51:56.442+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:51:56.442+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:51:56.443+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:51:56.454+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:52:26.644+0700] {processor.py:157} INFO - Started process (PID=28853) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:52:26.645+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:52:26.645+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:52:26.645+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:52:26.646+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:52:26.662+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.022 seconds
+[2023-05-23T21:52:57.147+0700] {processor.py:157} INFO - Started process (PID=29117) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:52:57.148+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:52:57.148+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:52:57.148+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:52:57.149+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:52:57.164+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.020 seconds
+[2023-05-23T21:53:27.505+0700] {processor.py:157} INFO - Started process (PID=29365) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:53:27.506+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:53:27.506+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:53:27.506+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:53:27.507+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:53:27.518+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.015 seconds
+[2023-05-23T21:53:57.763+0700] {processor.py:157} INFO - Started process (PID=29559) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:53:57.763+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:53:57.764+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:53:57.764+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:53:57.765+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:53:57.776+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.015 seconds
+[2023-05-23T21:54:28.084+0700] {processor.py:157} INFO - Started process (PID=29755) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:54:28.085+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:54:28.086+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:54:28.085+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:54:28.086+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:54:28.096+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:54:59.087+0700] {processor.py:157} INFO - Started process (PID=30051) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:54:59.088+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:54:59.088+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:54:59.088+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:54:59.089+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:54:59.099+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:55:29.274+0700] {processor.py:157} INFO - Started process (PID=30369) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:55:29.274+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:55:29.275+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:55:29.275+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:55:29.275+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:55:29.285+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:55:59.530+0700] {processor.py:157} INFO - Started process (PID=30560) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:55:59.530+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:55:59.531+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:55:59.531+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:55:59.531+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:55:59.541+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:56:29.889+0700] {processor.py:157} INFO - Started process (PID=30779) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:56:29.889+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:56:29.890+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:56:29.889+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:56:29.890+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:56:29.901+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:57:00.323+0700] {processor.py:157} INFO - Started process (PID=31000) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:57:00.324+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:57:00.324+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:57:00.324+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:57:00.325+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:57:00.335+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:57:30.449+0700] {processor.py:157} INFO - Started process (PID=31215) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:57:30.450+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:57:30.450+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:57:30.450+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:57:30.451+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:57:30.461+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:58:00.662+0700] {processor.py:157} INFO - Started process (PID=31384) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:58:00.663+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:58:00.663+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:58:00.663+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:58:00.664+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:58:00.676+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.016 seconds
+[2023-05-23T21:58:30.742+0700] {processor.py:157} INFO - Started process (PID=31540) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:58:30.742+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:58:30.743+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:58:30.743+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:58:30.744+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:58:30.753+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T21:59:01.157+0700] {processor.py:157} INFO - Started process (PID=31825) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:59:01.158+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:59:01.158+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:59:01.158+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:59:01.159+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:59:01.169+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T21:59:31.312+0700] {processor.py:157} INFO - Started process (PID=31982) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:59:31.313+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T21:59:31.313+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:59:31.313+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:59:31.314+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T21:59:31.324+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:00:01.550+0700] {processor.py:157} INFO - Started process (PID=32161) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:00:01.551+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:00:01.551+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:00:01.551+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:00:01.552+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:00:01.562+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:00:32.536+0700] {processor.py:157} INFO - Started process (PID=32352) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:00:32.537+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:00:32.537+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:00:32.537+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:00:32.538+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:00:32.548+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:01:02.814+0700] {processor.py:157} INFO - Started process (PID=32513) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:01:02.814+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:01:02.815+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:01:02.815+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:01:02.816+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:01:02.825+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:01:33.170+0700] {processor.py:157} INFO - Started process (PID=32783) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:01:33.170+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:01:33.171+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:01:33.170+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:01:33.171+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:01:33.181+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:02:03.629+0700] {processor.py:157} INFO - Started process (PID=32991) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:02:03.629+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:02:03.630+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:02:03.630+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:02:03.631+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:02:03.641+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:02:33.771+0700] {processor.py:157} INFO - Started process (PID=33185) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:02:33.772+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:02:33.772+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:02:33.772+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:02:33.773+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:02:33.783+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:03:03.922+0700] {processor.py:157} INFO - Started process (PID=33405) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:03:03.923+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:03:03.923+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:03:03.923+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:03:03.924+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:03:03.934+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:03:34.150+0700] {processor.py:157} INFO - Started process (PID=33634) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:03:34.150+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:03:34.151+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:03:34.151+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:03:34.152+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:03:34.161+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:04:05.064+0700] {processor.py:157} INFO - Started process (PID=33943) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:04:05.065+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:04:05.065+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:04:05.065+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:04:05.066+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:04:05.076+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:04:35.672+0700] {processor.py:157} INFO - Started process (PID=34155) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:04:35.672+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:04:35.673+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:04:35.673+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:04:35.673+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:04:35.683+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:05:05.796+0700] {processor.py:157} INFO - Started process (PID=34326) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:05:05.797+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:05:05.797+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:05:05.797+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:05:05.798+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:05:05.807+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:05:35.930+0700] {processor.py:157} INFO - Started process (PID=34536) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:05:35.931+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:05:35.931+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:05:35.931+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:05:35.932+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:05:35.941+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:06:06.293+0700] {processor.py:157} INFO - Started process (PID=34722) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:06:06.293+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:06:06.294+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:06:06.294+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:06:06.295+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:06:06.305+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.015 seconds
+[2023-05-23T22:06:36.502+0700] {processor.py:157} INFO - Started process (PID=34893) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:06:36.503+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:06:36.503+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:06:36.503+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:06:36.504+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:06:36.514+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:07:06.762+0700] {processor.py:157} INFO - Started process (PID=35102) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:07:06.763+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:07:06.763+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:07:06.763+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:07:06.764+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:07:06.774+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:07:36.960+0700] {processor.py:157} INFO - Started process (PID=35364) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:07:36.961+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:07:36.961+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:07:36.961+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:07:36.962+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:07:36.973+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:08:07.642+0700] {processor.py:157} INFO - Started process (PID=35600) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:08:07.643+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:08:07.643+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:08:07.643+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:08:07.644+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:08:07.654+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:08:38.042+0700] {processor.py:157} INFO - Started process (PID=36259) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:08:38.043+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:08:38.043+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:08:38.043+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:08:38.044+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:08:38.054+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:09:08.929+0700] {processor.py:157} INFO - Started process (PID=36473) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:09:08.930+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:09:08.930+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:09:08.930+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:09:08.931+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:09:08.941+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:09:39.560+0700] {processor.py:157} INFO - Started process (PID=36751) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:09:39.561+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:09:39.561+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:09:39.561+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:09:39.562+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:09:39.573+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.015 seconds
+[2023-05-23T22:10:09.778+0700] {processor.py:157} INFO - Started process (PID=36966) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:10:09.778+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:10:09.779+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:10:09.779+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:10:09.780+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:10:09.795+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.019 seconds
+[2023-05-23T22:10:40.077+0700] {processor.py:157} INFO - Started process (PID=37201) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:10:40.078+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:10:40.078+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:10:40.078+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:10:40.079+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:10:40.089+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:11:10.621+0700] {processor.py:157} INFO - Started process (PID=37384) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:11:10.621+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:11:10.622+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:11:10.622+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:11:10.623+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:11:10.634+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.015 seconds
+[2023-05-23T22:11:40.961+0700] {processor.py:157} INFO - Started process (PID=37703) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:11:40.961+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:11:40.962+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:11:40.961+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:11:40.962+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:11:40.973+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:12:11.387+0700] {processor.py:157} INFO - Started process (PID=37964) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:12:11.387+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:12:11.388+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:12:11.388+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:12:11.389+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:12:11.398+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:12:41.699+0700] {processor.py:157} INFO - Started process (PID=38243) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:12:41.700+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:12:41.701+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:12:41.700+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:12:41.702+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:12:41.715+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.018 seconds
+[2023-05-23T22:13:11.803+0700] {processor.py:157} INFO - Started process (PID=38427) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:13:11.804+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:13:11.804+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:13:11.804+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:13:11.805+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:13:11.815+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:13:41.964+0700] {processor.py:157} INFO - Started process (PID=38663) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:13:41.965+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:13:41.965+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:13:41.965+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:13:41.966+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:13:41.976+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:14:12.345+0700] {processor.py:157} INFO - Started process (PID=38885) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:14:12.346+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:14:12.346+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:14:12.346+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:14:12.347+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:14:12.356+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:14:42.626+0700] {processor.py:157} INFO - Started process (PID=39087) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:14:42.627+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:14:42.627+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:14:42.627+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:14:42.628+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:14:42.638+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:15:12.807+0700] {processor.py:157} INFO - Started process (PID=39270) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:15:12.808+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:15:12.808+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:15:12.808+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:15:12.809+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:15:12.819+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:15:43.008+0700] {processor.py:157} INFO - Started process (PID=39643) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:15:43.008+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:15:43.009+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:15:43.008+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:15:43.009+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:15:43.019+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:16:13.248+0700] {processor.py:157} INFO - Started process (PID=40116) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:16:13.248+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:16:13.249+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:16:13.249+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:16:13.250+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:16:13.260+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:16:43.618+0700] {processor.py:157} INFO - Started process (PID=40478) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:16:43.619+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:16:43.619+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:16:43.619+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:16:43.620+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:16:43.629+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:17:13.993+0700] {processor.py:157} INFO - Started process (PID=40693) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:17:13.993+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:17:13.994+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:17:13.994+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:17:13.995+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:17:14.004+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:17:44.123+0700] {processor.py:157} INFO - Started process (PID=40953) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:17:44.124+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:17:44.124+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:17:44.124+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:17:44.125+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:17:44.135+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:18:14.682+0700] {processor.py:157} INFO - Started process (PID=41149) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:18:14.683+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:18:14.683+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:18:14.683+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:18:14.684+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:18:14.694+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:18:44.898+0700] {processor.py:157} INFO - Started process (PID=41431) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:18:44.898+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:18:44.899+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:18:44.899+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:18:44.900+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:18:44.910+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:19:15.256+0700] {processor.py:157} INFO - Started process (PID=41788) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:19:15.257+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:19:15.257+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:19:15.257+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:19:15.258+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:19:15.268+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:19:45.667+0700] {processor.py:157} INFO - Started process (PID=42082) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:19:45.668+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:19:45.668+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:19:45.668+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:19:45.669+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:19:45.679+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:20:16.004+0700] {processor.py:157} INFO - Started process (PID=42299) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:20:16.005+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:20:16.006+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:20:16.005+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:20:16.006+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:20:16.016+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:20:46.278+0700] {processor.py:157} INFO - Started process (PID=42532) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:20:46.279+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:20:46.280+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:20:46.280+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:20:46.282+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:20:46.296+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.021 seconds
+[2023-05-23T22:21:16.825+0700] {processor.py:157} INFO - Started process (PID=42768) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:21:16.825+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:21:16.825+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:21:16.825+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:21:16.826+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:21:16.837+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:21:47.181+0700] {processor.py:157} INFO - Started process (PID=43056) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:21:47.182+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:21:47.182+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:21:47.182+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:21:47.183+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:21:47.195+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.017 seconds
+[2023-05-23T22:22:17.510+0700] {processor.py:157} INFO - Started process (PID=43244) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:22:17.511+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:22:17.511+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:22:17.511+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:22:17.512+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:22:17.523+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:22:47.645+0700] {processor.py:157} INFO - Started process (PID=43460) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:22:47.646+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:22:47.646+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:22:47.646+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:22:47.647+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:22:47.657+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:23:17.847+0700] {processor.py:157} INFO - Started process (PID=43658) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:23:17.848+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:23:17.848+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:23:17.848+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:23:17.849+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:23:17.859+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:23:48.128+0700] {processor.py:157} INFO - Started process (PID=44006) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:23:48.128+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:23:48.129+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:23:48.129+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:23:48.130+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:23:48.140+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:24:18.637+0700] {processor.py:157} INFO - Started process (PID=44209) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:24:18.637+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:24:18.638+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:24:18.637+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:24:18.638+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:24:18.649+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:24:48.787+0700] {processor.py:157} INFO - Started process (PID=44476) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:24:48.788+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:24:48.788+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:24:48.788+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:24:48.789+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:24:48.799+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:25:19.266+0700] {processor.py:157} INFO - Started process (PID=44659) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:25:19.267+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:25:19.267+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:25:19.267+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:25:19.268+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:25:19.278+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:25:49.614+0700] {processor.py:157} INFO - Started process (PID=44991) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:25:49.615+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:25:49.615+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:25:49.615+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:25:49.616+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:25:49.629+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.017 seconds
+[2023-05-23T22:26:20.040+0700] {processor.py:157} INFO - Started process (PID=45411) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:26:20.041+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:26:20.041+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:26:20.041+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:26:20.042+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:26:20.052+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:26:50.232+0700] {processor.py:157} INFO - Started process (PID=45735) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:26:50.233+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:26:50.233+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:26:50.233+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:26:50.234+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:26:50.244+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds
+[2023-05-23T22:27:20.915+0700] {processor.py:157} INFO - Started process (PID=45997) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:27:20.916+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:27:20.916+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:27:20.916+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:27:20.917+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:27:20.930+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.017 seconds
+[2023-05-23T22:27:51.405+0700] {processor.py:157} INFO - Started process (PID=46255) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:27:51.406+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:27:51.406+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:27:51.406+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:27:51.407+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:27:51.417+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:28:21.754+0700] {processor.py:157} INFO - Started process (PID=46452) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:28:21.755+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:28:21.755+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:28:21.755+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:28:21.756+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:28:21.767+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.014 seconds
+[2023-05-23T22:28:52.080+0700] {processor.py:157} INFO - Started process (PID=46682) to work on /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:28:52.081+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py for tasks to queue
+[2023-05-23T22:28:52.081+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:28:52.081+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:28:52.082+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py
+[2023-05-23T22:28:52.092+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/common/__init__.py took 0.013 seconds

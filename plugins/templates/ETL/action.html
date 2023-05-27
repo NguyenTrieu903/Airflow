@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>Action</h2>
+
+<form method=post>
+  <p><input type="submit" value=Add>
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Name</th>
+      <th>exprs</th>
+      <th>partitions</th>
+      <th>other_dataset</th>
+      <th>cols</th>
+      <th>join type</th>
+      <th>rename</th>
+    </tr>
+    {% for ac in lst_action %}
+        <tr>
+          <td>{{ac.id}}</td>
+          <td>{{ac.name}}</td>
+          <td>{{ac.exprs}}</td>
+          <td>{{ac.partitions}}</td>
+          <td>{{ac.other_dataset}}</td>
+          <td>{{ac.cols}}</td>
+          <td>{{ac.join_type}}</td>
+          <td>{{ac.in_rename}}</td>
+        </tr>
+    {% endfor %} 
+  </table>
+</form>
+
+</body>
+</html>

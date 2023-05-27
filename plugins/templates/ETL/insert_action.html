@@ -1,0 +1,64 @@
+<form action='' method="POST">
+    <label for="action">action:</label>
+    <select name="action" id="action">
+      <!-- <option value="transform">TRANSFORM</option>
+      <option value="fillter">FILTER</option>
+      <option value="select">SELECT</option>
+      <option value="union">UNION</option>
+      <option value="dedup">DEDUP</option>
+      <option value="repartition">REPARTITION</option>
+      <option value="join">JOIN</option>
+      <option value="rename">RENAME</option> -->
+      {% for action_name in action.lst_action %}
+            <option value="{{action_name}}" >{{action_name}}</option>
+      {% endfor %}
+    </select>
+    <div id="templateContainerAction"></div>
+    <p><input type="submit" value="Add" /></p>
+    <button>
+      <a href="/etlappbuilderbaseview/ViewStep/{{etl_id}}">Cancel</a>
+    </button>
+  </form>
+  
+  <script>
+    // config action
+    const select = document.getElementById('action');
+    const template = document.getElementById('templateContainerAction');
+  
+    select.addEventListener('click', function () {
+      switch (this.value) {
+        case 'transform':
+          template.innerHTML = `<p>column<input type = "text" name = "cols"/></p>
+                                <p>express<input type = "text" name = "transform"/></p>`;
+          break;
+        case 'fillter':
+          template.innerHTML = '<p>fillter<input type = "text" name = "fillter"/></p>';
+          break;
+        case 'select':
+          template.innerHTML = '<p>select<input type = "text" name = "select"/></p>';
+          break;
+        case 'union':
+          template.innerHTML = '<p>orther dataset<input type = "text" name = "orther_dataset"/></p>';
+          break;
+        case 'dedup':
+          template.innerHTML = '<p>column<input type = "text" name = "cols_dedup"/></p>';
+          break;
+        case 'repartition':
+          template.innerHTML = '<p>repartition<input type = "text" name = "repartition"/></p>';
+          break;
+        case 'join':
+          template.innerHTML = `<p>express<input type = "text" name = "join"/></p>
+                                <p>join type<input type = "text" name = "join_type"/></p>
+                                <p>Other dataset<input type = "text" name = "other_dataset_join"/></p>
+                                `;
+          break;
+        case 'rename':
+          template.innerHTML = `<p>column<input type = "text" name = "id_rename"/></p>`;
+          break;
+        default:
+          template.innerHTML = '<p>select<input type = "text" name = "select"/></p>';
+          break;
+      }
+    });
+  </script>
+  </form>

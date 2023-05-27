@@ -1,0 +1,55 @@
+<form action='' method = "POST">
+    <p>name <input type = "text" name = "name" value="{{task.name}}"/></p>
+    <p>Task type<input type = "text" name = "task_type" value="{{task.task_type}}" readonly/></p>
+    <p>Priority weight <input type = "text" name = "priority_weight" value="{{task.priority_weight}}"/></p>
+    <div>
+        <span>Upstream</span>
+                {% for upstream in list_up %}
+                    <input id="upstream" name="nameUpstream" type="checkbox" value="{{upstream}}" checked/>
+                    <label class="inline" for="upstream">{{upstream}}</label>
+                {% endfor %} 
+                {% for ups in All_Upstream %}
+                    <input id="upstream" name="nameUpstream" type="checkbox" value="{{ups}}"/>
+                    <label class="inline" for="upstream">{{ups}}</label>
+                {% endfor %}
+    </div>
+    <p>pool <input type = "text" name = "pool" value="{{task.pool}}"/></p>
+    {% block content %}
+        {% if task.task_type == 'bash' %}
+                <label for="ignore_failed">Ignore failed :</label>
+                <select name="ignore_failed" id="ignore_failed">
+                    {% if task.ignore_failed %}
+                        <option value="True" selected>True</option>
+                        <option value="False">False</option>
+                    {% else %}
+                        <option value="False" selected>False</option>
+                        <option value="True">True</option>
+                    {% endif %}
+                </select>
+                <p>Command template <input type = "text" name = "command_template" value="{{task.command_template}}"/></p>
+        {% elif task.task_type == 'hdfs-sensor' %}
+                <p>File path <input type = "text" name = "filepath" value="{{task.filepath}}"/></p>
+                <p>Flag <input type = "text" name = "flag" value="{{task.flag}}"/></p>
+                <label for="Recursive">Recursive:</label>
+                <select name="recursive" id="recursive">
+                        {% if task.recursive %}
+                            <option value="True" selected>True</option>
+                            <option value="False">False</option>
+                        {% else %}
+                            <option value="False" selected>False</option>
+                            <option value="True">True</option>
+                        {% endif %}    
+                </select>
+                <p>Min size <input type = "text" name = "min_size" value="{{task.min_size}}"/></p>
+        {% else %}
+                <p>Command template <input type = "text" name = "command_template" value="{{task.command_template}}"/></p>
+        {% endif %}
+    {% endblock content %}
+    <p><input type = "submit" value = "Save" /></p>
+    <button>
+        <a href="/testappbuilderbaseview/task/{{task.id}}/detail">Cancel</a>
+    </button>
+</form>
+<script>
+
+</script>

@@ -1,0 +1,1197 @@
+[2023-05-23T21:02:45.931+0700] {processor.py:157} INFO - Started process (PID=6111) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:02:45.931+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:02:45.932+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:02:45.931+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:02:45.939+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:02:45.963+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:02:45.963+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:02:45.978+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:02:45.978+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-22T12:00:00+00:00, run_after=2023-05-23T12:00:00+00:00
+[2023-05-23T21:02:45.990+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.061 seconds
+[2023-05-23T21:03:16.614+0700] {processor.py:157} INFO - Started process (PID=6525) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:03:16.615+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:03:16.616+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:03:16.616+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:03:16.619+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:03:16.635+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:03:16.634+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:03:16.653+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:03:16.653+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:03:16.664+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.053 seconds
+[2023-05-23T21:03:47.370+0700] {processor.py:157} INFO - Started process (PID=6753) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:03:47.371+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:03:47.371+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:03:47.371+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:03:47.378+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:03:47.405+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:03:47.404+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:03:47.432+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:03:47.432+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:03:47.452+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.085 seconds
+[2023-05-23T21:04:17.920+0700] {processor.py:157} INFO - Started process (PID=6929) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:04:17.920+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:04:17.921+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:04:17.920+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:04:17.923+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:04:17.938+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:04:17.938+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:04:17.952+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:04:17.952+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:04:17.962+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.044 seconds
+[2023-05-23T21:04:48.106+0700] {processor.py:157} INFO - Started process (PID=7110) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:04:48.106+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:04:48.106+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:04:48.106+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:04:48.109+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:04:48.124+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:04:48.124+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:04:48.138+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:04:48.138+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:04:48.149+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.045 seconds
+[2023-05-23T21:05:18.384+0700] {processor.py:157} INFO - Started process (PID=7280) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:05:18.384+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:05:18.385+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:05:18.385+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:05:18.388+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:05:18.402+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:05:18.402+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:05:18.418+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:05:18.418+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:05:18.428+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.046 seconds
+[2023-05-23T21:05:48.705+0700] {processor.py:157} INFO - Started process (PID=7478) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:05:48.706+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:05:48.706+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:05:48.706+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:05:48.709+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:05:48.724+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:05:48.724+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:05:48.739+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:05:48.739+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:05:48.749+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.045 seconds
+[2023-05-23T21:06:19.004+0700] {processor.py:157} INFO - Started process (PID=7650) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:06:19.005+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:06:19.005+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:06:19.005+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:06:19.009+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:06:19.029+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:06:19.029+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:06:19.044+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:06:19.044+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:06:19.055+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.053 seconds
+[2023-05-23T21:06:49.341+0700] {processor.py:157} INFO - Started process (PID=7861) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:06:49.342+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:06:49.342+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:06:49.342+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:06:49.345+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:06:49.361+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:06:49.361+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:06:49.377+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:06:49.377+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:06:49.388+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.049 seconds
+[2023-05-23T21:07:20.062+0700] {processor.py:157} INFO - Started process (PID=8074) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:07:20.062+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:07:20.064+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:07:20.064+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:07:20.070+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:07:20.094+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:07:20.094+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:07:20.122+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:07:20.122+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:07:20.141+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.082 seconds
+[2023-05-23T21:07:50.690+0700] {processor.py:157} INFO - Started process (PID=8274) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:07:50.691+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:07:50.691+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:07:50.691+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:07:50.694+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:07:50.710+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:07:50.710+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:07:50.726+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:07:50.726+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:07:50.738+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.050 seconds
+[2023-05-23T21:08:21.127+0700] {processor.py:157} INFO - Started process (PID=8449) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:08:21.127+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:08:21.128+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:08:21.128+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:08:21.131+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:08:21.145+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:08:21.145+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:08:21.160+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:08:21.159+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:08:21.170+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.044 seconds
+[2023-05-23T21:08:51.473+0700] {processor.py:157} INFO - Started process (PID=8639) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:08:51.474+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:08:51.474+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:08:51.474+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:08:51.477+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:08:51.494+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:08:51.493+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:08:51.511+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:08:51.511+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:08:51.523+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.052 seconds
+[2023-05-23T21:09:21.936+0700] {processor.py:157} INFO - Started process (PID=8815) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:09:21.937+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:09:21.937+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:09:21.937+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:09:21.940+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:09:21.956+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:09:21.956+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:09:21.970+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:09:21.970+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:09:21.981+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.046 seconds
+[2023-05-23T21:09:52.282+0700] {processor.py:157} INFO - Started process (PID=9042) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:09:52.283+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:09:52.283+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:09:52.283+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:09:52.287+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:09:52.302+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:09:52.302+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:09:52.319+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:09:52.318+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:09:52.331+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.050 seconds
+[2023-05-23T21:10:22.476+0700] {processor.py:157} INFO - Started process (PID=9241) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:10:22.477+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:10:22.477+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:10:22.477+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:10:22.480+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:10:22.496+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:10:22.496+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:10:22.513+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:10:22.512+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:10:22.524+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.049 seconds
+[2023-05-23T21:10:52.890+0700] {processor.py:157} INFO - Started process (PID=9417) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:10:52.890+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:10:52.891+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:10:52.891+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:10:52.894+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:10:52.909+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:10:52.909+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:10:52.924+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:10:52.924+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:10:52.935+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.047 seconds
+[2023-05-23T21:11:23.281+0700] {processor.py:157} INFO - Started process (PID=9593) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:11:23.282+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:11:23.282+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:11:23.282+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:11:23.285+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:11:23.300+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:11:23.300+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:11:23.314+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:11:23.314+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:11:23.325+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.045 seconds
+[2023-05-23T21:11:53.717+0700] {processor.py:157} INFO - Started process (PID=9798) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:11:53.718+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:11:53.718+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:11:53.718+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:11:53.723+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:11:53.740+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:11:53.740+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:11:53.759+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:11:53.758+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:11:53.771+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.057 seconds
+[2023-05-23T21:12:24.128+0700] {processor.py:157} INFO - Started process (PID=9975) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:12:24.129+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:12:24.129+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:12:24.129+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:12:24.132+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:12:24.148+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:12:24.148+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:12:24.163+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:12:24.163+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:12:24.173+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.047 seconds
+[2023-05-23T21:12:54.542+0700] {processor.py:157} INFO - Started process (PID=10187) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:12:54.542+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:12:54.543+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:12:54.543+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:12:54.546+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:12:54.561+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:12:54.561+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:12:54.575+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:12:54.575+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:12:54.585+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.045 seconds
+[2023-05-23T21:13:24.872+0700] {processor.py:157} INFO - Started process (PID=10364) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:13:24.872+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:13:24.873+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:13:24.873+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:13:24.876+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:13:24.892+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:13:24.891+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:13:24.908+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:13:24.908+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:13:24.919+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.049 seconds
+[2023-05-23T21:13:55.179+0700] {processor.py:157} INFO - Started process (PID=10571) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:13:55.180+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:13:55.180+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:13:55.180+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:13:55.183+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:13:55.199+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:13:55.199+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:13:55.215+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:13:55.215+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:13:55.226+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.048 seconds
+[2023-05-23T21:14:25.894+0700] {processor.py:157} INFO - Started process (PID=10748) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:14:25.895+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:14:25.895+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:14:25.895+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:14:25.898+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:14:25.913+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:14:25.913+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:14:25.928+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:14:25.927+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:14:25.938+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.046 seconds
+[2023-05-23T21:14:56.216+0700] {processor.py:157} INFO - Started process (PID=10966) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:14:56.216+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:14:56.216+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:14:56.216+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:14:56.219+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:14:56.234+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:14:56.234+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:14:56.248+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:14:56.248+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:14:56.258+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.044 seconds
+[2023-05-23T21:15:26.672+0700] {processor.py:157} INFO - Started process (PID=11285) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:15:26.673+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:15:26.673+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:15:26.673+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:15:26.676+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:15:26.691+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:15:26.691+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:15:26.705+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:15:26.705+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:15:26.716+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.046 seconds
+[2023-05-23T21:15:57.242+0700] {processor.py:157} INFO - Started process (PID=11966) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:15:57.243+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:15:57.243+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:15:57.243+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:15:57.246+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:15:57.261+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:15:57.261+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:15:57.275+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:15:57.275+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:15:57.285+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.045 seconds
+[2023-05-23T21:16:27.394+0700] {processor.py:157} INFO - Started process (PID=12225) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:16:27.395+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:16:27.395+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:16:27.395+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:16:27.399+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:16:27.418+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:16:27.417+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:16:27.438+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:16:27.438+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:16:27.454+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.062 seconds
+[2023-05-23T21:16:57.758+0700] {processor.py:157} INFO - Started process (PID=12409) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:16:57.759+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:16:57.759+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:16:57.759+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:16:57.762+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:16:57.776+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:16:57.776+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:16:57.790+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:16:57.790+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:16:57.800+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.044 seconds
+[2023-05-23T21:17:27.864+0700] {processor.py:157} INFO - Started process (PID=12632) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:17:27.865+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:17:27.865+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:17:27.865+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:17:27.868+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:17:27.883+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:17:27.883+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:17:27.897+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:17:27.897+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:17:27.907+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.045 seconds
+[2023-05-23T21:17:58.219+0700] {processor.py:157} INFO - Started process (PID=12821) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:17:58.219+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:17:58.219+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:17:58.219+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:17:58.222+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:17:58.237+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:17:58.237+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:17:58.251+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:17:58.251+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:17:58.260+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.044 seconds
+[2023-05-23T21:18:28.360+0700] {processor.py:157} INFO - Started process (PID=13024) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:18:28.361+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:18:28.361+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:18:28.361+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:18:28.364+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:18:28.384+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:18:28.383+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:18:28.403+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:18:28.403+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:18:28.415+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.057 seconds
+[2023-05-23T21:18:59.133+0700] {processor.py:157} INFO - Started process (PID=13318) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:18:59.133+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:18:59.134+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:18:59.134+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:18:59.137+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:18:59.151+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:18:59.151+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:18:59.166+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:18:59.166+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:18:59.175+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.045 seconds
+[2023-05-23T21:19:29.303+0700] {processor.py:157} INFO - Started process (PID=13538) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:19:29.304+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:19:29.305+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:19:29.304+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:19:29.308+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:19:29.326+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:19:29.326+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:19:29.345+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:19:29.345+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:19:29.359+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.058 seconds
+[2023-05-23T21:19:59.439+0700] {processor.py:157} INFO - Started process (PID=13769) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:19:59.440+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:19:59.440+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:19:59.440+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:19:59.444+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:19:59.460+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:19:59.460+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:19:59.476+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:19:59.476+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:19:59.486+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.049 seconds
+[2023-05-23T21:20:29.570+0700] {processor.py:157} INFO - Started process (PID=13989) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:20:29.570+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:20:29.571+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:20:29.571+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:20:29.574+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:20:29.590+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:20:29.590+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:20:29.606+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:20:29.606+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:20:29.617+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.049 seconds
+[2023-05-23T21:20:59.858+0700] {processor.py:157} INFO - Started process (PID=14175) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:20:59.858+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:20:59.859+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:20:59.859+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:20:59.862+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:20:59.877+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:20:59.877+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:20:59.893+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:20:59.893+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:20:59.903+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.047 seconds
+[2023-05-23T21:21:29.993+0700] {processor.py:157} INFO - Started process (PID=14361) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:21:29.993+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:21:29.994+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:21:29.994+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:21:29.997+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:21:30.011+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:21:30.011+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:21:30.026+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:21:30.026+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:21:30.036+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.045 seconds
+[2023-05-23T21:22:00.229+0700] {processor.py:157} INFO - Started process (PID=14519) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:22:00.230+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:22:00.230+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:22:00.230+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:22:00.233+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:22:00.248+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:22:00.248+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:22:00.263+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:22:00.263+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:22:00.273+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.046 seconds
+[2023-05-23T21:22:30.437+0700] {processor.py:157} INFO - Started process (PID=14706) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:22:30.438+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:22:30.438+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:22:30.438+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:22:30.441+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:22:30.457+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:22:30.456+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:22:30.471+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:22:30.471+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:22:30.482+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.046 seconds
+[2023-05-23T21:23:00.652+0700] {processor.py:157} INFO - Started process (PID=14874) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:23:00.652+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:23:00.653+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:23:00.653+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:23:00.656+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:23:00.671+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:23:00.671+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:23:00.686+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:23:00.686+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:23:00.696+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.046 seconds
+[2023-05-23T21:23:31.050+0700] {processor.py:157} INFO - Started process (PID=15080) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:23:31.051+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:23:31.051+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:23:31.051+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:23:31.054+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:23:31.069+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:23:31.069+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:23:31.083+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:23:31.083+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:23:31.093+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.045 seconds
+[2023-05-23T21:24:01.316+0700] {processor.py:157} INFO - Started process (PID=15244) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:24:01.317+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:24:01.317+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:24:01.317+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:24:01.320+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:24:01.335+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:24:01.335+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:24:01.350+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:24:01.350+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:24:01.360+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.046 seconds
+[2023-05-23T21:24:31.614+0700] {processor.py:157} INFO - Started process (PID=15439) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:24:31.614+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:24:31.615+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:24:31.615+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:24:31.618+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:24:31.633+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:24:31.633+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:24:31.648+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:24:31.648+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:24:31.659+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.047 seconds
+[2023-05-23T21:25:01.710+0700] {processor.py:157} INFO - Started process (PID=15603) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:25:01.710+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:25:01.711+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:25:01.711+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:25:01.714+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:25:01.730+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:25:01.730+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:25:01.746+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:25:01.746+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:25:01.760+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.052 seconds
+[2023-05-23T21:25:31.827+0700] {processor.py:157} INFO - Started process (PID=15805) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:25:31.828+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:25:31.828+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:25:31.828+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:25:31.831+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:25:31.845+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:25:31.845+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:25:31.860+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:25:31.860+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:25:31.870+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.044 seconds
+[2023-05-23T21:26:02.066+0700] {processor.py:157} INFO - Started process (PID=15973) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:26:02.066+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:26:02.067+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:26:02.067+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:26:02.070+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:26:02.086+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:26:02.085+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:26:02.100+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:26:02.100+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:26:02.111+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.047 seconds
+[2023-05-23T21:26:32.234+0700] {processor.py:157} INFO - Started process (PID=16172) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:26:32.235+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:26:32.236+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:26:32.235+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:26:32.240+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:26:32.262+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:26:32.261+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:26:32.285+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:26:32.284+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:26:32.302+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.071 seconds
+[2023-05-23T21:27:02.368+0700] {processor.py:157} INFO - Started process (PID=16347) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:27:02.369+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:27:02.369+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:27:02.369+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:27:02.373+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:27:02.389+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:27:02.388+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:27:02.405+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:27:02.404+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:27:02.416+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.050 seconds
+[2023-05-23T21:27:32.836+0700] {processor.py:157} INFO - Started process (PID=16543) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:27:32.837+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:27:32.838+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:27:32.838+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:27:32.842+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:27:32.859+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:27:32.858+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:27:32.876+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:27:32.876+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:27:32.969+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.135 seconds
+[2023-05-23T21:28:03.493+0700] {processor.py:157} INFO - Started process (PID=17215) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:28:03.498+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:28:03.499+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:28:03.499+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:28:03.502+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:28:03.518+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:28:03.518+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:28:03.608+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:28:03.608+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:28:03.630+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.139 seconds
+[2023-05-23T21:28:34.016+0700] {processor.py:157} INFO - Started process (PID=17661) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:28:34.016+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:28:34.017+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:28:34.017+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:28:34.020+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:28:34.036+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:28:34.036+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:28:34.116+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:28:34.116+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:28:34.128+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.114 seconds
+[2023-05-23T21:29:04.402+0700] {processor.py:157} INFO - Started process (PID=17846) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:29:04.402+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:29:04.403+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:29:04.403+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:29:04.406+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:29:04.423+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:29:04.423+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:29:04.504+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:29:04.504+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:29:04.516+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.116 seconds
+[2023-05-23T21:29:34.863+0700] {processor.py:157} INFO - Started process (PID=18044) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:29:34.864+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:29:34.864+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:29:34.864+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:29:34.868+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:29:34.885+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:29:34.885+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:29:34.975+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:29:34.975+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:29:34.988+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.127 seconds
+[2023-05-23T21:30:05.241+0700] {processor.py:157} INFO - Started process (PID=18251) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:30:05.242+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:30:05.242+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:30:05.242+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:30:05.245+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:30:05.260+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:30:05.260+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:30:05.274+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:30:05.274+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:30:05.284+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.045 seconds
+[2023-05-23T21:30:35.646+0700] {processor.py:157} INFO - Started process (PID=18447) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:30:35.646+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:30:35.647+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:30:35.647+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:30:35.650+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:30:35.665+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:30:35.664+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:30:35.680+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:30:35.680+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:30:35.691+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.047 seconds
+[2023-05-23T21:31:05.827+0700] {processor.py:157} INFO - Started process (PID=18693) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:31:05.828+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:31:05.828+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:31:05.828+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:31:05.831+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:31:05.846+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:31:05.846+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:31:05.862+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:31:05.862+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:31:05.873+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.048 seconds
+[2023-05-23T21:31:36.012+0700] {processor.py:157} INFO - Started process (PID=19001) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:31:36.013+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:31:36.013+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:31:36.013+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:31:36.017+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:31:36.032+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:31:36.032+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:31:36.049+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:31:36.049+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:31:36.061+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.051 seconds
+[2023-05-23T21:32:06.343+0700] {processor.py:157} INFO - Started process (PID=19238) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:32:06.344+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:32:06.344+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:32:06.344+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:32:06.347+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:32:06.361+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:32:06.361+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:32:06.377+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:32:06.376+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:32:06.388+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.046 seconds
+[2023-05-23T21:32:36.598+0700] {processor.py:157} INFO - Started process (PID=19463) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:32:36.598+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:32:36.599+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:32:36.598+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:32:36.602+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:32:36.617+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:32:36.617+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:32:36.634+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:32:36.634+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:32:36.645+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.049 seconds
+[2023-05-23T21:33:06.969+0700] {processor.py:157} INFO - Started process (PID=19673) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:33:06.970+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:33:06.970+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:33:06.970+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:33:06.973+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:33:06.988+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:33:06.988+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:33:07.004+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:33:07.004+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:33:07.014+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.047 seconds
+[2023-05-23T21:33:37.291+0700] {processor.py:157} INFO - Started process (PID=19933) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:33:37.292+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:33:37.292+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:33:37.292+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:33:37.296+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:33:37.312+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:33:37.312+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:33:37.327+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:33:37.326+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:33:37.337+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.047 seconds
+[2023-05-23T21:34:07.646+0700] {processor.py:157} INFO - Started process (PID=20144) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:34:07.647+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:34:07.647+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:34:07.647+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:34:07.652+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:34:07.673+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:34:07.673+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:34:07.692+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:34:07.692+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:34:07.703+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.060 seconds
+[2023-05-23T21:34:37.787+0700] {processor.py:157} INFO - Started process (PID=20398) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:34:37.788+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:34:37.788+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:34:37.788+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:34:37.792+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:34:37.808+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:34:37.808+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:34:37.824+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:34:37.824+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:34:37.840+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.054 seconds
+[2023-05-23T21:35:08.205+0700] {processor.py:157} INFO - Started process (PID=20724) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:35:08.205+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:35:08.206+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:35:08.206+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:35:08.209+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:35:08.224+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:35:08.223+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:35:08.239+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:35:08.239+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:35:08.250+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.047 seconds
+[2023-05-23T21:35:38.407+0700] {processor.py:157} INFO - Started process (PID=20972) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:35:38.408+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:35:38.408+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:35:38.408+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:35:38.411+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:35:38.427+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:35:38.427+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:35:38.443+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:35:38.443+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:35:38.454+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.049 seconds
+[2023-05-23T21:36:08.849+0700] {processor.py:157} INFO - Started process (PID=21217) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:36:08.850+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:36:08.850+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:36:08.850+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:36:08.853+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:36:08.868+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:36:08.868+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:36:08.882+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:36:08.882+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:36:08.892+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.044 seconds
+[2023-05-23T21:36:39.150+0700] {processor.py:157} INFO - Started process (PID=21464) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:36:39.151+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:36:39.151+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:36:39.151+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:36:39.157+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:36:39.182+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:36:39.182+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:36:39.207+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:36:39.207+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:36:39.222+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.074 seconds
+[2023-05-23T21:37:09.520+0700] {processor.py:157} INFO - Started process (PID=21673) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:37:09.521+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:37:09.521+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:37:09.521+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:37:09.525+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:37:09.541+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:37:09.540+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:37:09.557+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:37:09.556+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:37:09.568+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.050 seconds
+[2023-05-23T21:37:39.970+0700] {processor.py:157} INFO - Started process (PID=21923) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:37:39.971+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:37:39.971+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:37:39.971+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:37:39.975+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:37:39.990+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:37:39.990+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:37:40.005+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:37:40.005+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:37:40.017+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.049 seconds
+[2023-05-23T21:38:10.309+0700] {processor.py:157} INFO - Started process (PID=22148) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:38:10.310+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:38:10.311+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:38:10.310+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:38:10.315+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:38:10.331+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:38:10.331+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:38:10.349+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:38:10.349+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:38:10.363+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.055 seconds
+[2023-05-23T21:38:40.585+0700] {processor.py:157} INFO - Started process (PID=22393) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:38:40.586+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:38:40.587+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:38:40.587+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:38:40.591+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:38:40.606+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:38:40.606+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:38:40.621+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:38:40.621+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:38:40.633+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.050 seconds
+[2023-05-23T21:39:10.866+0700] {processor.py:157} INFO - Started process (PID=22626) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:39:10.866+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:39:10.867+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:39:10.867+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:39:10.871+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:39:10.888+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:39:10.887+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:39:10.910+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:39:10.910+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:39:10.924+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.061 seconds
+[2023-05-23T21:39:41.299+0700] {processor.py:157} INFO - Started process (PID=22957) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:39:41.300+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:39:41.301+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:39:41.301+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:39:41.306+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:39:41.325+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:39:41.325+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:39:41.343+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:39:41.343+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:39:41.354+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.058 seconds
+[2023-05-23T21:40:11.438+0700] {processor.py:157} INFO - Started process (PID=23187) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:40:11.439+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:40:11.439+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:40:11.439+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:40:11.442+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:40:11.457+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:40:11.457+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:40:11.471+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:40:11.471+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:40:11.481+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.044 seconds
+[2023-05-23T21:40:41.510+0700] {processor.py:157} INFO - Started process (PID=23530) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:40:41.511+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:40:41.511+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:40:41.511+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:40:41.514+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:40:41.531+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:40:41.531+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:40:41.551+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:40:41.551+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:40:41.565+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.056 seconds
+[2023-05-23T21:41:11.670+0700] {processor.py:157} INFO - Started process (PID=23786) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:41:11.671+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:41:11.671+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:41:11.671+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:41:11.675+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:41:11.689+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:41:11.689+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:41:11.703+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:41:11.703+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:41:11.713+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.045 seconds
+[2023-05-23T21:41:42.056+0700] {processor.py:157} INFO - Started process (PID=24026) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:41:42.056+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:41:42.057+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:41:42.057+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:41:42.060+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:41:42.075+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:41:42.074+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:41:42.090+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:41:42.090+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:41:42.100+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.047 seconds
+[2023-05-23T21:42:12.532+0700] {processor.py:157} INFO - Started process (PID=24232) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:42:12.533+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:42:12.533+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:42:12.533+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:42:12.536+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:42:12.551+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:42:12.551+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:42:12.565+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:42:12.565+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:42:12.576+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.046 seconds
+[2023-05-23T21:42:43.051+0700] {processor.py:157} INFO - Started process (PID=24472) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:42:43.052+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:42:43.052+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:42:43.052+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:42:43.055+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:42:43.070+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:42:43.070+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:42:43.085+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:42:43.085+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:42:43.095+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.046 seconds
+[2023-05-23T21:43:13.226+0700] {processor.py:157} INFO - Started process (PID=24713) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:43:13.227+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:43:13.227+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:43:13.227+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:43:13.231+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:43:13.245+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:43:13.245+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:43:13.260+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:43:13.259+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:43:13.277+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.052 seconds
+[2023-05-23T21:43:43.500+0700] {processor.py:157} INFO - Started process (PID=24924) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:43:43.501+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:43:43.501+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:43:43.501+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:43:43.504+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:43:43.520+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:43:43.520+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:43:43.534+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:43:43.534+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:43:43.545+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.047 seconds
+[2023-05-23T21:44:13.673+0700] {processor.py:157} INFO - Started process (PID=25227) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:44:13.673+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:44:13.674+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:44:13.674+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:44:13.678+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:44:13.697+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:44:13.696+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:44:13.715+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:44:13.715+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:44:13.729+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.059 seconds
+[2023-05-23T21:44:44.003+0700] {processor.py:157} INFO - Started process (PID=25409) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:44:44.003+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:44:44.003+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:44:44.003+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:44:44.006+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:44:44.021+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:44:44.021+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:44:44.036+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:44:44.036+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:44:44.046+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.045 seconds
+[2023-05-23T21:45:14.252+0700] {processor.py:157} INFO - Started process (PID=25590) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:45:14.252+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:45:14.253+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:45:14.253+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:45:14.256+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:45:14.272+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:45:14.271+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:45:14.287+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:45:14.287+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:45:14.299+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.049 seconds
+[2023-05-23T21:45:44.499+0700] {processor.py:157} INFO - Started process (PID=25771) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:45:44.501+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:45:44.503+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:45:44.502+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:45:44.518+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:45:44.581+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:45:44.580+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:45:44.618+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:45:44.618+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:45:44.637+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.147 seconds
+[2023-05-23T21:46:14.753+0700] {processor.py:157} INFO - Started process (PID=25954) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:46:14.754+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:46:14.754+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:46:14.754+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:46:14.757+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:46:14.774+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:46:14.773+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:46:14.790+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:46:14.790+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:46:14.803+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.052 seconds
+[2023-05-23T21:46:44.859+0700] {processor.py:157} INFO - Started process (PID=26323) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:46:44.859+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:46:44.860+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:46:44.860+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:46:44.866+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:46:44.895+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:46:44.895+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:46:44.924+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:46:44.924+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:46:44.944+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.089 seconds
+[2023-05-23T21:47:15.339+0700] {processor.py:157} INFO - Started process (PID=26504) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:47:15.339+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:47:15.340+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:47:15.340+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:47:15.343+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:47:15.359+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:47:15.359+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:47:15.374+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:47:15.374+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:47:15.383+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.046 seconds
+[2023-05-23T21:47:45.760+0700] {processor.py:157} INFO - Started process (PID=26681) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:47:45.761+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:47:45.761+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:47:45.761+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:47:45.764+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:47:45.779+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:47:45.779+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:47:45.793+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:47:45.793+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:47:45.802+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.044 seconds
+[2023-05-23T21:48:16.075+0700] {processor.py:157} INFO - Started process (PID=26924) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:48:16.075+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:48:16.076+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:48:16.075+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:48:16.079+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:48:16.099+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:48:16.099+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:48:16.120+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:48:16.120+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:48:16.136+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.063 seconds
+[2023-05-23T21:48:46.262+0700] {processor.py:157} INFO - Started process (PID=27178) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:48:46.264+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:48:46.264+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:48:46.264+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:48:46.273+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:48:46.312+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:48:46.311+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:48:46.353+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:48:46.353+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:48:46.378+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.122 seconds
+[2023-05-23T21:49:16.860+0700] {processor.py:157} INFO - Started process (PID=27419) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:49:16.861+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:49:16.861+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:49:16.861+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:49:16.865+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:49:16.880+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:49:16.880+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:49:16.895+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:49:16.895+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:49:16.905+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.047 seconds
+[2023-05-23T21:49:47.396+0700] {processor.py:157} INFO - Started process (PID=27635) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:49:47.397+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:49:47.398+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:49:47.398+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:49:47.403+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:49:47.423+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:49:47.423+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:49:47.439+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:49:47.439+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:49:47.449+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.055 seconds
+[2023-05-23T21:50:17.865+0700] {processor.py:157} INFO - Started process (PID=27862) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:50:17.866+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:50:17.867+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:50:17.867+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:50:17.870+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:50:17.885+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:50:17.885+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:50:17.899+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:50:17.899+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:50:17.910+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.046 seconds
+[2023-05-23T21:50:48.067+0700] {processor.py:157} INFO - Started process (PID=28124) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:50:48.068+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:50:48.068+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:50:48.068+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:50:48.071+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:50:48.086+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:50:48.086+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:50:48.101+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:50:48.101+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:50:48.111+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.046 seconds
+[2023-05-23T21:51:18.338+0700] {processor.py:157} INFO - Started process (PID=28320) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:51:18.339+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:51:18.340+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:51:18.339+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:51:18.345+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:51:18.364+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:51:18.364+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:51:18.380+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:51:18.380+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:51:18.391+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.056 seconds
+[2023-05-23T21:51:48.637+0700] {processor.py:157} INFO - Started process (PID=28517) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:51:48.637+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:51:48.638+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:51:48.638+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:51:48.641+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:51:48.655+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:51:48.655+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:51:48.670+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:51:48.669+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:51:48.679+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.044 seconds
+[2023-05-23T21:52:18.889+0700] {processor.py:157} INFO - Started process (PID=28734) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:52:18.889+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:52:18.890+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:52:18.890+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:52:18.893+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:52:18.907+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:52:18.907+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:52:18.921+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:52:18.921+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:52:18.931+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.044 seconds
+[2023-05-23T21:52:49.276+0700] {processor.py:157} INFO - Started process (PID=28977) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:52:49.277+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:52:49.277+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:52:49.277+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:52:49.282+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:52:49.307+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:52:49.307+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:52:49.335+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:52:49.335+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:52:49.351+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.078 seconds
+[2023-05-23T21:53:20.043+0700] {processor.py:157} INFO - Started process (PID=29258) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:53:20.043+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:53:20.044+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:53:20.044+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:53:20.047+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:53:20.062+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:53:20.062+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:53:20.078+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:53:20.078+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:53:20.088+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.047 seconds
+[2023-05-23T21:53:50.106+0700] {processor.py:157} INFO - Started process (PID=29448) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:53:50.106+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:53:50.107+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:53:50.107+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:53:50.110+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:53:50.124+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:53:50.124+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:53:50.139+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:53:50.139+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:53:50.148+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.044 seconds
+[2023-05-23T21:54:20.318+0700] {processor.py:157} INFO - Started process (PID=29646) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:54:20.319+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:54:20.319+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:54:20.319+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:54:20.323+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:54:20.337+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:54:20.337+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:54:20.351+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:54:20.351+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:54:20.361+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.044 seconds
+[2023-05-23T21:54:50.485+0700] {processor.py:157} INFO - Started process (PID=29944) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:54:50.486+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:54:50.486+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:54:50.486+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:54:50.489+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:54:50.504+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:54:50.504+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:54:50.518+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:54:50.518+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:54:50.528+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.045 seconds
+[2023-05-23T21:55:20.740+0700] {processor.py:157} INFO - Started process (PID=30256) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:55:20.741+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:55:20.742+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:55:20.741+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:55:20.745+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:55:20.760+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:55:20.760+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:55:20.775+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:55:20.775+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:55:20.786+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.048 seconds
+[2023-05-23T21:55:51.048+0700] {processor.py:157} INFO - Started process (PID=30456) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:55:51.049+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:55:51.049+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:55:51.049+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:55:51.053+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:55:51.068+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:55:51.068+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:55:51.083+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:55:51.083+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:55:51.095+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.048 seconds
+[2023-05-23T21:56:21.347+0700] {processor.py:157} INFO - Started process (PID=30667) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:56:21.347+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:56:21.347+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:56:21.347+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:56:21.351+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:56:21.367+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:56:21.366+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:56:21.382+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:56:21.382+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:56:21.393+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.049 seconds
+[2023-05-23T21:56:51.691+0700] {processor.py:157} INFO - Started process (PID=30899) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:56:51.692+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:56:51.692+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:56:51.692+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:56:51.697+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:56:51.714+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:56:51.713+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:56:51.728+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:56:51.727+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:56:51.739+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.050 seconds
+[2023-05-23T21:57:21.818+0700] {processor.py:157} INFO - Started process (PID=31084) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:57:21.819+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:57:21.819+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:57:21.819+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:57:21.823+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:57:21.838+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:57:21.838+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:57:21.853+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:57:21.853+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:57:21.865+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.049 seconds
+[2023-05-23T21:57:52.038+0700] {processor.py:157} INFO - Started process (PID=31279) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:57:52.039+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:57:52.039+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:57:52.039+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:57:52.042+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:57:52.057+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:57:52.057+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:57:52.073+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:57:52.073+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:57:52.083+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.047 seconds
+[2023-05-23T21:58:22.220+0700] {processor.py:157} INFO - Started process (PID=31445) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:58:22.220+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:58:22.221+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:58:22.221+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:58:22.225+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:58:22.241+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:58:22.241+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:58:22.256+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:58:22.256+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:58:22.267+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.050 seconds
+[2023-05-23T21:58:52.564+0700] {processor.py:157} INFO - Started process (PID=31720) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:58:52.565+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:58:52.565+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:58:52.565+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:58:52.569+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:58:52.584+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:58:52.584+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:58:52.599+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:58:52.599+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:58:52.609+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.047 seconds
+[2023-05-23T21:59:22.641+0700] {processor.py:157} INFO - Started process (PID=31884) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:59:22.642+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:59:22.642+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:59:22.642+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:59:22.646+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:59:22.667+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:59:22.666+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:59:22.683+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:59:22.683+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:59:22.694+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.056 seconds
+[2023-05-23T21:59:52.841+0700] {processor.py:157} INFO - Started process (PID=32062) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:59:52.841+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T21:59:52.842+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:59:52.842+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:59:52.846+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T21:59:52.866+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:59:52.866+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:59:52.881+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:59:52.880+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T21:59:52.890+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.052 seconds
+[2023-05-23T22:00:23.008+0700] {processor.py:157} INFO - Started process (PID=32226) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:00:23.009+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:00:23.010+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:00:23.010+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:00:23.013+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:00:23.028+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:00:23.028+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:00:23.042+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:00:23.042+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:00:23.053+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.047 seconds
+[2023-05-23T22:00:53.295+0700] {processor.py:157} INFO - Started process (PID=32414) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:00:53.295+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:00:53.295+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:00:53.295+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:00:53.298+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:00:53.313+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:00:53.313+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:00:53.327+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:00:53.327+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:00:53.337+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.045 seconds
+[2023-05-23T22:01:23.602+0700] {processor.py:157} INFO - Started process (PID=32668) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:01:23.603+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:01:23.603+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:01:23.603+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:01:23.606+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:01:23.620+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:01:23.620+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:01:23.635+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:01:23.634+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:01:23.644+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.044 seconds
+[2023-05-23T22:01:53.956+0700] {processor.py:157} INFO - Started process (PID=32868) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:01:53.957+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:01:53.957+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:01:53.957+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:01:53.960+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:01:53.976+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:01:53.975+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:01:53.992+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:01:53.992+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:01:54.003+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.049 seconds
+[2023-05-23T22:02:24.110+0700] {processor.py:157} INFO - Started process (PID=33077) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:02:24.110+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:02:24.111+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:02:24.111+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:02:24.115+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:02:24.131+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:02:24.130+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:02:24.145+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:02:24.145+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:02:24.155+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.047 seconds
+[2023-05-23T22:02:54.254+0700] {processor.py:157} INFO - Started process (PID=33286) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:02:54.255+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:02:54.255+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:02:54.255+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:02:54.258+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:02:54.275+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:02:54.275+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:02:54.290+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:02:54.290+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:02:54.300+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.048 seconds
+[2023-05-23T22:03:24.414+0700] {processor.py:157} INFO - Started process (PID=33524) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:03:24.414+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:03:24.415+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:03:24.415+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:03:24.421+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:03:24.445+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:03:24.445+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:03:24.470+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:03:24.470+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:03:24.485+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.074 seconds
+[2023-05-23T22:03:54.537+0700] {processor.py:157} INFO - Started process (PID=33832) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:03:54.538+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:03:54.538+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:03:54.538+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:03:54.542+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:03:54.559+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:03:54.559+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:03:54.576+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:03:54.576+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:03:54.587+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.052 seconds
+[2023-05-23T22:04:24.806+0700] {processor.py:157} INFO - Started process (PID=34014) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:04:24.809+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:04:24.811+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:04:24.810+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:04:24.830+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:04:24.890+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:04:24.889+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:04:24.914+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:04:24.914+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:04:24.929+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.132 seconds
+[2023-05-23T22:04:55.107+0700] {processor.py:157} INFO - Started process (PID=34215) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:04:55.108+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:04:55.109+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:04:55.109+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:04:55.115+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:04:55.142+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:04:55.141+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:04:55.169+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:04:55.168+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:04:55.183+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.078 seconds
+[2023-05-23T22:05:25.203+0700] {processor.py:157} INFO - Started process (PID=34398) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:05:25.204+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:05:25.204+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:05:25.204+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:05:25.209+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:05:25.228+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:05:25.228+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:05:25.247+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:05:25.247+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:05:25.259+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.059 seconds
+[2023-05-23T22:05:55.343+0700] {processor.py:157} INFO - Started process (PID=34605) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:05:55.344+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:05:55.345+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:05:55.344+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:05:55.351+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:05:55.379+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:05:55.378+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:05:55.401+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:05:55.401+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:05:55.418+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.079 seconds
+[2023-05-23T22:06:25.836+0700] {processor.py:157} INFO - Started process (PID=34786) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:06:25.838+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:06:25.839+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:06:25.839+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:06:25.849+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:06:25.876+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:06:25.876+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:06:25.892+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:06:25.892+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:06:25.903+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.072 seconds
+[2023-05-23T22:06:55.941+0700] {processor.py:157} INFO - Started process (PID=34990) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:06:55.941+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:06:55.941+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:06:55.941+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:06:55.945+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:06:55.965+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:06:55.964+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:06:55.985+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:06:55.985+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:06:55.998+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.059 seconds
+[2023-05-23T22:07:26.130+0700] {processor.py:157} INFO - Started process (PID=35260) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:07:26.131+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:07:26.131+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:07:26.131+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:07:26.136+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:07:26.158+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:07:26.158+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:07:26.177+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:07:26.177+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:07:26.188+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.060 seconds
+[2023-05-23T22:07:56.629+0700] {processor.py:157} INFO - Started process (PID=35477) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:07:56.629+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:07:56.630+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:07:56.630+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:07:56.634+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:07:56.653+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:07:56.653+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:07:56.675+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:07:56.675+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:07:56.690+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.064 seconds
+[2023-05-23T22:08:27.096+0700] {processor.py:157} INFO - Started process (PID=36120) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:08:27.097+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:08:27.097+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:08:27.097+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:08:27.101+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:08:27.118+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:08:27.118+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:08:27.233+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:08:27.233+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:08:27.248+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.154 seconds
+[2023-05-23T22:08:57.578+0700] {processor.py:157} INFO - Started process (PID=36367) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:08:57.578+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:08:57.579+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:08:57.579+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:08:57.583+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:08:57.603+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:08:57.602+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:08:57.702+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:08:57.702+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:08:57.712+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.137 seconds
+[2023-05-23T22:09:27.771+0700] {processor.py:157} INFO - Started process (PID=36616) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:09:27.771+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:09:27.772+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:09:27.772+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:09:27.775+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:09:27.796+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:09:27.796+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:09:27.902+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:09:27.902+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:09:27.915+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.146 seconds
+[2023-05-23T22:09:58.041+0700] {processor.py:157} INFO - Started process (PID=36850) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:09:58.042+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:09:58.043+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:09:58.043+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:09:58.047+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:09:58.065+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:09:58.065+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:09:58.082+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:09:58.082+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:09:58.093+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.054 seconds
+[2023-05-23T22:10:28.308+0700] {processor.py:157} INFO - Started process (PID=37062) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:10:28.309+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:10:28.309+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:10:28.309+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:10:28.315+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:10:28.336+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:10:28.336+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:10:28.352+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:10:28.352+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:10:28.363+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.059 seconds
+[2023-05-23T22:10:58.530+0700] {processor.py:157} INFO - Started process (PID=37262) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:10:58.532+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:10:58.534+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:10:58.534+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:10:58.554+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:10:58.629+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:10:58.629+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:10:58.658+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:10:58.658+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:10:58.673+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.151 seconds
+[2023-05-23T22:11:29.026+0700] {processor.py:157} INFO - Started process (PID=37448) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:11:29.026+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:11:29.027+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:11:29.027+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:11:29.031+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:11:29.051+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:11:29.051+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:11:29.070+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:11:29.070+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:11:29.087+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.063 seconds
+[2023-05-23T22:11:59.623+0700] {processor.py:157} INFO - Started process (PID=37828) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:11:59.623+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:11:59.624+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:11:59.624+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:11:59.629+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:11:59.648+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:11:59.648+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:11:59.668+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:11:59.667+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:11:59.682+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.061 seconds
+[2023-05-23T22:12:29.859+0700] {processor.py:157} INFO - Started process (PID=38090) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:12:29.859+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:12:29.860+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:12:29.860+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:12:29.866+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:12:29.893+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:12:29.893+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:12:29.918+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:12:29.918+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:12:29.933+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.078 seconds
+[2023-05-23T22:13:00.193+0700] {processor.py:157} INFO - Started process (PID=38304) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:13:00.194+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:13:00.194+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:13:00.194+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:13:00.198+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:13:00.218+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:13:00.218+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:13:00.241+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:13:00.241+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:13:00.257+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.065 seconds
+[2023-05-23T22:13:30.293+0700] {processor.py:157} INFO - Started process (PID=38485) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:13:30.294+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:13:30.295+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:13:30.295+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:13:30.302+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:13:30.323+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:13:30.323+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:13:30.340+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:13:30.340+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:13:30.352+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.063 seconds
+[2023-05-23T22:14:00.398+0700] {processor.py:157} INFO - Started process (PID=38731) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:14:00.399+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:14:00.399+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:14:00.399+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:14:00.407+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:14:00.435+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:14:00.434+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:14:00.459+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:14:00.459+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:14:00.477+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.084 seconds
+[2023-05-23T22:14:30.816+0700] {processor.py:157} INFO - Started process (PID=38942) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:14:30.817+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:14:30.818+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:14:30.817+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:14:30.824+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:14:30.852+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:14:30.851+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:14:30.872+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:14:30.872+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:14:30.882+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.071 seconds
+[2023-05-23T22:15:01.102+0700] {processor.py:157} INFO - Started process (PID=39149) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:15:01.103+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:15:01.104+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:15:01.104+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:15:01.108+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:15:01.125+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:15:01.125+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:15:01.141+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:15:01.141+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:15:01.152+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.052 seconds
+[2023-05-23T22:15:31.207+0700] {processor.py:157} INFO - Started process (PID=39494) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:15:31.208+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:15:31.208+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:15:31.208+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:15:31.212+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:15:31.227+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:15:31.227+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:15:31.244+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:15:31.244+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:15:31.255+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.050 seconds
+[2023-05-23T22:16:01.465+0700] {processor.py:157} INFO - Started process (PID=39958) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:16:01.466+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:16:01.466+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:16:01.466+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:16:01.474+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:16:01.506+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:16:01.506+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:16:01.539+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:16:01.539+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:16:01.565+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.103 seconds
+[2023-05-23T22:16:31.686+0700] {processor.py:157} INFO - Started process (PID=40316) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:16:31.686+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:16:31.687+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:16:31.687+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:16:31.692+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:16:31.709+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:16:31.709+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:16:31.728+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:16:31.728+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:16:31.745+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.061 seconds
+[2023-05-23T22:17:02.014+0700] {processor.py:157} INFO - Started process (PID=40552) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:17:02.015+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:17:02.015+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:17:02.015+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:17:02.019+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:17:02.036+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:17:02.036+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:17:02.054+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:17:02.054+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:17:02.069+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.057 seconds
+[2023-05-23T22:17:32.507+0700] {processor.py:157} INFO - Started process (PID=40805) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:17:32.508+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:17:32.508+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:17:32.508+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:17:32.512+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:17:32.531+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:17:32.531+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:17:32.549+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:17:32.548+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:17:32.560+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.054 seconds
+[2023-05-23T22:18:02.687+0700] {processor.py:157} INFO - Started process (PID=41017) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:18:02.688+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:18:02.688+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:18:02.688+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:18:02.694+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:18:02.712+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:18:02.712+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:18:02.727+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:18:02.727+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:18:02.743+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.060 seconds
+[2023-05-23T22:18:33.130+0700] {processor.py:157} INFO - Started process (PID=41285) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:18:33.131+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:18:33.132+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:18:33.132+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:18:33.138+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:18:33.161+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:18:33.161+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:18:33.177+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:18:33.177+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:18:33.188+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.063 seconds
+[2023-05-23T22:19:03.330+0700] {processor.py:157} INFO - Started process (PID=41521) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:19:03.331+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:19:03.332+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:19:03.332+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:19:03.338+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:19:03.363+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:19:03.363+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:19:03.393+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:19:03.393+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:19:03.411+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.083 seconds
+[2023-05-23T22:19:33.647+0700] {processor.py:157} INFO - Started process (PID=41867) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:19:33.648+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:19:33.649+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:19:33.649+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:19:33.657+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:19:33.678+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:19:33.677+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:19:33.693+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:19:33.693+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:19:33.703+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.061 seconds
+[2023-05-23T22:20:04.127+0700] {processor.py:157} INFO - Started process (PID=42179) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:20:04.127+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:20:04.128+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:20:04.128+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:20:04.131+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:20:04.147+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:20:04.147+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:20:04.164+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:20:04.164+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:20:04.174+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.049 seconds
+[2023-05-23T22:20:34.433+0700] {processor.py:157} INFO - Started process (PID=42360) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:20:34.434+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:20:34.435+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:20:34.434+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:20:34.440+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:20:34.461+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:20:34.461+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:20:34.485+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:20:34.485+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:20:34.508+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.078 seconds
+[2023-05-23T22:21:04.750+0700] {processor.py:157} INFO - Started process (PID=42648) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:21:04.751+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:21:04.751+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:21:04.751+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:21:04.757+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:21:04.775+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:21:04.775+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:21:04.791+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:21:04.791+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:21:04.802+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.056 seconds
+[2023-05-23T22:21:35.260+0700] {processor.py:157} INFO - Started process (PID=42847) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:21:35.261+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:21:35.261+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:21:35.261+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:21:35.265+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:21:35.281+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:21:35.280+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:21:35.302+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:21:35.302+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:21:35.315+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.056 seconds
+[2023-05-23T22:22:05.643+0700] {processor.py:157} INFO - Started process (PID=43125) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:22:05.644+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:22:05.644+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:22:05.644+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:22:05.651+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:22:05.674+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:22:05.674+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:22:05.690+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:22:05.690+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:22:05.700+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.060 seconds
+[2023-05-23T22:22:35.991+0700] {processor.py:157} INFO - Started process (PID=43314) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:22:35.991+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:22:35.992+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:22:35.992+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:22:35.995+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:22:36.010+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:22:36.010+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:22:36.025+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:22:36.025+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:22:36.035+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.046 seconds
+[2023-05-23T22:23:06.205+0700] {processor.py:157} INFO - Started process (PID=43530) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:23:06.206+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:23:06.206+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:23:06.206+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:23:06.209+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:23:06.228+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:23:06.227+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:23:06.249+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:23:06.249+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:23:06.263+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.059 seconds
+[2023-05-23T22:23:37.278+0700] {processor.py:157} INFO - Started process (PID=43860) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:23:37.282+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:23:37.284+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:23:37.283+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:23:37.295+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:23:37.329+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:23:37.329+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:23:37.366+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:23:37.366+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:23:37.388+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.113 seconds
+[2023-05-23T22:24:07.583+0700] {processor.py:157} INFO - Started process (PID=44073) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:24:07.584+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:24:07.584+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:24:07.584+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:24:07.588+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:24:07.605+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:24:07.605+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:24:07.622+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:24:07.622+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:24:07.634+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.053 seconds
+[2023-05-23T22:24:38.062+0700] {processor.py:157} INFO - Started process (PID=44331) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:24:38.065+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:24:38.066+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:24:38.066+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:24:38.070+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:24:38.089+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:24:38.088+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:24:38.105+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:24:38.105+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:24:38.117+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.056 seconds
+[2023-05-23T22:25:08.263+0700] {processor.py:157} INFO - Started process (PID=44544) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:25:08.264+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:25:08.264+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:25:08.264+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:25:08.268+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:25:08.288+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:25:08.288+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:25:08.306+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:25:08.306+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:25:08.318+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.057 seconds
+[2023-05-23T22:25:38.695+0700] {processor.py:157} INFO - Started process (PID=44870) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:25:38.696+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:25:38.696+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:25:38.696+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:25:38.700+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:25:38.720+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:25:38.720+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:25:38.741+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:25:38.741+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:25:38.757+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.065 seconds
+[2023-05-23T22:26:09.104+0700] {processor.py:157} INFO - Started process (PID=45285) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:26:09.105+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:26:09.106+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:26:09.105+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:26:09.109+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:26:09.125+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:26:09.125+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:26:09.144+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:26:09.143+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:26:09.154+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.052 seconds
+[2023-05-23T22:26:39.504+0700] {processor.py:157} INFO - Started process (PID=45472) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:26:39.505+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:26:39.505+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:26:39.505+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:26:39.510+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:26:39.527+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:26:39.527+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:26:39.543+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:26:39.542+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:26:39.553+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.052 seconds
+[2023-05-23T22:27:09.630+0700] {processor.py:157} INFO - Started process (PID=45825) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:27:09.633+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:27:09.633+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:27:09.633+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:27:09.637+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:27:09.656+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:27:09.655+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:27:09.675+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:27:09.675+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:27:09.692+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.064 seconds
+[2023-05-23T22:27:40.426+0700] {processor.py:157} INFO - Started process (PID=46077) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:27:40.429+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:27:40.431+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:27:40.430+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:27:40.440+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:27:40.467+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:27:40.467+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:27:40.484+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:27:40.484+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:27:40.493+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.075 seconds
+[2023-05-23T22:28:10.958+0700] {processor.py:157} INFO - Started process (PID=46335) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:28:10.961+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:28:10.962+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:28:10.962+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:28:10.970+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:28:10.993+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:28:10.993+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:28:11.013+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:28:11.013+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:28:11.028+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.077 seconds
+[2023-05-23T22:28:41.282+0700] {processor.py:157} INFO - Started process (PID=46516) to work on /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:28:41.286+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/hello_world.py for tasks to queue
+[2023-05-23T22:28:41.287+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:28:41.286+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:28:41.294+0700] {processor.py:836} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/nhattrieu/airflow/dags/hello_world.py
+[2023-05-23T22:28:41.315+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:28:41.315+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T22:28:41.333+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:28:41.333+0700] {dag.py:3486} INFO - Setting next_dagrun for hello_world to 2023-05-23T12:00:00+00:00, run_after=2023-05-24T12:00:00+00:00
+[2023-05-23T22:28:41.343+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/hello_world.py took 0.068 seconds

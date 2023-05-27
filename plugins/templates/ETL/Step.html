@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>Step</h2>
+
+<form method=post>
+  <p><input type="submit" value=Add>
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Name</th>
+      <th>input format</th>
+      <th>output format</th>
+    </tr>
+    {% for step in lst_step %}
+        <tr>
+          <td>{{step.id}}</td>
+          <td>{{step.name}}</td>
+          <td>{{step.input_format}}</td>
+          <td>{{step.output_format}}</td>
+          <td>
+            <button>
+              <a href="/etlappbuilderbaseview/actionStep/insert/{{step.id}}">Insert action</a>
+            </button>
+          </td>
+          <td>
+            <button>
+              <a href="/etlappbuilderbaseview/ViewAction/{{step.id}}">View action</a>
+            </button>
+          </td>
+          <td>
+            <button>
+              <a href="/etlappbuilderbaseview/Delete/{{step.id}}">Delete</a>
+            </button>
+          </td>
+        </tr>
+    {% endfor %} 
+    <button>
+      <a href="/etlappbuilderbaseview/action/apply/{{etl_id}}">Apply</a>
+    </button>
+  </table>
+</form>
+
+</body>
+</html>

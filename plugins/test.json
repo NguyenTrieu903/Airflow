@@ -1,0 +1,34 @@
+{
+    "com.nineoneonedata.spark": [
+        {
+            "awafw": {
+                "input": {
+                    "format": "csv"
+                },
+                "actions": [
+                    {
+                        "plan": "select",
+                        "exprs": [
+                            "dgr"
+                        ]
+                    },
+                    {
+                        "plan": "dedup",
+                        "cols": [
+                            "drgdg"
+                        ]
+                    },
+                    {
+                        "plan": "transform",
+                        "exprs": [
+                            "sefsef"
+                        ],
+                        "cols": [
+                            "seg"
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

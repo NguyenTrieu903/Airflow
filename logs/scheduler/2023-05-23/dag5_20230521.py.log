@@ -1,0 +1,600 @@
+[2023-05-23T21:02:45.748+0700] {processor.py:157} INFO - Started process (PID=6098) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:02:45.748+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:02:45.749+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:02:45.749+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:02:45.750+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:02:45.753+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:02:45.775+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:02:45.774+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:02:45.790+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:02:45.790+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:02:45.801+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.055 seconds
+[2023-05-23T21:03:16.405+0700] {processor.py:157} INFO - Started process (PID=6514) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:03:16.409+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:03:16.410+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:03:16.409+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:03:16.412+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:03:16.412+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:03:16.443+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:03:16.443+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:03:16.477+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:03:16.477+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:03:16.500+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.097 seconds
+[2023-05-23T21:03:47.173+0700] {processor.py:157} INFO - Started process (PID=6737) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:03:47.174+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:03:47.174+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:03:47.174+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:03:47.176+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:03:47.176+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:03:47.199+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:03:47.198+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:03:47.227+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:03:47.227+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:03:47.247+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.075 seconds
+[2023-05-23T21:04:17.741+0700] {processor.py:157} INFO - Started process (PID=6917) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:04:17.744+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:04:17.745+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:04:17.745+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:04:17.747+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:04:17.748+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:04:17.773+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:04:17.773+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:04:17.794+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:04:17.794+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:04:17.805+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.069 seconds
+[2023-05-23T21:04:47.929+0700] {processor.py:157} INFO - Started process (PID=7098) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:04:47.930+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:04:47.931+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:04:47.930+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:04:47.932+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:04:47.933+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:04:47.955+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:04:47.955+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:04:47.974+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:04:47.974+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:04:47.987+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.062 seconds
+[2023-05-23T21:05:18.201+0700] {processor.py:157} INFO - Started process (PID=7267) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:05:18.203+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:05:18.204+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:05:18.204+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:05:18.206+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:05:18.206+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:05:18.228+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:05:18.228+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:05:18.245+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:05:18.244+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:05:18.257+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.059 seconds
+[2023-05-23T21:05:48.524+0700] {processor.py:157} INFO - Started process (PID=7466) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:05:48.528+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:05:48.529+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:05:48.529+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:05:48.533+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:05:48.534+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:05:48.558+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:05:48.558+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:05:48.574+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:05:48.574+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:05:48.586+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.069 seconds
+[2023-05-23T21:06:18.824+0700] {processor.py:157} INFO - Started process (PID=7637) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:06:18.827+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:06:18.829+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:06:18.828+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:06:18.832+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:06:18.833+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:06:18.855+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:06:18.854+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:06:18.869+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:06:18.869+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:06:18.881+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.065 seconds
+[2023-05-23T21:06:49.163+0700] {processor.py:157} INFO - Started process (PID=7849) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:06:49.166+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:06:49.167+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:06:49.167+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:06:49.170+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:06:49.170+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:06:49.192+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:06:49.191+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:06:49.206+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:06:49.206+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:06:49.217+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.060 seconds
+[2023-05-23T21:07:19.786+0700] {processor.py:157} INFO - Started process (PID=8058) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:07:19.789+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:07:19.790+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:07:19.789+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:07:19.791+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:07:19.792+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:07:19.815+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:07:19.815+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:07:19.843+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:07:19.843+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:07:19.866+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.082 seconds
+[2023-05-23T21:07:50.514+0700] {processor.py:157} INFO - Started process (PID=8262) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:07:50.518+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:07:50.519+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:07:50.518+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:07:50.522+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:07:50.522+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:07:50.545+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:07:50.545+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:07:50.559+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:07:50.559+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:07:50.572+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.064 seconds
+[2023-05-23T21:08:20.955+0700] {processor.py:157} INFO - Started process (PID=8435) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:08:20.957+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:08:20.958+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:08:20.958+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:08:20.959+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:08:20.959+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:08:20.976+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:08:20.976+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:08:20.994+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:08:20.994+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:08:21.007+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.054 seconds
+[2023-05-23T21:08:51.313+0700] {processor.py:157} INFO - Started process (PID=8627) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:08:51.316+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:08:51.317+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:08:51.317+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:08:51.319+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:08:51.320+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:08:51.342+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:08:51.342+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:08:51.357+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:08:51.357+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:08:51.371+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.064 seconds
+[2023-05-23T21:09:21.764+0700] {processor.py:157} INFO - Started process (PID=8803) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:09:21.767+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:09:21.767+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:09:21.767+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:09:21.768+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:09:21.769+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:09:21.788+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:09:21.787+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:09:21.805+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:09:21.805+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:09:21.817+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.055 seconds
+[2023-05-23T21:09:52.098+0700] {processor.py:157} INFO - Started process (PID=9030) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:09:52.101+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:09:52.102+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:09:52.101+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:09:52.103+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:09:52.104+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:09:52.128+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:09:52.127+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:09:52.148+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:09:52.148+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:09:52.160+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.064 seconds
+[2023-05-23T21:10:22.293+0700] {processor.py:157} INFO - Started process (PID=9229) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:10:22.295+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:10:22.297+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:10:22.297+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:10:22.302+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:10:22.302+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:10:22.329+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:10:22.329+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:10:22.343+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:10:22.343+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:10:22.356+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.071 seconds
+[2023-05-23T21:10:52.734+0700] {processor.py:157} INFO - Started process (PID=9406) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:10:52.737+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:10:52.739+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:10:52.738+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:10:52.742+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:10:52.743+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:10:52.768+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:10:52.768+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:10:52.783+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:10:52.783+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:10:52.795+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.069 seconds
+[2023-05-23T21:11:23.114+0700] {processor.py:157} INFO - Started process (PID=9581) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:11:23.114+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:11:23.115+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:11:23.115+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:11:23.117+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:11:23.118+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:11:23.139+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:11:23.139+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:11:23.153+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:11:23.153+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:11:23.165+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.056 seconds
+[2023-05-23T21:11:53.387+0700] {processor.py:157} INFO - Started process (PID=9786) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:11:53.390+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:11:53.390+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:11:53.390+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:11:53.391+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:11:53.391+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:11:53.411+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:11:53.411+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:11:53.431+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:11:53.431+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:11:53.446+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.061 seconds
+[2023-05-23T21:12:23.960+0700] {processor.py:157} INFO - Started process (PID=9963) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:12:23.963+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:12:23.963+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:12:23.963+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:12:23.965+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:12:23.965+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:12:23.981+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:12:23.981+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:12:23.995+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:12:23.995+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:12:24.007+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.049 seconds
+[2023-05-23T21:12:54.354+0700] {processor.py:157} INFO - Started process (PID=10174) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:12:54.357+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:12:54.358+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:12:54.358+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:12:54.361+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:12:54.362+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:12:54.396+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:12:54.396+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:12:54.414+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:12:54.414+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:12:54.425+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.076 seconds
+[2023-05-23T21:13:24.699+0700] {processor.py:157} INFO - Started process (PID=10352) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:13:24.702+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:13:24.703+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:13:24.703+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:13:24.706+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:13:24.707+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:13:24.731+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:13:24.730+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:13:24.745+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:13:24.745+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:13:24.756+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.064 seconds
+[2023-05-23T21:13:55.018+0700] {processor.py:157} INFO - Started process (PID=10559) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:13:55.019+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:13:55.019+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:13:55.019+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:13:55.021+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:13:55.021+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:13:55.037+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:13:55.037+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:13:55.051+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:13:55.051+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:13:55.062+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.046 seconds
+[2023-05-23T21:14:25.723+0700] {processor.py:157} INFO - Started process (PID=10736) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:14:25.726+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:14:25.727+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:14:25.727+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:14:25.729+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:14:25.730+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:14:25.750+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:14:25.750+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:14:25.764+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:14:25.764+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:14:25.775+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.056 seconds
+[2023-05-23T21:14:56.041+0700] {processor.py:157} INFO - Started process (PID=10953) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:14:56.042+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:14:56.044+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:14:56.043+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:14:56.047+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:14:56.048+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:14:56.072+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:14:56.071+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:14:56.087+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:14:56.087+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:14:56.097+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.064 seconds
+[2023-05-23T21:15:26.510+0700] {processor.py:157} INFO - Started process (PID=11272) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:15:26.511+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:15:26.512+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:15:26.511+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:15:26.513+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:15:26.513+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:15:26.529+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:15:26.529+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:15:26.543+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:15:26.543+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:15:26.554+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.046 seconds
+[2023-05-23T21:15:57.055+0700] {processor.py:157} INFO - Started process (PID=11954) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:15:57.057+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:15:57.058+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:15:57.057+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:15:57.060+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:15:57.061+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:15:57.094+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:15:57.094+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:15:57.112+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:15:57.112+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:15:57.123+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.073 seconds
+[2023-05-23T21:16:27.174+0700] {processor.py:157} INFO - Started process (PID=12212) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:16:27.175+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:16:27.176+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:16:27.175+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:16:27.177+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:16:27.178+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:16:27.195+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:16:27.195+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:16:27.216+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:16:27.216+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:16:27.235+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.063 seconds
+[2023-05-23T21:16:57.578+0700] {processor.py:157} INFO - Started process (PID=12397) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:16:57.580+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:16:57.581+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:16:57.581+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:16:57.584+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:16:57.585+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:16:57.613+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:16:57.613+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:16:57.630+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:16:57.629+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:16:57.641+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.070 seconds
+[2023-05-23T21:17:27.692+0700] {processor.py:157} INFO - Started process (PID=12620) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:17:27.696+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:17:27.697+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:17:27.696+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:17:27.701+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:17:27.701+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:17:27.722+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:17:27.722+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:17:27.736+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:17:27.736+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:17:27.747+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.061 seconds
+[2023-05-23T21:17:58.033+0700] {processor.py:157} INFO - Started process (PID=12809) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:17:58.036+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:17:58.037+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:17:58.037+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:17:58.040+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:17:58.040+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:17:58.062+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:17:58.062+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:17:58.079+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:17:58.079+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:17:58.090+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.064 seconds
+[2023-05-23T21:18:28.207+0700] {processor.py:157} INFO - Started process (PID=13012) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:18:28.210+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:18:28.210+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:18:28.210+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:18:28.211+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:18:28.212+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:18:28.232+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:18:28.232+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:18:28.253+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:18:28.253+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:18:28.267+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.062 seconds
+[2023-05-23T21:18:58.904+0700] {processor.py:157} INFO - Started process (PID=13305) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:18:58.906+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:18:58.908+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:18:58.907+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:18:58.912+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:18:58.913+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:18:58.936+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:18:58.936+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:18:58.952+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:18:58.951+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:18:58.962+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.066 seconds
+[2023-05-23T21:19:29.110+0700] {processor.py:157} INFO - Started process (PID=13526) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:19:29.111+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:19:29.111+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:19:29.111+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:19:29.112+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:19:29.113+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:19:29.130+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:19:29.130+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:19:29.148+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:19:29.148+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:19:29.162+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.053 seconds
+[2023-05-23T21:19:59.261+0700] {processor.py:157} INFO - Started process (PID=13757) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:19:59.264+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:19:59.264+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:19:59.264+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:19:59.266+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:19:59.266+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:19:59.283+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:19:59.283+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:19:59.299+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:19:59.299+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:19:59.311+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.051 seconds
+[2023-05-23T21:20:29.385+0700] {processor.py:157} INFO - Started process (PID=13977) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:20:29.388+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:20:29.389+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:20:29.389+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:20:29.392+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:20:29.393+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:20:29.417+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:20:29.417+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:20:29.435+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:20:29.435+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:20:29.447+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.068 seconds
+[2023-05-23T21:20:59.682+0700] {processor.py:157} INFO - Started process (PID=14163) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:20:59.686+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:20:59.687+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:20:59.686+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:20:59.689+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:20:59.690+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:20:59.711+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:20:59.711+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:20:59.727+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:20:59.727+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:20:59.738+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.062 seconds
+[2023-05-23T21:21:29.810+0700] {processor.py:157} INFO - Started process (PID=14349) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:21:29.814+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:21:29.814+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:21:29.814+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:21:29.817+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:21:29.818+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:21:29.842+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:21:29.842+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:21:29.859+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:21:29.859+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:21:29.870+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.066 seconds
+[2023-05-23T21:22:00.054+0700] {processor.py:157} INFO - Started process (PID=14507) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:22:00.058+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:22:00.059+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:22:00.059+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:22:00.062+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:22:00.063+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:22:00.086+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:22:00.086+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:22:00.101+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:22:00.101+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:22:00.112+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.065 seconds
+[2023-05-23T21:22:30.264+0700] {processor.py:157} INFO - Started process (PID=14694) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:22:30.267+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:22:30.269+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:22:30.268+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:22:30.272+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:22:30.272+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:22:30.294+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:22:30.294+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:22:30.309+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:22:30.309+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:22:30.321+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.065 seconds
+[2023-05-23T21:23:00.482+0700] {processor.py:157} INFO - Started process (PID=14862) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:23:00.485+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:23:00.485+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:23:00.485+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:23:00.487+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:23:00.487+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:23:00.503+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:23:00.503+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:23:00.518+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:23:00.518+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:23:00.533+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.053 seconds
+[2023-05-23T21:23:30.868+0700] {processor.py:157} INFO - Started process (PID=15067) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:23:30.871+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:23:30.872+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:23:30.872+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:23:30.875+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:23:30.876+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:23:30.898+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:23:30.898+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:23:30.915+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:23:30.915+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:23:30.927+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.067 seconds
+[2023-05-23T21:24:01.136+0700] {processor.py:157} INFO - Started process (PID=15232) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:24:01.140+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:24:01.141+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:24:01.141+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:24:01.145+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:24:01.145+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:24:01.170+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:24:01.170+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:24:01.185+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:24:01.185+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:24:01.197+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.068 seconds
+[2023-05-23T21:24:31.435+0700] {processor.py:157} INFO - Started process (PID=15427) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:24:31.438+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:24:31.439+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:24:31.439+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:24:31.441+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:24:31.442+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:24:31.462+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:24:31.462+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:24:31.476+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:24:31.476+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:24:31.488+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.057 seconds
+[2023-05-23T21:25:01.528+0700] {processor.py:157} INFO - Started process (PID=15591) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:25:01.531+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:25:01.531+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:25:01.531+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:25:01.533+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:25:01.533+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:25:01.560+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:25:01.560+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:25:01.578+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:25:01.578+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:25:01.590+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.065 seconds
+[2023-05-23T21:25:31.687+0700] {processor.py:157} INFO - Started process (PID=15793) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:25:31.690+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:25:31.690+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:25:31.690+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:25:31.691+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:25:31.692+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:25:31.707+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:25:31.706+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:25:31.720+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:25:31.720+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:25:31.732+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.046 seconds
+[2023-05-23T21:26:01.889+0700] {processor.py:157} INFO - Started process (PID=15961) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:26:01.893+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:26:01.894+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:26:01.893+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:26:01.896+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:26:01.897+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:26:01.919+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:26:01.919+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:26:01.934+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:26:01.934+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:26:01.945+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.063 seconds
+[2023-05-23T21:26:31.997+0700] {processor.py:157} INFO - Started process (PID=16156) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:26:32.000+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:26:32.001+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:26:32.001+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:26:32.003+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:26:32.004+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:26:32.023+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:26:32.023+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:26:32.039+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:26:32.039+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:26:32.050+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.057 seconds
+[2023-05-23T21:27:02.200+0700] {processor.py:157} INFO - Started process (PID=16335) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:27:02.202+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:27:02.203+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:27:02.203+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:27:02.204+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:27:02.205+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:27:02.223+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:27:02.223+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:27:02.237+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:27:02.236+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:27:02.248+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.050 seconds
+[2023-05-23T21:27:32.492+0700] {processor.py:157} INFO - Started process (PID=16531) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:27:32.507+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:27:32.507+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:27:32.507+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:27:32.510+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:27:32.510+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:27:32.538+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:27:32.538+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:27:32.559+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:27:32.559+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:27:32.645+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.162 seconds
+[2023-05-23T21:28:03.113+0700] {processor.py:157} INFO - Started process (PID=17071) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:28:03.124+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:28:03.124+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:28:03.124+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:28:03.126+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:28:03.126+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:28:03.144+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:28:03.143+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:28:03.160+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:28:03.160+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:28:03.257+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.146 seconds
+[2023-05-23T21:28:33.704+0700] {processor.py:157} INFO - Started process (PID=17649) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:28:33.705+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:28:33.706+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:28:33.706+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:28:33.708+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:28:33.708+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:28:33.729+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:28:33.729+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:28:33.814+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:28:33.813+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:28:33.824+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.123 seconds
+[2023-05-23T21:29:04.106+0700] {processor.py:157} INFO - Started process (PID=17833) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:29:04.106+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:29:04.107+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:29:04.107+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:29:04.108+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:29:04.108+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:29:04.123+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:29:04.123+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:29:04.205+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:29:04.205+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:29:04.216+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.112 seconds
+[2023-05-23T21:29:34.445+0700] {processor.py:157} INFO - Started process (PID=18032) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:29:34.445+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:29:34.446+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:29:34.446+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:29:34.447+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:29:34.448+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:29:34.463+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:29:34.463+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:29:34.556+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:29:34.556+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:29:34.569+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.126 seconds
+[2023-05-23T21:30:05.036+0700] {processor.py:157} INFO - Started process (PID=18239) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:30:05.037+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:30:05.038+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:30:05.038+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:30:05.040+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:30:05.040+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:30:05.060+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:30:05.060+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:30:05.074+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:30:05.074+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:30:05.086+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.054 seconds
+[2023-05-23T21:30:35.456+0700] {processor.py:157} INFO - Started process (PID=18435) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:30:35.459+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:30:35.460+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:30:35.460+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:30:35.463+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:30:35.463+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:30:35.489+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:30:35.489+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:30:35.505+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:30:35.505+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:30:35.518+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.069 seconds
+[2023-05-23T21:31:05.638+0700] {processor.py:157} INFO - Started process (PID=18681) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:31:05.642+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:31:05.643+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:31:05.643+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:31:05.648+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:31:05.649+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:31:05.678+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:31:05.678+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:31:05.693+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:31:05.693+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:31:05.703+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.072 seconds
+[2023-05-23T21:31:35.817+0700] {processor.py:157} INFO - Started process (PID=18987) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:31:35.819+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:31:35.820+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:31:35.819+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:31:35.823+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:31:35.824+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:31:35.849+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:31:35.849+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:31:35.868+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:31:35.868+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:31:35.880+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.073 seconds
+[2023-05-23T21:32:06.166+0700] {processor.py:157} INFO - Started process (PID=19226) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:32:06.168+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:32:06.168+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:32:06.168+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:32:06.171+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:32:06.171+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:32:06.193+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:32:06.193+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:32:06.209+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:32:06.209+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:32:06.221+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.061 seconds
+[2023-05-23T21:32:36.405+0700] {processor.py:157} INFO - Started process (PID=19451) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:32:36.406+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:32:36.406+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:32:36.406+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:32:36.409+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:32:36.409+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:32:36.433+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:32:36.432+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:32:36.448+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:32:36.448+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:32:36.460+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.059 seconds
+[2023-05-23T21:33:06.789+0700] {processor.py:157} INFO - Started process (PID=19661) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:33:06.792+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:33:06.793+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:33:06.792+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:33:06.795+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:33:06.795+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:33:06.817+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:33:06.817+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:33:06.833+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:33:06.833+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:33:06.845+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.061 seconds
+[2023-05-23T21:33:37.095+0700] {processor.py:157} INFO - Started process (PID=19921) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:33:37.097+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:33:37.099+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:33:37.099+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:33:37.104+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:33:37.105+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:33:37.142+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:33:37.142+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:33:37.162+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:33:37.162+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:33:37.174+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.086 seconds
+[2023-05-23T21:34:07.463+0700] {processor.py:157} INFO - Started process (PID=20132) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:34:07.467+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:34:07.469+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:34:07.469+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:34:07.474+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:34:07.475+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:34:07.508+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:34:07.508+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:34:07.528+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:34:07.528+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:34:07.544+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.088 seconds
+[2023-05-23T21:34:37.578+0700] {processor.py:157} INFO - Started process (PID=20386) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:34:37.578+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:34:37.579+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:34:37.578+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:34:37.580+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:34:37.580+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:34:37.597+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:34:37.597+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:34:37.613+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:34:37.612+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:34:37.625+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.049 seconds
+[2023-05-23T21:35:08.004+0700] {processor.py:157} INFO - Started process (PID=20711) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:35:08.008+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:35:08.009+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:35:08.009+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:35:08.014+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:35:08.015+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:35:08.048+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:35:08.048+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:35:08.068+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:35:08.068+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:35:08.082+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.085 seconds
+[2023-05-23T21:35:38.226+0700] {processor.py:157} INFO - Started process (PID=20960) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:35:38.227+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:35:38.227+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:35:38.227+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:35:38.229+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:35:38.229+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:35:38.246+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:35:38.246+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:35:38.261+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:35:38.261+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:35:38.281+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.058 seconds
+[2023-05-23T21:36:08.654+0700] {processor.py:157} INFO - Started process (PID=21205) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:36:08.658+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:36:08.659+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:36:08.659+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:36:08.664+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:36:08.665+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:36:08.702+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:36:08.702+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:36:08.719+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:36:08.719+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:36:08.730+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.084 seconds
+[2023-05-23T21:36:38.871+0700] {processor.py:157} INFO - Started process (PID=21450) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:36:38.872+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:36:38.872+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:36:38.872+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:36:38.874+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:36:38.875+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:36:38.904+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:36:38.904+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:36:38.927+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:36:38.927+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:36:38.945+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.076 seconds
+[2023-05-23T21:37:09.333+0700] {processor.py:157} INFO - Started process (PID=21661) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:37:09.334+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:37:09.335+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:37:09.334+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:37:09.337+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:37:09.337+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:37:09.360+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:37:09.360+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:37:09.380+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:37:09.379+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:37:09.394+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.065 seconds
+[2023-05-23T21:37:39.800+0700] {processor.py:157} INFO - Started process (PID=21911) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:37:39.801+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:37:39.801+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:37:39.801+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:37:39.802+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:37:39.802+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:37:39.819+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:37:39.819+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:37:39.835+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:37:39.835+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:37:39.847+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.049 seconds
+[2023-05-23T21:38:10.102+0700] {processor.py:157} INFO - Started process (PID=22136) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:38:10.103+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:38:10.103+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:38:10.103+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:38:10.105+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:38:10.106+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:38:10.126+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:38:10.126+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:38:10.142+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:38:10.142+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:38:10.157+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.058 seconds
+[2023-05-23T21:38:40.428+0700] {processor.py:157} INFO - Started process (PID=22381) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:38:40.431+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:38:40.431+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:38:40.431+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:38:40.434+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:38:40.434+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:38:40.460+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:38:40.460+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:38:40.474+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:38:40.474+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:38:40.485+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.061 seconds
+[2023-05-23T21:39:10.687+0700] {processor.py:157} INFO - Started process (PID=22614) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:39:10.690+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:39:10.690+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:39:10.690+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:39:10.691+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:39:10.692+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:39:10.709+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:39:10.709+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:39:10.724+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:39:10.724+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:39:10.736+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.052 seconds
+[2023-05-23T21:39:41.079+0700] {processor.py:157} INFO - Started process (PID=22944) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:39:41.080+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:39:41.080+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:39:41.080+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:39:41.082+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:39:41.082+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:39:41.104+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:39:41.103+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:39:41.121+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:39:41.121+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:39:41.136+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.060 seconds
+[2023-05-23T21:40:11.243+0700] {processor.py:157} INFO - Started process (PID=23174) to work on /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:40:11.246+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag5_20230521.py for tasks to queue
+[2023-05-23T21:40:11.248+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:40:11.247+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:40:11.252+0700] {logging_mixin.py:149} INFO - ===============Processing: /dags/json/dag5_20230521220232.json================
+[2023-05-23T21:40:11.253+0700] {processor.py:836} INFO - DAG(s) dict_keys(['dag5_20230521']) retrieved from /home/nhattrieu/airflow/dags/dag5_20230521.py
+[2023-05-23T21:40:11.289+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:40:11.289+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-23T21:40:11.309+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:40:11.309+0700] {dag.py:3486} INFO - Setting next_dagrun for dag5_20230521 to 2022-05-05T00:00:00+00:00, run_after=2022-05-06T00:00:00+00:00
+[2023-05-23T21:40:11.320+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag5_20230521.py took 0.084 seconds

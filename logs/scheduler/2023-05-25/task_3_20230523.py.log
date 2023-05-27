@@ -1,0 +1,84 @@
+[2023-05-25T08:29:53.183+0700] {processor.py:157} INFO - Started process (PID=8146) to work on /home/nhattrieu/airflow/dags/task_3_20230523.py
+[2023-05-25T08:29:53.183+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/task_3_20230523.py for tasks to queue
+[2023-05-25T08:29:53.184+0700] {logging_mixin.py:149} INFO - [2023-05-25T08:29:53.184+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/task_3_20230523.py
+[2023-05-25T08:29:53.185+0700] {logging_mixin.py:149} INFO - ===============Processing: /json/task_3_20230523HH.json================
+[2023-05-25T08:29:53.186+0700] {logging_mixin.py:149} INFO - [2023-05-25T08:29:53.185+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/task_3_20230523.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/task_3_20230523.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 56, in get_config
+    configs = JsonConfigReader.read(self.flow_file_name)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/json_config_reader.py", line 7, in read
+    with open(file_name) as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/json/task_3_20230523HH.json'
+[2023-05-25T08:29:53.187+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/task_3_20230523.py
+[2023-05-25T08:29:53.202+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/task_3_20230523.py took 0.020 seconds
+[2023-05-25T08:30:23.664+0700] {processor.py:157} INFO - Started process (PID=8379) to work on /home/nhattrieu/airflow/dags/task_3_20230523.py
+[2023-05-25T08:30:23.667+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/task_3_20230523.py for tasks to queue
+[2023-05-25T08:30:23.667+0700] {logging_mixin.py:149} INFO - [2023-05-25T08:30:23.667+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/task_3_20230523.py
+[2023-05-25T08:30:23.669+0700] {logging_mixin.py:149} INFO - ===============Processing: /json/task_3_20230523HH.json================
+[2023-05-25T08:30:23.670+0700] {logging_mixin.py:149} INFO - [2023-05-25T08:30:23.669+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/task_3_20230523.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/task_3_20230523.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 56, in get_config
+    configs = JsonConfigReader.read(self.flow_file_name)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/json_config_reader.py", line 7, in read
+    with open(file_name) as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/json/task_3_20230523HH.json'
+[2023-05-25T08:30:23.670+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/task_3_20230523.py
+[2023-05-25T08:30:23.684+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/task_3_20230523.py took 0.021 seconds
+[2023-05-25T08:30:53.719+0700] {processor.py:157} INFO - Started process (PID=8629) to work on /home/nhattrieu/airflow/dags/task_3_20230523.py
+[2023-05-25T08:30:53.721+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/task_3_20230523.py for tasks to queue
+[2023-05-25T08:30:53.722+0700] {logging_mixin.py:149} INFO - [2023-05-25T08:30:53.722+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/task_3_20230523.py
+[2023-05-25T08:30:53.724+0700] {logging_mixin.py:149} INFO - ===============Processing: /json/task_3_20230523HH.json================
+[2023-05-25T08:30:53.725+0700] {logging_mixin.py:149} INFO - [2023-05-25T08:30:53.724+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/task_3_20230523.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/task_3_20230523.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 56, in get_config
+    configs = JsonConfigReader.read(self.flow_file_name)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/json_config_reader.py", line 7, in read
+    with open(file_name) as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/json/task_3_20230523HH.json'
+[2023-05-25T08:30:53.725+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/task_3_20230523.py
+[2023-05-25T08:30:53.743+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/task_3_20230523.py took 0.026 seconds
+[2023-05-25T08:31:23.902+0700] {processor.py:157} INFO - Started process (PID=8783) to work on /home/nhattrieu/airflow/dags/task_3_20230523.py
+[2023-05-25T08:31:23.904+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/task_3_20230523.py for tasks to queue
+[2023-05-25T08:31:23.905+0700] {logging_mixin.py:149} INFO - [2023-05-25T08:31:23.905+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/task_3_20230523.py
+[2023-05-25T08:31:23.906+0700] {logging_mixin.py:149} INFO - ===============Processing: /json/task_3_20230523HH.json================
+[2023-05-25T08:31:23.907+0700] {logging_mixin.py:149} INFO - [2023-05-25T08:31:23.906+0700] {dagbag.py:350} ERROR - Failed to import: /home/nhattrieu/airflow/dags/task_3_20230523.py
+Traceback (most recent call last):
+  File "/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/nhattrieu/airflow/dags/task_3_20230523.py", line 29, in <module>
+    check_daily_datasets = flow_builder.create_flow()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/flow_builder.py", line 3, in create_flow
+    self.get_config()
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/graph_flow_builder.py", line 56, in get_config
+    configs = JsonConfigReader.read(self.flow_file_name)
+  File "/home/nhattrieu/airflow/dags/dag_builder/builder/json_config_reader.py", line 7, in read
+    with open(file_name) as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/json/task_3_20230523HH.json'
+[2023-05-25T08:31:23.907+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/task_3_20230523.py
+[2023-05-25T08:31:23.922+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/task_3_20230523.py took 0.022 seconds

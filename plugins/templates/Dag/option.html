@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>Option</h2>
+
+<form method=post>
+  <table>
+    <tr>
+      {% if type == "bash" %}
+        <th>Dataset</th>
+        <th>Date</th>
+        <th>Previous date</th>
+      {% endif %}
+      {% if type == "hdfs-sensor" %}
+        <th>Number of days</th>
+        <th>Interval</th>
+        <th>Date</th>
+      {% endif %}
+    </tr>
+        <tr>
+          {% if type == "hdfs-sensor" %}
+            <td>{{paramOp.number_of_days}}</td>
+            <td>{{paramOp.interval}}</td>
+            <td>{{paramOp.date}}</td>
+          {% endif %}
+          {% if type == "bash" %}
+            <td>{{command[0]}}</td>
+            <td>{{command[1]}}</td>
+            <td>{{command[2]}}</td>
+          {% endif %}
+          <td>
+            <button>
+              <a href="/testappbuilderbaseview/option/{{paramOp.id}}/update">Update</a>
+            </button>
+          </td>
+        </tr>
+  </table>
+</form>
+
+</body>
+</html>

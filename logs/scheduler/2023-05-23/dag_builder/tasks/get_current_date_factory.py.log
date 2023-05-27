@@ -1,0 +1,855 @@
+[2023-05-23T21:02:48.069+0700] {processor.py:157} INFO - Started process (PID=6244) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:02:48.069+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:02:48.070+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:02:48.070+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:02:48.072+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:02:48.083+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T21:03:19.777+0700] {processor.py:157} INFO - Started process (PID=6640) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:03:19.779+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:03:19.780+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:03:19.780+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:03:19.782+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:03:19.800+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.025 seconds
+[2023-05-23T21:03:50.358+0700] {processor.py:157} INFO - Started process (PID=6867) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:03:50.359+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:03:50.359+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:03:50.359+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:03:50.361+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:03:50.373+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.018 seconds
+[2023-05-23T21:04:20.609+0700] {processor.py:157} INFO - Started process (PID=7038) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:04:20.610+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:04:20.610+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:04:20.610+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:04:20.612+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:04:20.622+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T21:04:50.825+0700] {processor.py:157} INFO - Started process (PID=7220) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:04:50.826+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:04:50.826+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:04:50.826+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:04:50.828+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:04:50.837+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:05:21.134+0700] {processor.py:157} INFO - Started process (PID=7419) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:05:21.135+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:05:21.135+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:05:21.135+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:05:21.136+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:05:21.146+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.013 seconds
+[2023-05-23T21:05:51.432+0700] {processor.py:157} INFO - Started process (PID=7590) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:05:51.433+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:05:51.433+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:05:51.433+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:05:51.435+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:05:51.446+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.016 seconds
+[2023-05-23T21:06:21.780+0700] {processor.py:157} INFO - Started process (PID=7794) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:06:21.780+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:06:21.781+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:06:21.781+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:06:21.782+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:06:21.793+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T21:06:52.309+0700] {processor.py:157} INFO - Started process (PID=7974) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:06:52.311+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:06:52.312+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:06:52.312+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:06:52.314+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:06:52.328+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.024 seconds
+[2023-05-23T21:07:23.110+0700] {processor.py:157} INFO - Started process (PID=8208) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:07:23.110+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:07:23.111+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:07:23.110+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:07:23.112+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:07:23.122+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:07:53.596+0700] {processor.py:157} INFO - Started process (PID=8382) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:07:53.596+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:07:53.597+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:07:53.597+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:07:53.598+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:07:53.609+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T21:08:23.955+0700] {processor.py:157} INFO - Started process (PID=8579) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:08:23.955+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:08:23.956+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:08:23.956+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:08:23.957+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:08:23.967+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T21:08:54.391+0700] {processor.py:157} INFO - Started process (PID=8750) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:08:54.392+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:08:54.392+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:08:54.392+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:08:54.394+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:08:54.404+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:09:24.763+0700] {processor.py:157} INFO - Started process (PID=8951) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:09:24.764+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:09:24.764+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:09:24.764+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:09:24.766+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:09:24.775+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:09:54.914+0700] {processor.py:157} INFO - Started process (PID=9151) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:09:54.915+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:09:54.915+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:09:54.915+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:09:54.916+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:09:54.926+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:10:25.329+0700] {processor.py:157} INFO - Started process (PID=9352) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:10:25.329+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:10:25.330+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:10:25.330+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:10:25.331+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:10:25.340+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.013 seconds
+[2023-05-23T21:10:55.727+0700] {processor.py:157} INFO - Started process (PID=9531) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:10:55.728+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:10:55.728+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:10:55.728+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:10:55.729+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:10:55.739+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:11:26.047+0700] {processor.py:157} INFO - Started process (PID=9731) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:11:26.047+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:11:26.048+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:11:26.048+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:11:26.049+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:11:26.059+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:11:56.571+0700] {processor.py:157} INFO - Started process (PID=9908) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:11:56.571+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:11:56.572+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:11:56.572+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:11:56.573+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:11:56.583+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:12:26.916+0700] {processor.py:157} INFO - Started process (PID=10113) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:12:26.916+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:12:26.917+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:12:26.917+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:12:26.918+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:12:26.929+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T21:12:57.314+0700] {processor.py:157} INFO - Started process (PID=10297) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:12:57.314+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:12:57.315+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:12:57.315+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:12:57.316+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:12:57.326+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:13:27.669+0700] {processor.py:157} INFO - Started process (PID=10499) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:13:27.669+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:13:27.670+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:13:27.670+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:13:27.671+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:13:27.681+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.013 seconds
+[2023-05-23T21:13:58.294+0700] {processor.py:157} INFO - Started process (PID=10682) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:13:58.295+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:13:58.295+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:13:58.295+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:13:58.296+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:13:58.306+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.013 seconds
+[2023-05-23T21:14:28.630+0700] {processor.py:157} INFO - Started process (PID=10879) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:14:28.630+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:14:28.631+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:14:28.631+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:14:28.632+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:14:28.642+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:14:59.104+0700] {processor.py:157} INFO - Started process (PID=11077) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:14:59.105+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:14:59.105+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:14:59.105+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:14:59.106+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:14:59.117+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:15:29.595+0700] {processor.py:157} INFO - Started process (PID=11454) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:15:29.596+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:15:29.596+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:15:29.596+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:15:29.598+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:15:29.609+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.017 seconds
+[2023-05-23T21:15:59.741+0700] {processor.py:157} INFO - Started process (PID=12063) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:15:59.741+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:15:59.741+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:15:59.741+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:15:59.743+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:15:59.752+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.013 seconds
+[2023-05-23T21:16:30.065+0700] {processor.py:157} INFO - Started process (PID=12325) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:16:30.065+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:16:30.066+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:16:30.066+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:16:30.067+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:16:30.077+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:17:00.332+0700] {processor.py:157} INFO - Started process (PID=12507) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:17:00.332+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:17:00.333+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:17:00.333+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:17:00.334+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:17:00.344+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:17:30.524+0700] {processor.py:157} INFO - Started process (PID=12730) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:17:30.525+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:17:30.525+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:17:30.525+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:17:30.526+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:17:30.536+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.013 seconds
+[2023-05-23T21:18:00.839+0700] {processor.py:157} INFO - Started process (PID=12918) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:18:00.840+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:18:00.840+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:18:00.840+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:18:00.842+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:18:00.851+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.013 seconds
+[2023-05-23T21:18:31.722+0700] {processor.py:157} INFO - Started process (PID=13169) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:18:31.723+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:18:31.725+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:18:31.724+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:18:31.729+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:18:31.751+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.033 seconds
+[2023-05-23T21:19:01.787+0700] {processor.py:157} INFO - Started process (PID=13415) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:19:01.788+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:19:01.788+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:19:01.788+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:19:01.790+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:19:01.800+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T21:19:32.579+0700] {processor.py:157} INFO - Started process (PID=13680) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:19:32.580+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:19:32.580+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:19:32.580+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:19:32.582+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:19:32.597+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.021 seconds
+[2023-05-23T21:20:03.022+0700] {processor.py:157} INFO - Started process (PID=13868) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:20:03.022+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:20:03.023+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:20:03.023+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:20:03.024+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:20:03.039+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.018 seconds
+[2023-05-23T21:20:33.305+0700] {processor.py:157} INFO - Started process (PID=14090) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:20:33.305+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:20:33.306+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:20:33.306+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:20:33.308+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:20:33.321+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.018 seconds
+[2023-05-23T21:21:03.447+0700] {processor.py:157} INFO - Started process (PID=14272) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:21:03.448+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:21:03.448+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:21:03.448+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:21:03.450+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:21:03.460+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:21:33.654+0700] {processor.py:157} INFO - Started process (PID=14459) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:21:33.655+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:21:33.655+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:21:33.655+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:21:33.656+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:21:33.666+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:22:03.869+0700] {processor.py:157} INFO - Started process (PID=14617) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:22:03.870+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:22:03.870+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:22:03.870+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:22:03.872+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:22:03.882+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:22:34.114+0700] {processor.py:157} INFO - Started process (PID=14805) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:22:34.114+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:22:34.115+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:22:34.115+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:22:34.116+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:22:34.125+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.013 seconds
+[2023-05-23T21:23:04.434+0700] {processor.py:157} INFO - Started process (PID=14973) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:23:04.434+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:23:04.435+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:23:04.435+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:23:04.436+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:23:04.446+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:23:34.715+0700] {processor.py:157} INFO - Started process (PID=15180) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:23:34.716+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:23:34.716+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:23:34.716+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:23:34.718+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:23:34.728+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T21:24:05.064+0700] {processor.py:157} INFO - Started process (PID=15343) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:24:05.065+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:24:05.065+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:24:05.065+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:24:05.067+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:24:05.077+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:24:35.151+0700] {processor.py:157} INFO - Started process (PID=15538) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:24:35.151+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:24:35.152+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:24:35.152+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:24:35.153+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:24:35.163+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:25:05.306+0700] {processor.py:157} INFO - Started process (PID=15702) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:25:05.306+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:25:05.307+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:25:05.307+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:25:05.308+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:25:05.318+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:25:35.482+0700] {processor.py:157} INFO - Started process (PID=15904) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:25:35.482+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:25:35.483+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:25:35.483+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:25:35.484+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:25:35.495+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.016 seconds
+[2023-05-23T21:26:05.603+0700] {processor.py:157} INFO - Started process (PID=16072) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:26:05.603+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:26:05.604+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:26:05.603+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:26:05.605+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:26:05.617+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.016 seconds
+[2023-05-23T21:26:36.095+0700] {processor.py:157} INFO - Started process (PID=16274) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:26:36.096+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:26:36.096+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:26:36.096+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:26:36.098+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:26:36.108+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T21:27:07.095+0700] {processor.py:157} INFO - Started process (PID=16447) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:27:07.096+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:27:07.097+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:27:07.097+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:27:07.098+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:27:07.108+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T21:27:37.719+0700] {processor.py:157} INFO - Started process (PID=16644) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:27:37.719+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:27:37.720+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:27:37.719+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:27:37.721+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:27:37.731+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:28:08.341+0700] {processor.py:157} INFO - Started process (PID=17488) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:28:08.342+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:28:08.343+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:28:08.342+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:28:08.345+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:28:08.360+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.022 seconds
+[2023-05-23T21:28:39.370+0700] {processor.py:157} INFO - Started process (PID=17760) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:28:39.371+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:28:39.371+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:28:39.371+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:28:39.374+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:28:39.389+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.023 seconds
+[2023-05-23T21:29:09.828+0700] {processor.py:157} INFO - Started process (PID=17949) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:29:09.829+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:29:09.830+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:29:09.830+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:29:09.833+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:29:09.848+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.025 seconds
+[2023-05-23T21:29:40.686+0700] {processor.py:157} INFO - Started process (PID=18151) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:29:40.687+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:29:40.687+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:29:40.687+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:29:40.689+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:29:40.701+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.019 seconds
+[2023-05-23T21:30:11.011+0700] {processor.py:157} INFO - Started process (PID=18349) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:30:11.012+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:30:11.012+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:30:11.012+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:30:11.014+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:30:11.030+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.024 seconds
+[2023-05-23T21:30:41.218+0700] {processor.py:157} INFO - Started process (PID=18567) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:30:41.219+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:30:41.220+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:30:41.220+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:30:41.223+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:30:41.236+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.021 seconds
+[2023-05-23T21:31:11.404+0700] {processor.py:157} INFO - Started process (PID=18798) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:31:11.405+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:31:11.406+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:31:11.406+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:31:11.409+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:31:11.425+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.025 seconds
+[2023-05-23T21:31:41.724+0700] {processor.py:157} INFO - Started process (PID=19103) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:31:41.724+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:31:41.724+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:31:41.724+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:31:41.726+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:31:41.735+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.013 seconds
+[2023-05-23T21:32:12.010+0700] {processor.py:157} INFO - Started process (PID=19345) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:32:12.011+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:32:12.012+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:32:12.012+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:32:12.015+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:32:12.031+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.025 seconds
+[2023-05-23T21:32:42.309+0700] {processor.py:157} INFO - Started process (PID=19571) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:32:42.310+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:32:42.310+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:32:42.310+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:32:42.311+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:32:42.322+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T21:33:12.708+0700] {processor.py:157} INFO - Started process (PID=19799) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:33:12.709+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:33:12.710+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:33:12.710+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:33:12.713+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:33:12.727+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.023 seconds
+[2023-05-23T21:33:43.033+0700] {processor.py:157} INFO - Started process (PID=20046) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:33:43.034+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:33:43.035+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:33:43.035+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:33:43.039+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:33:43.056+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.027 seconds
+[2023-05-23T21:34:13.212+0700] {processor.py:157} INFO - Started process (PID=20257) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:34:13.213+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:34:13.213+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:34:13.213+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:34:13.215+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:34:13.225+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T21:34:43.615+0700] {processor.py:157} INFO - Started process (PID=20508) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:34:43.617+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:34:43.618+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:34:43.617+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:34:43.621+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:34:43.636+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.025 seconds
+[2023-05-23T21:35:13.846+0700] {processor.py:157} INFO - Started process (PID=20830) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:35:13.847+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:35:13.847+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:35:13.847+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:35:13.850+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:35:13.863+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.021 seconds
+[2023-05-23T21:35:44.246+0700] {processor.py:157} INFO - Started process (PID=21085) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:35:44.247+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:35:44.248+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:35:44.247+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:35:44.251+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:35:44.265+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.023 seconds
+[2023-05-23T21:36:14.531+0700] {processor.py:157} INFO - Started process (PID=21324) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:36:14.531+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:36:14.531+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:36:14.531+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:36:14.533+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:36:14.542+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.013 seconds
+[2023-05-23T21:36:44.920+0700] {processor.py:157} INFO - Started process (PID=21573) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:36:44.921+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:36:44.921+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:36:44.921+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:36:44.923+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:36:44.935+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.017 seconds
+[2023-05-23T21:37:15.391+0700] {processor.py:157} INFO - Started process (PID=21788) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:37:15.392+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:37:15.393+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:37:15.392+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:37:15.396+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:37:15.413+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.027 seconds
+[2023-05-23T21:37:45.642+0700] {processor.py:157} INFO - Started process (PID=22032) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:37:45.643+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:37:45.643+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:37:45.643+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:37:45.645+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:37:45.655+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T21:38:16.049+0700] {processor.py:157} INFO - Started process (PID=22259) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:38:16.050+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:38:16.051+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:38:16.051+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:38:16.054+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:38:16.068+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.023 seconds
+[2023-05-23T21:38:46.357+0700] {processor.py:157} INFO - Started process (PID=22500) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:38:46.358+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:38:46.359+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:38:46.359+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:38:46.362+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:38:46.380+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.027 seconds
+[2023-05-23T21:39:16.705+0700] {processor.py:157} INFO - Started process (PID=22808) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:39:16.706+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:39:16.707+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:39:16.707+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:39:16.709+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:39:16.725+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.022 seconds
+[2023-05-23T21:39:46.857+0700] {processor.py:157} INFO - Started process (PID=23076) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:39:46.857+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:39:46.858+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:39:46.858+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:39:46.859+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:39:46.869+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.013 seconds
+[2023-05-23T21:40:17.098+0700] {processor.py:157} INFO - Started process (PID=23300) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:40:17.099+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:40:17.100+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:40:17.100+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:40:17.102+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:40:17.112+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.017 seconds
+[2023-05-23T21:40:47.244+0700] {processor.py:157} INFO - Started process (PID=23644) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:40:47.245+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:40:47.246+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:40:47.246+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:40:47.249+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:40:47.262+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.023 seconds
+[2023-05-23T21:41:17.680+0700] {processor.py:157} INFO - Started process (PID=23935) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:41:17.681+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:41:17.681+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:41:17.681+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:41:17.683+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:41:17.693+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T21:41:48.132+0700] {processor.py:157} INFO - Started process (PID=24143) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:41:48.132+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:41:48.133+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:41:48.133+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:41:48.136+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:41:48.154+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.027 seconds
+[2023-05-23T21:42:18.603+0700] {processor.py:157} INFO - Started process (PID=24359) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:42:18.604+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:42:18.605+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:42:18.605+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:42:18.609+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:42:18.627+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.029 seconds
+[2023-05-23T21:42:48.758+0700] {processor.py:157} INFO - Started process (PID=24587) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:42:48.759+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:42:48.760+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:42:48.760+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:42:48.763+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:42:48.776+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.022 seconds
+[2023-05-23T21:43:19.023+0700] {processor.py:157} INFO - Started process (PID=24830) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:43:19.024+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:43:19.024+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:43:19.024+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:43:19.027+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:43:19.040+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.021 seconds
+[2023-05-23T21:43:49.276+0700] {processor.py:157} INFO - Started process (PID=25035) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:43:49.277+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:43:49.277+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:43:49.277+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:43:49.279+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:43:49.291+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.017 seconds
+[2023-05-23T21:44:19.642+0700] {processor.py:157} INFO - Started process (PID=25346) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:44:19.643+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:44:19.643+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:44:19.643+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:44:19.645+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:44:19.655+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T21:44:49.809+0700] {processor.py:157} INFO - Started process (PID=25522) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:44:49.810+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:44:49.810+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:44:49.810+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:44:49.812+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:44:49.823+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T21:45:19.970+0700] {processor.py:157} INFO - Started process (PID=25702) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:45:19.971+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:45:19.971+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:45:19.971+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:45:19.973+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:45:19.982+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:45:50.321+0700] {processor.py:157} INFO - Started process (PID=25889) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:45:50.322+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:45:50.322+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:45:50.322+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:45:50.324+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:45:50.335+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T21:46:21.299+0700] {processor.py:157} INFO - Started process (PID=26089) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:46:21.300+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:46:21.301+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:46:21.301+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:46:21.304+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:46:21.319+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.025 seconds
+[2023-05-23T21:46:51.917+0700] {processor.py:157} INFO - Started process (PID=26446) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:46:51.918+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:46:51.919+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:46:51.918+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:46:51.922+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:46:51.937+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.021 seconds
+[2023-05-23T21:47:22.239+0700] {processor.py:157} INFO - Started process (PID=26618) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:47:22.240+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:47:22.241+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:47:22.240+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:47:22.244+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:47:22.268+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.033 seconds
+[2023-05-23T21:47:52.677+0700] {processor.py:157} INFO - Started process (PID=26820) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:47:52.678+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:47:52.679+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:47:52.679+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:47:52.681+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:47:52.693+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.019 seconds
+[2023-05-23T21:48:22.843+0700] {processor.py:157} INFO - Started process (PID=27043) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:48:22.844+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:48:22.844+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:48:22.844+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:48:22.847+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:48:22.864+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.025 seconds
+[2023-05-23T21:48:53.474+0700] {processor.py:157} INFO - Started process (PID=27339) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:48:53.475+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:48:53.475+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:48:53.475+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:48:53.477+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:48:53.487+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:49:23.953+0700] {processor.py:157} INFO - Started process (PID=27540) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:49:23.954+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:49:23.954+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:49:23.954+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:49:23.956+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:49:23.968+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.016 seconds
+[2023-05-23T21:49:54.472+0700] {processor.py:157} INFO - Started process (PID=27790) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:49:54.473+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:49:54.473+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:49:54.473+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:49:54.475+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:49:54.486+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.016 seconds
+[2023-05-23T21:50:24.705+0700] {processor.py:157} INFO - Started process (PID=28023) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:50:24.706+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:50:24.706+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:50:24.706+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:50:24.708+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:50:24.720+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.017 seconds
+[2023-05-23T21:50:54.892+0700] {processor.py:157} INFO - Started process (PID=28244) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:50:54.893+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:50:54.893+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:50:54.893+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:50:54.895+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:50:54.904+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.013 seconds
+[2023-05-23T21:51:25.256+0700] {processor.py:157} INFO - Started process (PID=28446) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:51:25.257+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:51:25.258+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:51:25.258+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:51:25.260+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:51:25.272+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.019 seconds
+[2023-05-23T21:51:56.489+0700] {processor.py:157} INFO - Started process (PID=28668) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:51:56.490+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:51:56.490+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:51:56.490+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:51:56.492+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:51:56.501+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.013 seconds
+[2023-05-23T21:52:26.765+0700] {processor.py:157} INFO - Started process (PID=28860) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:52:26.766+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:52:26.767+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:52:26.767+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:52:26.769+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:52:26.785+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.021 seconds
+[2023-05-23T21:52:57.254+0700] {processor.py:157} INFO - Started process (PID=29123) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:52:57.255+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:52:57.255+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:52:57.255+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:52:57.257+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:52:57.270+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.018 seconds
+[2023-05-23T21:53:27.554+0700] {processor.py:157} INFO - Started process (PID=29371) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:53:27.555+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:53:27.555+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:53:27.555+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:53:27.557+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:53:27.567+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:53:57.814+0700] {processor.py:157} INFO - Started process (PID=29565) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:53:57.815+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:53:57.815+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:53:57.815+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:53:57.816+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:53:57.826+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:54:28.161+0700] {processor.py:157} INFO - Started process (PID=29761) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:54:28.162+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:54:28.162+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:54:28.162+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:54:28.164+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:54:28.176+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.016 seconds
+[2023-05-23T21:54:59.152+0700] {processor.py:157} INFO - Started process (PID=30057) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:54:59.153+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:54:59.153+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:54:59.153+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:54:59.155+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:54:59.165+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T21:55:29.374+0700] {processor.py:157} INFO - Started process (PID=30378) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:55:29.374+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:55:29.374+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:55:29.374+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:55:29.376+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:55:29.387+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T21:55:59.605+0700] {processor.py:157} INFO - Started process (PID=30568) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:55:59.605+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:55:59.606+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:55:59.606+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:55:59.607+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:55:59.617+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:56:29.962+0700] {processor.py:157} INFO - Started process (PID=30785) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:56:29.963+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:56:29.963+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:56:29.963+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:56:29.965+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:56:29.976+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.016 seconds
+[2023-05-23T21:57:00.372+0700] {processor.py:157} INFO - Started process (PID=31006) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:57:00.373+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:57:00.373+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:57:00.373+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:57:00.375+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:57:00.389+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.019 seconds
+[2023-05-23T21:57:30.486+0700] {processor.py:157} INFO - Started process (PID=31221) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:57:30.487+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:57:30.487+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:57:30.487+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:57:30.488+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:57:30.498+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T21:58:00.732+0700] {processor.py:157} INFO - Started process (PID=31389) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:58:00.732+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:58:00.733+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:58:00.733+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:58:00.735+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:58:00.748+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.018 seconds
+[2023-05-23T21:58:30.837+0700] {processor.py:157} INFO - Started process (PID=31548) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:58:30.838+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:58:30.838+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:58:30.838+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:58:30.840+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:58:30.849+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.013 seconds
+[2023-05-23T21:59:01.207+0700] {processor.py:157} INFO - Started process (PID=31830) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:59:01.207+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:59:01.208+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:59:01.208+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:59:01.209+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:59:01.220+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T21:59:31.360+0700] {processor.py:157} INFO - Started process (PID=31987) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:59:31.361+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T21:59:31.361+0700] {logging_mixin.py:149} INFO - [2023-05-23T21:59:31.361+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:59:31.363+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T21:59:31.373+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T22:00:01.604+0700] {processor.py:157} INFO - Started process (PID=32166) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:00:01.604+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:00:01.605+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:00:01.605+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:00:01.607+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:00:01.618+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.016 seconds
+[2023-05-23T22:00:32.586+0700] {processor.py:157} INFO - Started process (PID=32358) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:00:32.587+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:00:32.587+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:00:32.587+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:00:32.590+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:00:32.601+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.017 seconds
+[2023-05-23T22:01:02.861+0700] {processor.py:157} INFO - Started process (PID=32518) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:01:02.862+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:01:02.862+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:01:02.862+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:01:02.864+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:01:02.873+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T22:01:33.219+0700] {processor.py:157} INFO - Started process (PID=32788) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:01:33.220+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:01:33.220+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:01:33.220+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:01:33.222+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:01:33.232+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T22:02:03.697+0700] {processor.py:157} INFO - Started process (PID=32997) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:02:03.697+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:02:03.698+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:02:03.698+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:02:03.699+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:02:03.710+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T22:02:33.821+0700] {processor.py:157} INFO - Started process (PID=33190) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:02:33.821+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:02:33.822+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:02:33.822+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:02:33.823+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:02:33.833+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T22:03:03.996+0700] {processor.py:157} INFO - Started process (PID=33411) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:03:03.996+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:03:03.997+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:03:03.996+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:03:03.998+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:03:04.008+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T22:03:34.199+0700] {processor.py:157} INFO - Started process (PID=33640) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:03:34.199+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:03:34.200+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:03:34.200+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:03:34.201+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:03:34.211+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T22:04:05.112+0700] {processor.py:157} INFO - Started process (PID=33948) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:04:05.113+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:04:05.113+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:04:05.113+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:04:05.114+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:04:05.124+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T22:04:35.720+0700] {processor.py:157} INFO - Started process (PID=34160) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:04:35.720+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:04:35.721+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:04:35.721+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:04:35.722+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:04:35.732+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T22:05:05.865+0700] {processor.py:157} INFO - Started process (PID=34332) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:05:05.866+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:05:05.866+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:05:05.866+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:05:05.867+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:05:05.877+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T22:05:35.995+0700] {processor.py:157} INFO - Started process (PID=34542) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:05:35.996+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:05:35.996+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:05:35.996+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:05:35.997+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:05:36.008+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T22:06:06.405+0700] {processor.py:157} INFO - Started process (PID=34729) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:06:06.406+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:06:06.407+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:06:06.407+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:06:06.409+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:06:06.424+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.020 seconds
+[2023-05-23T22:06:36.576+0700] {processor.py:157} INFO - Started process (PID=34901) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:06:36.576+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:06:36.577+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:06:36.577+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:06:36.578+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:06:36.588+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T22:07:06.833+0700] {processor.py:157} INFO - Started process (PID=35109) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:07:06.834+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:07:06.834+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:07:06.834+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:07:06.836+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:07:06.846+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T22:07:37.051+0700] {processor.py:157} INFO - Started process (PID=35395) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:07:37.052+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:07:37.052+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:07:37.052+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:07:37.054+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:07:37.063+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T22:08:07.694+0700] {processor.py:157} INFO - Started process (PID=35605) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:08:07.695+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:08:07.695+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:08:07.695+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:08:07.697+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:08:07.707+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T22:08:38.093+0700] {processor.py:157} INFO - Started process (PID=36265) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:08:38.093+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:08:38.094+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:08:38.093+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:08:38.095+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:08:38.105+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T22:09:08.982+0700] {processor.py:157} INFO - Started process (PID=36478) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:09:08.983+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:09:08.983+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:09:08.983+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:09:08.984+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:09:08.997+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.016 seconds
+[2023-05-23T22:09:39.644+0700] {processor.py:157} INFO - Started process (PID=36757) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:09:39.645+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:09:39.645+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:09:39.645+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:09:39.647+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:09:39.659+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.016 seconds
+[2023-05-23T22:10:09.857+0700] {processor.py:157} INFO - Started process (PID=36972) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:10:09.858+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:10:09.858+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:10:09.858+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:10:09.860+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:10:09.873+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.019 seconds
+[2023-05-23T22:10:40.128+0700] {processor.py:157} INFO - Started process (PID=37206) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:10:40.128+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:10:40.129+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:10:40.129+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:10:40.130+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:10:40.141+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T22:11:10.673+0700] {processor.py:157} INFO - Started process (PID=37390) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:11:10.673+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:11:10.674+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:11:10.674+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:11:10.675+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:11:10.686+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T22:11:41.071+0700] {processor.py:157} INFO - Started process (PID=37714) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:11:41.072+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:11:41.073+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:11:41.073+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:11:41.076+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:11:41.093+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.025 seconds
+[2023-05-23T22:12:11.455+0700] {processor.py:157} INFO - Started process (PID=37970) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:12:11.455+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:12:11.456+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:12:11.456+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:12:11.457+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:12:11.467+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T22:12:41.762+0700] {processor.py:157} INFO - Started process (PID=38248) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:12:41.763+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:12:41.764+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:12:41.764+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:12:41.765+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:12:41.779+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.018 seconds
+[2023-05-23T22:13:11.860+0700] {processor.py:157} INFO - Started process (PID=38433) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:13:11.860+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:13:11.861+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:13:11.861+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:13:11.862+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:13:11.873+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T22:13:42.013+0700] {processor.py:157} INFO - Started process (PID=38669) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:13:42.013+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:13:42.014+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:13:42.014+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:13:42.015+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:13:42.025+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T22:14:12.413+0700] {processor.py:157} INFO - Started process (PID=38891) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:14:12.413+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:14:12.414+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:14:12.414+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:14:12.415+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:14:12.425+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T22:14:42.678+0700] {processor.py:157} INFO - Started process (PID=39093) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:14:42.678+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:14:42.679+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:14:42.679+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:14:42.680+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:14:42.690+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T22:15:12.857+0700] {processor.py:157} INFO - Started process (PID=39277) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:15:12.858+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:15:12.859+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:15:12.858+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:15:12.860+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:15:12.871+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T22:15:43.095+0700] {processor.py:157} INFO - Started process (PID=39651) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:15:43.095+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:15:43.096+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:15:43.095+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:15:43.097+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:15:43.107+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T22:16:13.323+0700] {processor.py:157} INFO - Started process (PID=40124) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:16:13.324+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:16:13.324+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:16:13.324+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:16:13.326+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:16:13.336+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T22:16:43.666+0700] {processor.py:157} INFO - Started process (PID=40484) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:16:43.667+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:16:43.667+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:16:43.667+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:16:43.669+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:16:43.679+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T22:17:14.059+0700] {processor.py:157} INFO - Started process (PID=40700) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:17:14.059+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:17:14.060+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:17:14.060+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:17:14.061+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:17:14.072+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T22:17:44.210+0700] {processor.py:157} INFO - Started process (PID=40961) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:17:44.211+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:17:44.212+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:17:44.212+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:17:44.213+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:17:44.229+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.021 seconds
+[2023-05-23T22:18:14.760+0700] {processor.py:157} INFO - Started process (PID=41156) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:18:14.761+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:18:14.762+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:18:14.762+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:18:14.764+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:18:14.779+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.021 seconds
+[2023-05-23T22:18:44.947+0700] {processor.py:157} INFO - Started process (PID=41436) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:18:44.948+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:18:44.948+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:18:44.948+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:18:44.950+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:18:44.960+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T22:19:15.304+0700] {processor.py:157} INFO - Started process (PID=41793) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:19:15.305+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:19:15.305+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:19:15.305+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:19:15.307+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:19:15.318+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T22:19:45.716+0700] {processor.py:157} INFO - Started process (PID=42088) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:19:45.716+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:19:45.717+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:19:45.716+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:19:45.718+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:19:45.728+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T22:20:16.053+0700] {processor.py:157} INFO - Started process (PID=42304) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:20:16.053+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:20:16.053+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:20:16.053+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:20:16.055+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:20:16.065+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T22:20:46.384+0700] {processor.py:157} INFO - Started process (PID=42538) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:20:46.384+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:20:46.385+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:20:46.385+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:20:46.387+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:20:46.399+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.018 seconds
+[2023-05-23T22:21:16.897+0700] {processor.py:157} INFO - Started process (PID=42774) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:21:16.898+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:21:16.898+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:21:16.898+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:21:16.900+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:21:16.911+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T22:21:47.271+0700] {processor.py:157} INFO - Started process (PID=43062) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:21:47.271+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:21:47.272+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:21:47.272+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:21:47.274+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:21:47.286+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.018 seconds
+[2023-05-23T22:22:17.582+0700] {processor.py:157} INFO - Started process (PID=43250) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:22:17.583+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:22:17.583+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:22:17.583+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:22:17.585+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:22:17.596+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T22:22:47.693+0700] {processor.py:157} INFO - Started process (PID=43466) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:22:47.694+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:22:47.694+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:22:47.694+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:22:47.695+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:22:47.705+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.013 seconds
+[2023-05-23T22:23:17.897+0700] {processor.py:157} INFO - Started process (PID=43663) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:23:17.898+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:23:17.898+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:23:17.898+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:23:17.900+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:23:17.909+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T22:23:48.194+0700] {processor.py:157} INFO - Started process (PID=44012) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:23:48.194+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:23:48.194+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:23:48.194+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:23:48.196+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:23:48.206+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T22:24:18.690+0700] {processor.py:157} INFO - Started process (PID=44214) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:24:18.690+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:24:18.691+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:24:18.691+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:24:18.693+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:24:18.703+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.016 seconds
+[2023-05-23T22:24:48.836+0700] {processor.py:157} INFO - Started process (PID=44482) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:24:48.836+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:24:48.837+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:24:48.837+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:24:48.838+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:24:48.848+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T22:25:19.316+0700] {processor.py:157} INFO - Started process (PID=44665) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:25:19.316+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:25:19.317+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:25:19.317+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:25:19.318+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:25:19.329+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T22:25:49.701+0700] {processor.py:157} INFO - Started process (PID=44998) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:25:49.702+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:25:49.702+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:25:49.702+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:25:49.704+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:25:49.715+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.016 seconds
+[2023-05-23T22:26:20.088+0700] {processor.py:157} INFO - Started process (PID=45416) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:26:20.089+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:26:20.089+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:26:20.089+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:26:20.091+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:26:20.100+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds
+[2023-05-23T22:26:50.282+0700] {processor.py:157} INFO - Started process (PID=45740) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:26:50.283+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:26:50.283+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:26:50.283+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:26:50.285+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:26:50.295+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T22:27:20.982+0700] {processor.py:157} INFO - Started process (PID=46003) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:27:20.983+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:27:20.983+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:27:20.983+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:27:20.985+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:27:21.002+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.022 seconds
+[2023-05-23T22:27:51.457+0700] {processor.py:157} INFO - Started process (PID=46261) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:27:51.457+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:27:51.458+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:27:51.458+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:27:51.459+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:27:51.470+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.015 seconds
+[2023-05-23T22:28:21.807+0700] {processor.py:157} INFO - Started process (PID=46457) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:28:21.807+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:28:21.808+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:28:21.808+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:28:21.809+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:28:21.821+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.016 seconds
+[2023-05-23T22:28:52.148+0700] {processor.py:157} INFO - Started process (PID=46688) to work on /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:28:52.149+0700] {processor.py:826} INFO - Processing file /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py for tasks to queue
+[2023-05-23T22:28:52.149+0700] {logging_mixin.py:149} INFO - [2023-05-23T22:28:52.149+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:28:52.150+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py
+[2023-05-23T22:28:52.161+0700] {processor.py:179} INFO - Processing /home/nhattrieu/airflow/dags/dag_builder/tasks/get_current_date_factory.py took 0.014 seconds

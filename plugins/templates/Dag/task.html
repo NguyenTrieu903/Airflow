@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>Task</h2>
+
+<form method=post>
+  <button>
+    <a href="/testappbuilderbaseview/task/{{dagid}}/insert">Insert</a>
+  </button>
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Name</th>
+    </tr>
+    {% for task in lst_task %}
+        <tr>
+          <td>{{task.id}}</td>
+          <td>{{task.name}}</td>
+          <td>
+            <button>
+              <a href="/testappbuilderbaseview/task/{{task.id}}/detail">View</a>
+            </button>
+          </td>
+          <td>
+            <button>
+              <a href="/testappbuilderbaseview/task/{{task.id}}/delete">Delete</a>
+            </button>
+          </td>
+          <td>
+            <button>
+              <a href="/testappbuilderbaseview/option/{{task.id}}/view">Option</a>
+            </button>
+          </td>
+        </tr>
+    {% endfor %} 
+  </table>
+</form>
+
+</body>
+</html>

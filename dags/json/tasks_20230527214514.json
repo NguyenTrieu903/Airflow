@@ -1,0 +1,57 @@
+{
+    "tasks": [
+        {
+            "name": "task_name_1",
+            "task_type": "hdfs-sensor",
+            "priority_weight": 1,
+            "pool": "sensor-pool",
+            "upstreams": [],
+            "filepath": "/path/to/folder_on_hdfs/trx_date={date}",
+            "flag": "_SUCCESS",
+            "recursive": false,
+            "min_size": 1,
+            "options": {
+                "number_of_days": 0,
+                "interval": 1,
+                "date": "{{ next_execution_date.strftime('%y%m%d') }}"
+            }
+        },
+        {
+            "name": "task_name_3",
+            "task_type": "hdfs-sensor",
+            "priority_weight": 1,
+            "pool": "sensor-pool",
+            "upstreams": [
+                "task_name_1"
+            ],
+            "filepath": "/path/to/folder_on_hdfs/trx_date={date}",
+            "flag": "_SUCCESS",
+            "recursive": false,
+            "min_size": 1,
+            "options": {
+                "number_of_days": 0,
+                "interval": 1,
+                "date": "{{ next_execution_date.strftime('%y%m%d') }}"
+            }
+        },
+        {
+            "name": "task_name_4",
+            "task_type": "bash",
+            "priority_weight": 1,
+            "pool": "task_name-pool",
+            "upstreams": [
+                "task_name_1",
+                "task_name_3"
+            ],
+            "ignore_failed": false,
+            "command_template": "bash_command_2",
+            "options": {
+                "command_params": {
+                    "date": "{{ next_execution_date.strftime('%y%m%d') }}",
+                    "previous_date": "{{ next_execution_date.strftime('%d%m%y') }}",
+                    "dataset": "msc_detail"
+                }
+            }
+        }
+    ]
+}
