@@ -40,23 +40,23 @@ tr:nth-child(even) {
           <td>{{step.output_format}}</td>
           <td>
             <button>
-              <a href="/etlappbuilderbaseview/actionStep/insert/{{step.id}}">Insert action</a>
+              <a href="/etlbuilderbaseview/actionStep/insert/{{step.id}}">Insert action</a>
             </button>
           </td>
           <td>
             <button>
-              <a href="/etlappbuilderbaseview/ViewAction/{{step.id}}">View action</a>
+              <a href="/etlbuilderbaseview/ViewAction/{{step.id}}">View action</a>
             </button>
           </td>
           <td>
             <button>
-              <a href="/etlappbuilderbaseview/Delete/{{step.id}}">Delete</a>
+              <a href="/etlbuilderbaseview/Delete/{{step.id}}">Delete</a>
             </button>
           </td>
         </tr>
     {% endfor %} 
     <button>
-      <a href="/etlappbuilderbaseview/action/apply/{{etl_id}}">Apply</a>
+      <a href="/etlbuilderbaseview/action/apply/{{etl_id}}">Apply</a>
     </button>
   </table>
 </form>

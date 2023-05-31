@@ -15,7 +15,16 @@ from flask_wtf import Form
 from wtforms.validators import InputRequired, Length
 import json
 
-class ETLAppBuilderBaseView(AppBuilderBaseView):
+bp = Blueprint(
+    "ETL_plugin",
+    __name__,
+    # registers airflow/plugins/templates as a Jinja template folder
+    template_folder="templates",
+    static_folder="static",
+    static_url_path="/static/test_plugin",
+)
+
+class ETLBuilderBaseView(AppBuilderBaseView):
     default_view = "ListETL"
 
     @expose("/", methods=['GET', 'POST'])
@@ -25,7 +34,7 @@ class ETLAppBuilderBaseView(AppBuilderBaseView):
         lst_etl = e.ListETL()
         
         if request.method == 'POST' :
-            return redirect('/etlappbuilderbaseview/etl/insert')
+            return redirect('/etlbuilderbaseview/etl/insert')
         return self.render_template("/ETL/ETL.html", lst_etl=lst_etl)
     
     @expose("/etl/insert", methods=['GET', 'POST'])
@@ -42,6 +51,7 @@ class ETLAppBuilderBaseView(AppBuilderBaseView):
                 et.createFile(et.get_id(et.name))
                 return redirect(url_for('.ListETL'))
         return self.render_template("/ETL/insert_ETL.html")
+
     
     @expose("/etl/delete/<int:id>", methods=['GET', 'POST'])
     # this method gets the view as localhost:/testappbuilderbaseview/
@@ -210,4 +220,23 @@ class ETLAppBuilderBaseView(AppBuilderBaseView):
         #     break
         s.apply(id)
         return redirect(url_for('.ListETL'))
+    
+v_appbuilder_package_etl = ETLBuilderBaseView()
+
+v_appbuilder_package_etl= {
+    "name": "Tao ETL",  # this is the name of the link displayed
+    # This is the name of the tab under which we have our view
+    "category": "Tao plugin",
+    "view": v_appbuilder_package_etl
+}
+
+class AirflowETLPlugin(AirflowPlugin):
+    name = "ETL_plugin"
+    operators = []
+    flask_blueprints = [bp]
+    hooks = []
+    executors = []
+    admin_views = []
+    # appbuilder_views = [v_appbuilder_package, v_appbuilder_package_etl]
+    appbuilder_views = [v_appbuilder_package_etl]
         

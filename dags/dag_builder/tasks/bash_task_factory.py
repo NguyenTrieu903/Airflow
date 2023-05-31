@@ -21,11 +21,7 @@ class BashTaskFactory(AbstractTaskFactory):
     @local_semaphore
     @ignore_failed
     def create_task(cls, dag, task_config, params):
-        if JsonConfigReader.get_property(task_config, COMMAND_TEMPLATE) is None:
-            print('None roi ')
-        # if de_config[JsonConfigReader.get_property(task_config, COMMAND_TEMPLATE)] is None:
-        #     print("None roi")
-        command_template = " ".join(de_config[JsonConfigReader.get_property(task_config, COMMAND_TEMPLATE)])
+        command_template = "".join(de_config[JsonConfigReader.get_property(task_config, COMMAND_TEMPLATE)])
         command_params = JsonConfigReader.get_property(task_config, "{options}.{command_params}"
                                                        .format(options=OPTIONS, command_params=COMMAND_PARAMS))
         command = command_template.format(**command_params)

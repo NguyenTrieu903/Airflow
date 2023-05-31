@@ -1,113 +1,125 @@
-<form action='' method = "POST">
-    <!-- <p>Task type <input type = "text" name = "task_type" id="task_type"/></p> -->
-    <label for="type">Type :</label>
-    <select name="task_type" id="type">
-        {% for type in task.tp %}
-            <option value="{{type}}" >{{type}}</option>
-        {% endfor %}
-    </select>
-    <p>name <input type = "text" name = "name"/></p>
-    <p>Priority weight <input type = "text" name = "priority_weight" /></p>
-    <p>pool <input type = "text" name = "pool" /></p>
-    <div>
-        <span>Upstream</span>
-            {% for upstream in All_Upstream %}
-                <input id="upstream" name="nameUpstream" type="checkbox" value="{{upstream}}"/>
-                <label class="inline" for="upstream">{{upstream}}</label>
-            {% endfor %} 
-    </div>
-
-    <div id="templateContainerCommmand"></div>
-    <br>option: <input type="checkbox" id="option" name="option">
-    <div id="templateContaineroption"></div>
-    <!-- <p>Command template <input type = "text" name = "command_template"/></p> -->
-    <p><input type = "submit" value = "Save" /></p>
-    <button>
-        <a href="/testappbuilderbaseview/task/{{dag_id}}/view">Cancel</a>
-    </button>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <form action='' method = "POST">
+        <!-- <p>Task type <input type = "text" name = "task_type" id="task_type"/></p> -->
+        <label for="type">Type :</label>
+        <select name="task_type" id="type">
+            {% for type in task.tp %}
+                <option value="{{type}}" >{{type}}</option>
+            {% endfor %}
+        </select>
+        <p>name <input type = "text" name = "name"/></p>
+        <p>Priority weight <input type = "text" name = "priority_weight" /></p>
+        <p>pool <input type = "text" name = "pool" /></p>
+        <div>
+            <span>Upstream</span>
+                {% for upstream in All_Upstream %}
+                    <input id="upstream" name="nameUpstream" type="checkbox" value="{{upstream}}"/>
+                    <label class="inline" for="upstream">{{upstream}}</label>
+                {% endfor %} 
+        </div>
+    
+        <div id="templateContainerCommmand"></div>
+        <br>option: <input type="checkbox" id="option" name="option">
+        <div id="templateContaineroption"></div>
+        <!-- <p>Command template <input type = "text" name = "command_template"/></p> -->
+        <p><input type = "submit" value = "Save" /></p>
+        <button>
+            <a href="/dagbuilderbaseview/task/{{dag_id}}/view">Cancel</a>
+        </button>
+        </form>
+        <script>
+    
+            // const tasktype = document.getElementById("type");
+            const Commmand = document.getElementById("templateContainerCommmand");
+            var select = document.getElementById('type');
+            var option = select.options[select.selectedIndex];
+            var txt = option.text
+            select.addEventListener("click", function () {
+            if (select.value === 'bash'){
+                Commmand.innerHTML = `
+                <br><label for="ignore_failed">Ignore failed :</label>
+                <select name="ignore_failed" id="ignore_failed">
+                    <option value="True" selected>True</option>
+                    <option value="False">False</option>
+                </select>
+                <p>Command template <input type = "text" name = "command_template"/></p>
+                `;
+            }else if(select.value === 'hdfs-sensor'){
+                Commmand.innerHTML = `
+                <p>File path <input type = "text" name = "filepath" /></p>
+                <p>Flag <input type = "text" name = "flag" /></p>
+                <label for="Recursive">Recursive:</label>
+                <select name="recursive" id="recursive">
+                    <option value="True" selected>True</option>
+                    <option value="False">False</option>
+                </select>
+                <p>Min size <input type = "text" name = "min_size"/></p>`;
+            }else if (select.value === 'bash-sensor'){
+                Commmand.innerHTML = `<p>Command template <input type = "text" name = "command_template"/></p>`
+            }   
+            });
+            
+            const checkboxoption = document.getElementById("option");
+            const templateContainerOption = document.getElementById("templateContaineroption");
+            checkboxoption.addEventListener("change", () => {
+              if (checkboxoption.checked && select.value === 'hdfs-sensor') {
+                // append the paragraph element to the container
+                templateContainerOption.innerHTML = `
+                <div id="content">
+                    <p>Number of days <input type = "text" name = "number_of_days" /></p>
+                    <p>Interval <input type = "text" name = "interval" /></p>
+                    <label for="date">Date :</label>
+                    <select name="date" id="date">
+                        {% for d in task.Date %}
+                            <option value="{{d.value}}" >{{d.name}}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+              `;
+              } else if (checkboxoption.checked && select.value === 'bash'){
+                // show an empty template
+                templateContainerOption.innerHTML = `
+                <div id="content">
+                    <br><label for="date">Date :</label>
+                    <select name="date" id="date">
+                        {% for d in task.Date %}
+                            <option value="{{d.value}}" >{{d.name}}</option>
+                        {% endfor %}
+                    </select>
+                    <br><br><label for="previousdate">Previous Date :</label>
+                    <select name="previousdate" id="previousdate">
+                        {% for d in task.Date %}
+                            <option value="{{d.value}}" >{{d.name}}</option>
+                        {% endfor %}
+                    </select>
+                    <p>Dataset <input type = "text" name = "dataset" /></p>
+                </div>
+                `;
+              } else if (checkboxoption.checked && select.value === 'bash-sensor'){
+                templateContainerOption.innerHTML = `
+                <div id="content">
+                    <br><label for="date">Date :</label>
+                    <select name="date" id="date">
+                        {% for d in task.Date %}
+                            <option value="{{d.value}}" >{{d.name}}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                `;
+              }else{
+                templateContainerOption.innerHTML = "";
+              }
+            });
+        </script>
     </form>
-    <script>
-
-        // const tasktype = document.getElementById("type");
-        const Commmand = document.getElementById("templateContainerCommmand");
-        var select = document.getElementById('type');
-	    var option = select.options[select.selectedIndex];
-        var txt = option.text
-        select.addEventListener("click", function () {
-        if (select.value === 'bash'){
-            Commmand.innerHTML = `
-            <br><label for="ignore_failed">Ignore failed :</label>
-            <select name="ignore_failed" id="ignore_failed">
-                <option value="True" selected>True</option>
-                <option value="False">False</option>
-            </select>
-            <p>Command template <input type = "text" name = "command_template"/></p>
-            `;
-        }else if(select.value === 'hdfs-sensor'){
-            Commmand.innerHTML = `
-            <p>File path <input type = "text" name = "filepath" /></p>
-            <p>Flag <input type = "text" name = "flag" /></p>
-            <label for="Recursive">Recursive:</label>
-            <select name="recursive" id="recursive">
-                <option value="True" selected>True</option>
-                <option value="False">False</option>
-            </select>
-            <p>Min size <input type = "text" name = "min_size"/></p>`;
-        }else if (select.value === 'bash-sensor'){
-            Commmand.innerHTML = `<p>Command template <input type = "text" name = "command_template"/></p>`
-        }   
-        });
-        
-        const checkboxoption = document.getElementById("option");
-        const templateContainerOption = document.getElementById("templateContaineroption");
-        checkboxoption.addEventListener("change", () => {
-          if (checkboxoption.checked && select.value === 'hdfs-sensor') {
-            // append the paragraph element to the container
-            templateContainerOption.innerHTML = `
-            <div id="content">
-                <p>Number of days <input type = "text" name = "number_of_days" /></p>
-                <p>Interval <input type = "text" name = "interval" /></p>
-                <label for="date">Date :</label>
-                <select name="date" id="date">
-                    {% for d in task.Date %}
-                        <option value="{{d.value}}" >{{d.name}}</option>
-                    {% endfor %}
-                </select>
-            </div>
-          `;
-          } else if (checkboxoption.checked && select.value === 'bash'){
-            // show an empty template
-            templateContainerOption.innerHTML = `
-            <div id="content">
-                <br><label for="date">Date :</label>
-                <select name="date" id="date">
-                    {% for d in task.Date %}
-                        <option value="{{d.value}}" >{{d.name}}</option>
-                    {% endfor %}
-                </select>
-                <br><br><label for="previousdate">Previous Date :</label>
-                <select name="previousdate" id="previousdate">
-                    {% for d in task.Date %}
-                        <option value="{{d.value}}" >{{d.name}}</option>
-                    {% endfor %}
-                </select>
-                <p>Dataset <input type = "text" name = "dataset" /></p>
-            </div>
-            `;
-          } else if (checkboxoption.checked && select.value === 'bash-sensor'){
-            templateContainerOption.innerHTML = `
-            <div id="content">
-                <br><label for="date">Date :</label>
-                <select name="date" id="date">
-                    {% for d in task.Date %}
-                        <option value="{{d.value}}" >{{d.name}}</option>
-                    {% endfor %}
-                </select>
-            </div>
-            `;
-          }else{
-            templateContainerOption.innerHTML = "";
-          }
-        });
-    </script>
-</form>
+</body>
+</html>

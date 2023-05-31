@@ -1,0 +1,8 @@
+{
+    "bash_command_2": [
+        "/home/nhattrieu/airflow/dags/configure/bash_command_2.json"
+    ],
+    "bash_command_1": [
+        "/home/nhattrieu/airflow/dags/configure/bash_command_1.json"
+    ]
+}

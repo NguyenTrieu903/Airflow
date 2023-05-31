@@ -15,15 +15,15 @@ default_args = {
     'retry_delay': timedelta(minutes=2)
 }
 
-dag = DAG('tasks_20230527',
+dag = DAG('tasks_20230531',
           default_args=default_args,
           schedule_interval=timedelta(1),
           max_active_runs=1,
           start_date=datetime.datetime(2022, 5, 5),
           end_date=datetime.datetime(2023, 12, 31))
 
-config_file = "dags/json/tasks_20230527214514.json"
+config_file = "/home/nhattrieu/airflow/dags/json/tasks_20230531113552.json"
 print("===============Processing: {config_file}================".format(config_file=config_file))
 
-flow_builder = GraphFlowBuilder(dag=dag, task_id="tasks_20230527", flow_file_name=config_file)
+flow_builder = GraphFlowBuilder(dag=dag, task_id="tasks_20230531", flow_file_name=config_file)
 check_daily_datasets = flow_builder.create_flow()

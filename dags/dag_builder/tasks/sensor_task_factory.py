@@ -167,7 +167,7 @@ class BashSensorTaskFactory(AbstractTaskFactory):
 
     @classmethod
     def create_task(cls, dag, task_config, params):
-        command_template = " ".join(de_config[JsonConfigReader.get_property(task_config, COMMAND_TEMPLATE)])
+        command_template = "".join(de_config[JsonConfigReader.get_property(task_config, COMMAND_TEMPLATE)])
         command_params = JsonConfigReader.get_property(task_config, "{options}.{command_params}"
                                                        .format(options=OPTIONS, command_params=COMMAND_PARAMS))
         command = command_template.format(**command_params)

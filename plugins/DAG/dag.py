@@ -77,11 +77,11 @@ class Dag():
         old_py = old_py.replace(".py","")
 
         path_new_name = "dags/{newName}".format(newName=new_name)
-        path_old_json = "dags/json/{olname}".format(olname=old_json)
+        path_old_json = "/home/nhattrieu/airflow/dags/json/{olname}".format(olname=old_json)
         fin = open(path_new_name, "rt")
         data = fin.read()
 
-        path_json_new = "dags/json/{new_file}".format(new_file=new_json)
+        path_json_new = "/home/nhattrieu/airflow/dags/json/{new_file}".format(new_file=new_json)
 
         data = data.replace(path_old_json, path_json_new)
         data = data.replace(old_py, newname)
@@ -154,7 +154,7 @@ class Dag():
         #read file contents to string
         data = fin.read()
         #replace all occurrences of the required string
-        path_json_file = 'dags/json/{json_file}'.format(json_file=json_file)
+        path_json_file = '/home/nhattrieu/airflow/dags/json/{json_file}'.format(json_file=json_file)
         data = data.replace('/path/to/to/dagName_YYYYmmddHH.json', path_json_file)
         dag_file1 = "{dag_name}_{date1}".format(dag_name=dag_name, date1=date1)
         data = data.replace('dagName_YYYYmmdd', dag_file1)
@@ -251,14 +251,18 @@ class Dag():
         # for commad in lst_command:
         #     lst = list(commad)
         dict = {}
-        value= "A_bash_command_or_script  /path/on_hdfs/or_on_file_system/upto_date={date}".format(date=datetime.today().strftime('%Y-%m-%d'))
-        lis_val = [value]
+        # value= "A_bash_command_or_script  /path/on_hdfs/or_on_file_system/upto_date={date}".format(date=datetime.today().strftime('%Y-%m-%d'))
+        # value= "{path}".format()
+        # lis_val = [value]
         for bash in command_tempaltes:
             str1 = ''.join(bash)
+            path="/home/nhattrieu/airflow/dags/configure/{name}.json".format(name=str1)
+            # value= "{path}".format()
+            lis_val = [path]
             dict[str1] = lis_val
         file = self.select_configFile(id_dag)
         file = "dags/configure_bash/{file}".format(file=file)
-        print(file)
+        # print(file)
         # f = open(file, "w")
         dict = json.dumps(dict)
         with open(file, "w") as fp2:

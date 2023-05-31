@@ -3,6 +3,7 @@ from datetime import datetime
 import json
 import os
 import re
+import glob
 
 class ETL():
     def __init__(self, id=None, name=None):
@@ -27,9 +28,30 @@ class ETL():
     
     def deleteEtl(self, id):
         conn = Connect()
+        name = self.get_Name(id)
+        file_conf_name = self.getFileConf(name)
+        file_conf_path = "dags/configure/{name}".format(name=file_conf_name)
+        os.remove(file_conf_path)
+
         delete_etl = """DELETE FROM ETL WHERE id = %s"""
         id_etl = (id,)
         conn.Insert_item(delete_etl, id_etl)
+    
+    # def updateETL(self, etl):
+    #     conn = Connect()
+    #     updateDag = """update ETL set name = %s where id = %s"""
+    #     value = (Dag.name, Dag.id)
+    #     conn.Insert_item(updateDag, value)
+
+
+    def getFileConf(self, name):
+        src = "{name}.json".format(name=name)
+        path = "dags/configure"
+        dir_list = os.listdir(path)
+        for file in dir_list:
+            if bool(re.match(src, file)):
+                print(file)
+                return file
     
     def get_Step(self, id):
         conn = Connect()
@@ -54,16 +76,18 @@ class ETL():
      
     def createFile(self, id_etl):
         name = self.get_Name(id_etl)
-        etl_file = "{etl_name}.conf".format(etl_name=name)
-        f = open(etl_file, "w")
+        # etl_file = "{etl_name}.conf".format(etl_name=name)
+        path_abs =  "dags/configure/{name}.json".format(name=name)
+        f = open(path_abs, "w")
         f.close()
 
     def getFileName(self, name):
-        src = "{etl_name}.conf".format(etl_name=name)
-        path = "/opt/airflow"
+        src = "{etl_name}.json".format(etl_name=name)
+        path = "dags/configure"
         dir_list = os.listdir(path)
         for file in dir_list:
             if bool(re.match(src, file)):
+                print(file)
                 return file
     
 

@@ -73,7 +73,8 @@ class Step():
         for n in Alloption:
             lst_name = list(n)
             for name_etl in lst_name:
-                lst.append(name_etl)
+                conf_name_etl = "conf.{name}".format(name=name_etl)
+                lst.append(conf_name_etl)
         return lst
     
     def action_option_id(self, step_id):
@@ -348,9 +349,10 @@ class Step():
             lst_dict.append(res)
 
         dict_res_final={"com.nineoneonedata.spark":lst_dict}
-
+        print(dict_res_final)
         # Dict = {'com.nineoneonedata.spark':}
         filename = e.getFileName(e.get_Name(id_etl))
+        filename = "dags/configure/{name}".format(name=filename)
         with open(filename, 'w') as convert_file:
                 convert_file.write(json.dumps(dict_res_final))
     def clearDic(self, my_dict):

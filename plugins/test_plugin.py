@@ -11,10 +11,10 @@ from wtforms import StringField, BooleanField, IntegerField, DateField
 from flask_wtf import Form
 from wtforms.validators import InputRequired, Length
 import json
-from ETL_plugin import ETLAppBuilderBaseView
+# from ETL_plugin import ETLAppBuilderBaseView
 
 bp = Blueprint(
-    "test_plugin",
+    "DAG_plugin",
     __name__,
     # registers airflow/plugins/templates as a Jinja template folder
     template_folder="templates",
@@ -22,7 +22,7 @@ bp = Blueprint(
     static_url_path="/static/test_plugin",
 )
 
-class TestAppBuilderBaseView(AppBuilderBaseView):
+class DAGBuilderBaseView(AppBuilderBaseView):
 
     default_view = "ListDag"
 
@@ -32,7 +32,7 @@ class TestAppBuilderBaseView(AppBuilderBaseView):
         d = Dag()   
         lst_dag = d.ListDag()
         if request.method == 'POST' :
-            return redirect('/testappbuilderbaseview/insertDag')
+            return redirect('/dagbuilderbaseview/insertDag')
         return self.render_template("/Dag/dag.html", lst_dag=lst_dag)
     
     @expose("/insertDag", methods=['GET', 'POST'])
@@ -42,20 +42,19 @@ class TestAppBuilderBaseView(AppBuilderBaseView):
         if request.method == 'POST' :
             name = request.form.get('name')
             if name == "":
-                return redirect('/testappbuilderbaseview/')
+                return redirect('/dagbuilderbaseview/')
             else:
                 dag = Dag(None,name)
 
                 dag.InsertDag(dag)
                 dag.createFile(dag.name)
                 dag.saveFile(dag.name)
-                return redirect('/testappbuilderbaseview/')
+                return redirect('/dagbuilderbaseview/')
         return self.render_template("/Dag/insertDag.html")
 
     @expose("/dag/<int:id>/update", methods=['GET', 'POST'])
     @csrf.exempt  # if we don’t want to use csrf
     def UpdateDag(self, id):
-        
         d = Dag()
         t = Task()
         dag = d.SelectDag(id)
@@ -68,7 +67,7 @@ class TestAppBuilderBaseView(AppBuilderBaseView):
             new_dag.UpdateDag(new_dag)
             new_dag.changeFile(name, old_dag.name, old_py, old_json)
             t.parse_json(id)
-            return redirect('/testappbuilderbaseview/')
+            return redirect('/dagbuilderbaseview/')
         return self.render_template("/Dag/updateDag.html", old_dag=old_dag)
 
     @expose("/dag/<int:id>/delete", methods=['GET', 'POST'])
@@ -79,7 +78,7 @@ class TestAppBuilderBaseView(AppBuilderBaseView):
         lst_task = d.SelectAllTask(id)
         if not lst_task:
             d.DeleteDag(id)
-            return redirect('/testappbuilderbaseview/')
+            return redirect('/dagbuilderbaseview/')
         else:
             id = id
             return redirect(url_for('.ListTask', id=id))
@@ -102,7 +101,7 @@ class TestAppBuilderBaseView(AppBuilderBaseView):
         return self.render_template("/Dag/detailTask.html", task=task, id_dag = id_dag)
 
     @expose("/task/<int:id>/insert", methods=['GET', 'POST'])
-    # this method gets the view as localhost:/testappbuilderbaseview/
+    # this method gets the view as localhost:/dagbuilderbaseview/
     @csrf.exempt  # if we don’t want to use csrf
     def insertTask(self, id):
         t = Task()
@@ -313,26 +312,21 @@ class TestAppBuilderBaseView(AppBuilderBaseView):
         return self.render_template("/Dag/updateOption.html", type = type, command=command, option=paramOp, task=t)
 
 
-v_appbuilder_view = TestAppBuilderBaseView()
-v_appbuilder_package_etl = ETLAppBuilderBaseView()
+v_appbuilder_view = DAGBuilderBaseView()
+# v_appbuilder_package_etl = ETLAppBuilderBaseView()
 v_appbuilder_package = {
-    "name": "Tao view",  # this is the name of the link displayed
+    "name": "Tao DAG",  # this is the name of the link displayed
     # This is the name of the tab under which we have our view
     "category": "Tao plugin",
     "view": v_appbuilder_view
 }
-v_appbuilder_package_etl= {
-    "name": "Tao ETL",  # this is the name of the link displayed
-    # This is the name of the tab under which we have our view
-    "category": "Tao plugin",
-    "view": v_appbuilder_package_etl
-}
 
-class AirflowTestPlugin(AirflowPlugin):
-    name = "test_plugin"
+class AirflowDAGPlugin(AirflowPlugin):
+    name = "DAG_plugin"
     operators = []
     flask_blueprints = [bp]
     hooks = []
     executors = []
     admin_views = []
-    appbuilder_views = [v_appbuilder_package, v_appbuilder_package_etl]
+    # appbuilder_views = [v_appbuilder_package, v_appbuilder_package_etl]
+    appbuilder_views = [v_appbuilder_package]

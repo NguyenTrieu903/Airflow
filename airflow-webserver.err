@@ -1,0 +1,1 @@
+/home/nhattrieu/Documents/airflow_workspace/airflow_env/lib/python3.10/site-packages/requests/__init__.py:102 RequestsDependencyWarning: urllib3 (1.26.9) or chardet (5.1.0)/charset_normalizer (2.0.12) doesn't match a supported version!

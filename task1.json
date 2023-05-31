@@ -1,0 +1,1 @@
+{"com.nineoneonedata.spark": [{"hr_detail": {"input": {"format": "parquet", "options": {"streaming": false}}, "actions": [{"plan": "transform", "exprs": ["cast(substring(event_date", " 1", " 8) as string) as trx_date"], "cols": ["trx_date"]}]}}]}
